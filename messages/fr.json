@@ -1,0 +1,615 @@
+{
+  "common": {
+    "brand": "Arabian Eagle International",
+    "tagline": "Rend les Voyages Plus Faciles",
+    "readMore": "Lire la Suite",
+    "joinNow": "Rejoignez Maintenant",
+    "learnMore": "En Savoir Plus",
+    "getStarted": "Commencer",
+    "contactUs": "Contactez-nous",
+    "copyright": "Arabian Eagle International © 2011",
+    "legalNotice": "Mention Légale"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos d'AE",
+    "cards": "Cartes AE",
+    "priorityPass": "Priority Pass",
+    "services": "Services",
+    "join": "Nous Rejoindre",
+    "contact": "Contacts",
+    "experiences": "Expérience de Voyage",
+    "hotels": "Demander les Tarifs Hôteliers",
+    "deals": "Offres Vacances",
+    "login": "Connexion",
+    "register": "S'inscrire"
+  },
+  "home": {
+    "hero": {
+      "title": "Rend les Voyages",
+      "titleHighlight": "Plus Faciles",
+      "subtitle": "La carte ARABIAN EAGLE INT'L a été spécialement développée pour minimiser les problèmes des voyageurs internationaux fréquents, tout en réduisant les coûts sur les principaux services.",
+      "ctaPrimary": "Rejoignez Maintenant",
+      "ctaSecondary": "En Savoir Plus"
+    },
+    "stats": {
+      "hotels": "1 145 000+",
+      "hotelsLabel": "Hôtels dans le Monde",
+      "lounges": "850+",
+      "loungesLabel": "Salons VIP",
+      "countries": "120+",
+      "countriesLabel": "Pays",
+      "discount": "75%",
+      "discountLabel": "Jusqu'à de Réduction"
+    },
+    "benefits": {
+      "title": "Avantages Membres Exclusifs",
+      "subtitle": "Profitez de services de voyage premium à des prix imbattables",
+      "hotelTitle": "Réductions Hôtelières",
+      "hotelDesc": "Accès à plus de 1 145 000 hôtels dans le monde avec jusqu'à 75% de réduction sur les tarifs principaux",
+      "loungeTitle": "Salons d'Aéroport",
+      "loungeDesc": "850+ salons VIP dans les principaux aéroports de plus de 120 pays, quelle que soit votre compagnie aérienne",
+      "carTitle": "Location de Voitures",
+      "carDesc": "Économisez jusqu'à 30% sur la location de voitures pour tous vos voyages dans le monde",
+      "cardTitle": "MasterCard",
+      "cardDesc": "Carte de débit prépayée Arabian Eagle MasterCard avec privilèges membres exclusifs"
+    },
+    "promotion": {
+      "title": "Offre Spéciale",
+      "freePass": "Priority Pass GRATUIT pendant un an",
+      "withFirstTrip": "Avec le premier VOYAGE"
+    },
+    "howItWorks": {
+      "title": "Comment ça Marche",
+      "step1Title": "Adhésion",
+      "step1Desc": "Inscrivez-vous et obtenez votre identifiant utilisateur et mot de passe",
+      "step2Title": "Réservez et Économisez",
+      "step2Desc": "Accédez aux réductions exclusives sur les hôtels, salons et locations de voitures",
+      "step3Title": "Voyagez Facilement",
+      "step3Desc": "Profitez de services premium et rendez votre voyage confortable avec moins de dépenses"
+    },
+    "cta": {
+      "title": "Commencez à Économiser sur Votre Prochain Voyage",
+      "description": "Inscrivez-vous et obtenez votre identifiant utilisateur et mot de passe dès maintenant pour accéder au site pour obtenir tous les détails des avantages et commencer à économiser aujourd'hui!",
+      "button": "Créer un Compte"
+    }
+  },
+  "about": {
+    "title": "À Propos d'Arabian Eagle",
+    "subtitle": "Votre partenaire de confiance pour les voyages internationaux",
+    "whatIsAE": {
+      "title": "Qu'est-ce qu'Arabian Eagle",
+      "description1": "Arabian Eagle International n'est pas seulement une nouvelle façon de promouvoir votre entreprise et vos services, mais elle est unique en étant, en fait, la première société de cartes spécialisée dans le service des voyageurs de la péninsule arabique et d'autres pays arabes, vous offrant ainsi la possibilité d'atteindre un large public à revenu élevé.",
+      "description2": "Dans plusieurs domaines, elle est similaire à d'autres cartes de voyage, largement utilisées en termes de services et d'avantages offerts à la fois au titulaire de la carte et à la société de fourniture. Mais ce qui diffère, c'est qu'Arabian Eagle International a établi et conçu ses services pour l'un des revenus disponibles les plus élevés au monde pour chaque marché individuellement... spécifiquement le monde arabe, en particulier la péninsule arabique.",
+      "description3": "Ces dernières années, les Arabes et les immigrants dans le monde arabe sont devenus des voyageurs internationaux fréquents qui utilisent les hôtels et les sociétés de location de voitures plus que leurs homologues dans d'autres régions géographiques. En fait, les voyageurs du monde arabe dépensent plus de cent dix milliards de dollars américains par an pour les voyages. C'est le marché qu'Arabian Eagle International vous offre pour promouvoir votre propre entreprise.",
+      "description4": "Et vous, en tant que partenaire commercial, pouvez bénéficier de la vision commerciale d'Arabian Eagle et des services fournis à nos membres une fois que vous devenez partenaire. Tout ce que vous avez à faire est de nous donner des informations sur votre entreprise, vos services et vos offres en tant que partenaire, et nous veillerons à ce que vos objectifs commerciaux et les aspirations de votre entreprise soient atteints avec une croissance commerciale qui dépasse vos attentes.",
+      "description5": "Le vaste programme de membres et notre capacité à pénétrer les marchés ont fait de nous l'une des meilleures entreprises pionnières dans l'industrie du voyage. Nos membres, qui dépassent les vingt-huit mille, profitent d'un certain nombre de services et la plupart d'entre eux sont avec nous depuis la création de notre entreprise. En devenant partenaire commercial, vous augmenterez votre base de clients grâce à nos 42 000 membres, utiliserez notre équipe de marketing dédiée aux membres et nos installations pour promouvoir vos services. Une étape majeure dans le développement commercial qui prendrait normalement des années à réaliser, vous pouvez maintenant l'accomplir en quelques clics de souris.",
+      "description6": "Arabian Eagle International vise à améliorer ses services pour ses membres affiliés et à accroître ses alliances commerciales de divers pays du monde. Arabian Eagle International a gagné la confiance et la fidélité de ses membres et maintient sa croissance commerciale stable et stricte, mais c'est aussi ce que vous ferez en tant que partenaire commercial. Arabian Eagle ne bénéficiera pas de vous en tant que membre autant que vous en bénéficierez."
+    },
+    "companyOverview": {
+      "title": "Aperçu de l'Entreprise",
+      "description1": "Arabian Eagle International pour les services touristiques a été créée en 1986 pour agir en tant que groupe de négociation au nom des hommes d'affaires et des VIP qui voyagent constamment.",
+      "description2": "Arabian Eagle International Card est considérée comme pionnière dans l'industrie du voyage et est innovante dans la façon de servir et de divertir les voyageurs au coût le plus bas possible.",
+      "description3": "Maintenant, avec la technologie moderne et l'entrée d'Internet dans les foyers et les bureaux, Arabian Eagle International a placé toute cette technologie entre les mains des membres et des partenaires, que ce soit à la maison ou au travail et dans leurs bureaux.",
+      "description4": "Cette opportunité convient aux membres et aux partenaires pour accéder à tous les besoins de voyage via un réseau technologique avancé. En même temps, ils bénéficient du coût unique le plus bas pour voyager n'importe où dans le monde.",
+      "description5": "De plus, Arabian Eagle offre à ses membres des offres qui soutiennent les services de leurs propres bureaux ou des bureaux de leurs partenaires commerciaux.",
+      "description6": "L'adhésion est destinée aux personnes comme vous, qui sont considérées comme des leaders dans les affaires internationales et la communauté professionnelle dans la gestion et l'organisation de leurs voyages de manière confortable tout en réduisant les dépenses de voyage sans compromettre le confort requis pendant le voyage.",
+      "description7": "De là, nous avons fourni ce que nous pouvons pour aider le voyageur à surmonter les obstacles et à éviter les désagréments et la perte de temps et vous fournir la meilleure qualité de services distingués pour chaque dollar que vous dépensez car c'est une question d'une grande importance en ces temps de difficultés financières mondiales.",
+      "description8": "Où que vous voyagiez, vous pouvez être assuré qu'une large gamme de documents d'assurance est exclusivement dédiée à vous protéger ainsi que vos personnes à charge, et les privilèges internationaux exclusifs mentionnés dans ce guide continueront de s'étendre pour suivre le rythme de vos exigences à chaque voyage et tout le temps sans se fatiguer de ceux qui vous servent à la direction d'Arabian Eagle International ou de toute entreprise coopérant avec nous pour fournir leurs services à l'échelle internationale.",
+      "description9": "En plus de cela, vous pouvez contribuer à y parvenir en soumettant vos suggestions afin que nous puissions fournir la meilleure façon d'aider tous les clients chez Arabian Eagle International en diffusant l'information à vos amis et partenaires de voyage.",
+      "description10": "Cela conduira à élargir l'adhésion et à augmenter le pouvoir de négociation, ce qui signifie à son tour augmenter et améliorer les avantages."
+    },
+    "stats": {
+      "title": "Informations Clés",
+      "founded": "Entreprise Fondée",
+      "foundedYear": "1986",
+      "members": "Total des Membres",
+      "membersCount": "42 000+",
+      "market": "Marché Cible",
+      "marketDesc": "Voyageurs de la Péninsule Arabique et du Monde Arabe",
+      "spending": "Dépenses Annuelles",
+      "spendingAmount": "110+ Milliards $"
+    },
+    "partnership": {
+      "title": "Opportunités de Partenariat",
+      "subtitle": "Quel est le coût et quels sont les avantages de rejoindre le plan de développement commercial d'Arabian Eagle International?",
+      "noCost": "En fait, il n'y a aucun coût ni dépense financière pour rejoindre le plan d'Arabian Eagle International.",
+      "formInstruction": "Tout ce que vous avez à faire est de remplir le formulaire et de remplir les champs et de répondre aux différentes questions liées à votre entreprise et aux services spéciaux et privilèges qui peuvent être offerts aux membres et détenteurs de cartes d'Arabian Eagle International, puis de nous le retourner à l'adresse mentionnée.",
+      "benefits": {
+        "title": "Que vous offrira Arabian Eagle International en retour?",
+        "benefit1": "Ajout automatique du nom de votre établissement avec tous les détails dans notre système",
+        "benefit2": "Distribution du nom de votre établissement à tous les détenteurs de cartes Arabian Eagle International",
+        "benefit3": "Ajout automatique à la liste des services de conseil",
+        "benefit4": "Accès à plus de 42 000 membres potentiels"
+      }
+    },
+    "cta": {
+      "title": "Intéressé à Rejoindre?",
+      "description": "Si vous êtes intéressé à rejoindre Arabian Eagle International ou si vous avez besoin de plus d'informations, veuillez nous contacter.",
+      "button": "Contactez-nous Maintenant"
+    }
+  },
+  "cards": {
+    "title": "Cartes Arabian Eagle",
+    "subtitle": "Choisissez la carte qui correspond à vos besoins de voyage",
+    "intro": {
+      "title": "Arabian Eagle International",
+      "subtitle": "Pas seulement une nouvelle façon de promouvoir votre entreprise et vos services, mais vraiment unique",
+      "highlights": {
+        "founded": "Fondée en 1986",
+        "pioneer": "Pionnier de l'Industrie du Voyage",
+        "technology": "Technologie Moderne Avancée",
+        "lowCost": "Coûts de Voyage les Plus Bas",
+        "insurance": "Couverture d'Assurance Complète",
+        "noCost": "Sans Frais d'Adhésion",
+        "members": "42 000+ Membres"
+      }
+    },
+    "membership": {
+      "title": "Carte de Membre",
+      "description": "L'adhésion VIP d'Arabian Eagle, délivrée par Arabian Eagle International pour les services touristiques, offre à ses clients le plus haut niveau de services, non seulement des économies financières, mais rend également leurs voyages plus faciles et plus pratiques.",
+      "learnMore": "En Savoir Plus"
+    },
+    "priorityPass": {
+      "title": "Carte Priority Pass",
+      "description": "Pour le confort des détenteurs de cartes Arabian Eagle International pendant leurs voyages, des arrangements ont été pris avec Priority Pass pour accorder à tous les clients d'Arabian Eagle International la carte Priority Pass internationale afin de garantir leur entrée dans 850 salons d'affaires dans les aéroports internationaux de plus de 400 villes et 120 pays du monde, quelle que soit la classe de voyage ou la compagnie aérienne.",
+      "lounges": "850 Salons",
+      "cities": "400+ Villes",
+      "countries": "120+ Pays",
+      "learnMore": "En Savoir Plus"
+    },
+    "partners": {
+      "title": "Carte Partenaires Arabian Eagle",
+      "subtitle": "Le Meilleur Moyen de Réduire Vos Dépenses d'Achat",
+      "description": "Rendez vos achats agréables en utilisant la carte Partenaires Arabian Eagle - Super Économies. Elle vous offre un large choix parmi de nombreux centres commerciaux, magasins, supermarchés, restaurants, magasins de vêtements et sociétés de location de voitures haut de gamme, le tout à portée de main pendant une année complète que vous obtenez gratuitement lorsque vous obtenez la carte Arabian Eagle International.",
+      "freeYear": "Gratuit pour Une Année Complète",
+      "learnMore": "En Savoir Plus"
+    },
+    "mastercard": {
+      "title": "Arabian Eagle International MasterCard",
+      "description": "La carte Arabian Eagle fonctionne comme toute autre carte de crédit, sauf que vous seul déterminez combien vous dépensez grâce à votre pré-dépôt. Maintenant, vous pouvez facilement commander votre propre Arabian Eagle International MasterCard via notre site Web, car la Arabian Eagle International MasterCard vous donne la liberté de faire vos achats où vous voulez en ligne et dans les points de vente et magasins du monde entier.",
+      "features": {
+        "title": "Caractéristiques de la Carte",
+        "prepaid": "Carte de débit prépayée",
+        "control": "Dépenses contrôlées par pré-dépôt",
+        "worldwide": "Acceptée dans le monde entier",
+        "onlineShopping": "Liberté d'acheter en ligne"
+      },
+      "learnMore": "En Savoir Plus"
+    }
+  },
+  "priorityPass": {
+    "title": "Adhésion Priority Pass Arabian Eagle",
+    "subtitle": "Le Plus Grand Programme Mondial Indépendant",
+    "description": "Il s'agit du plus grand programme mondial indépendant permettant à tous les clients d'Arabian Eagle d'éviter le bruit des aéroports bondés en accédant à plus de 850 salons VIP dans les aéroports internationaux du monde entier, rendant vos temps d'attente dans les aéroports pleins de luxe, de calme et de tranquillité d'esprit jusqu'au moment de l'embarquement. Vous profiterez de l'accès aux salons où que vous soyez, quelle que soit la classe de voyage ou la compagnie aérienne avec laquelle vous voyagez.",
+    "stats": {
+      "lounges": "850+",
+      "loungesLabel": "Salons dans le Monde",
+      "countries": "120+",
+      "countriesLabel": "Pays",
+      "cities": "400+",
+      "citiesLabel": "Villes"
+    },
+    "howToUse": {
+      "title": "Comment Utiliser Priority Pass",
+      "step1": "Avant de voyager, les voyageurs peuvent consulter les salons du pays où ils se rendent en recherchant dans le répertoire disponible sur le site Web",
+      "step2": "À l'arrivée, présentez votre carte au personnel de réception du salon sélectionné",
+      "step3": "Un membre du personnel du salon sera ravi de fournir ses services et de vous diriger vers ce dont chaque voyageur a besoin jusqu'à l'heure de l'embarquement",
+      "step4": "Les détenteurs de cartes profiteront de rafraîchissements gratuits, de journaux, de télévision. De plus, il y a accès aux installations d'affaires, y compris téléphone, fax, services de conférence et internet"
+    },
+    "benefits": {
+      "title": "Avantages de l'Adhésion Priority Pass",
+      "peaceAndCalm": {
+        "title": "Paix et Calme",
+        "description": "Les aéroports sont des endroits bondés qui créent du stress et de l'inconfort. La meilleure façon de se débarrasser de ce stress est d'entrer dans l'un des salons luxueux en attendant votre vol. L'adhésion Priority Pass vous permet de profiter de l'accès à ces salons et de bénéficier de leurs services lors de vos voyages à tout moment, quelle que soit votre classe de vol ou la compagnie aérienne avec laquelle vous traitez"
+      },
+      "worldwide": {
+        "title": "Salons Partout dans le Monde",
+        "description": "Nous avons de nombreux salons d'affaires, vous pouvez donc accéder à plus de 850 salons dans plus de 120 pays et plus de 400 villes, y compris les aéroports les plus importants du Moyen-Orient, en particulier les aéroports d'Arabie Saoudite et du Golfe Arabique"
+      }
+    },
+    "features": {
+      "title": "Services Disponibles dans les Salons",
+      "feature1": "Rafraîchissements gratuits, journaux et télévision",
+      "feature2": "Accès aux installations d'affaires",
+      "feature3": "Utilisation du téléphone, fax et services de conférence",
+      "feature4": "Services Internet et email",
+      "feature5": "Variété de collations et de boissons",
+      "feature6": "Entrée quelle que soit la classe de billet ou la compagnie aérienne"
+    },
+    "companion": {
+      "title": "Accès des Compagnons",
+      "description": "Ce service distingué n'est pas seulement pour vous, mais pour les compagnons avec vous tels que les membres de la famille, les amis ou l'un de vos proches, et ils bénéficient des mêmes avantages mentionnés pour des frais nominaux de 27 $ USD, ce qui n'est pas beaucoup compte tenu de ces privilèges",
+      "fee": "27 $ USD par compagnon"
+    },
+    "keyAccess": {
+      "title": "Clé d'Accès aux Salons VIP dans le Monde Entier",
+      "description": "La carte Arabian Eagle International est la clé pour accéder aux salons VIP dans le monde entier, rendant vos temps d'attente dans les aéroports pleins de luxe, de calme et de tranquillité d'esprit jusqu'au moment de l'embarquement"
+    },
+    "freeOffer": {
+      "title": "GRATUIT pendant Un An",
+      "subtitle": "Avec le Premier Voyage"
+    },
+    "amenities": {
+      "title": "Commodités du Salon",
+      "wifi": "WiFi haut débit",
+      "food": "Nourriture et boissons gratuites",
+      "showers": "Douches",
+      "meeting": "Salles de réunion",
+      "comfort": "Sièges confortables",
+      "newspaper": "Journaux et magazines",
+      "tv": "Télévision",
+      "business": "Installations d'affaires"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions de voyage complètes pour nos membres",
+    "stats": {
+      "hotels": "1 145 000+",
+      "hotelsLabel": "Hôtels dans le Monde",
+      "customers": "3+ Millions",
+      "customersLabel": "Clients de Confiance",
+      "reviews": "1-2 Millions+",
+      "reviewsLabel": "Avis Annuels",
+      "freeNights": "1 000+",
+      "freeNightsLabel": "Nuits Gratuites",
+      "cities": "22 000+",
+      "citiesLabel": "Villes"
+    },
+    "facilities": {
+      "title": "Installations",
+      "hotelDiscounts": {
+        "title": "Réductions sur les Tarifs Hôteliers",
+        "description": "Tarifs spéciaux réduits avec des réductions de plus de 50% jusqu'à 75% sur les tarifs des chambres dans une large sélection d'hôtels internationaux, qui sont considérés comme moins de la moitié de la valeur des tarifs réguliers pour ces hôtels."
+      },
+      "freeBooking": {
+        "title": "Services de Réservation Gratuits dans les Hôtels Internationaux",
+        "description": "En contactant le bureau Arabian Eagle International le plus proche, les membres peuvent bénéficier de services de réservation gratuits dans tous les hôtels"
+      },
+      "vipPrivileges": {
+        "title": "Privilèges VIP et Enregistrement à l'Hôtel le Plus Rapide",
+        "description": "Arabian Eagle International complète toutes les procédures d'enregistrement à l'hôtel au nom du membre pour le soulager de la corvée de remplir des formulaires. Il lui permet également de profiter gratuitement des services premium fournis aux VIP, qui ne sont généralement accordés qu'après paiement de leurs frais"
+      },
+      "carRentalDiscounts": {
+        "title": "Réductions des Sociétés de Location de Voitures Internationales",
+        "description": "Les détenteurs de l'adhésion Arabian Eagle International bénéficient de tarifs spéciaux réduits de plusieurs sociétés internationales de location de voitures dans le monde entier"
+      },
+      "freeEmail": {
+        "title": "Email Gratuit d'Arabian Eagle",
+        "description": "Chaque membre d'Arabian Eagle, après avoir payé les frais d'abonnement, reçoit un compte email gratuit"
+      },
+      "newsletter": {
+        "title": "Newsletter Gratuite",
+        "description": "Arabian Eagle International envoie une newsletter régulière à tous les membres contenant des sujets et articles intéressants qui répondent aux intérêts des voyageurs, ainsi que des nouvelles et informations supplémentaires sur l'entreprise"
+      }
+    },
+    "cardServices": {
+      "title": "Services Fournis par la Carte Arabian Eagle International",
+      "subtitle": "Excellents Services pour Tous les Détenteurs de Cartes Arabian Eagle International",
+      "intro": "Nous sommes heureux de fournir nos services à tous nos clients, rendant tous les services liés aux programmes de voyage et de tourisme et aux tarifs de location de voitures dans le monde accessible, leur accordant des avantages très spéciaux. Ces services seront exclusivement réservés à tous les détenteurs de cartes Arabian Eagle International de tous types et niveaux, sans exception",
+      "services": {
+        "carBoatRental": "Location de Voitures et de Bateaux",
+        "cityTours": "Visites Touristiques de la Ville",
+        "concerts": "Réservations de Concerts et Films",
+        "weddingHalls": "Réservations de Salles de Mariage",
+        "shopping": "Shopping",
+        "hotelReservations": "Réservations d'Hôtels"
+      }
+    },
+    "travelConsulting": {
+      "title": "Services de Conseil en Voyage",
+      "description": "Arabian Eagle International fournit à ses membres des informations complètes et des réponses à toutes les questions relatives aux voyages, aux programmes touristiques, à la réservation de billets, aux réservations d'hôtels, à la location de voitures, etc., pour tous les voyages d'affaires et les vacances courtes ou longues, depuis ses bureaux dans le monde entier"
+    },
+    "otherServices": {
+      "title": "Et Aussi d'Autres Services",
+      "description": "La direction des services touristiques d'Arabian Eagle s'efforce de fournir les meilleurs services à ses clients pour bénéficier et profiter de tous ces avantages et services spéciaux fournis avec la dernière technologie actuelle via Internet pour obtenir toutes les informations et facilités pendant leurs voyages internationaux avec d'autres privilèges"
+    },
+    "hotelBookings": {
+      "title": "Réservations et Réductions Hôtelières",
+      "description": "Accès à plus de 1 145 000 hôtels dans le monde avec des réductions allant jusqu'à 75% des tarifs principaux. Tarifs membres spéciaux disponibles."
+    },
+    "loungeAccess": {
+      "title": "Accès au Salon d'Aéroport",
+      "description": "850+ salons VIP dans les principaux aéroports de plus de 120 pays. Profitez des commodités premium quelle que soit votre compagnie aérienne."
+    },
+    "carRentals": {
+      "title": "Réductions sur la Location de Voitures",
+      "description": "Économisez jusqu'à 30% sur la location de voitures pour tous vos voyages. Disponible dans le monde entier avec les grandes sociétés de location."
+    },
+    "mastercard": {
+      "title": "Arabian Eagle MasterCard",
+      "description": "Carte de débit prépayée avec dépenses contrôlées et privilèges membres spéciaux."
+    }
+  },
+  "join": {
+    "title": "Rejoindre Arabian Eagle",
+    "subtitle": "Commencez à économiser sur vos voyages aujourd'hui",
+    "intro": {
+      "title": "Inscrivez-vous Maintenant",
+      "description": "Inscrivez-vous maintenant pour recevoir votre numéro d'adhésion et votre mot de passe afin d'accéder et de profiter des services fournis par Arabian Eagle International Tourism Services"
+    },
+    "pricing": {
+      "title": "Abonnez-vous Maintenant pour Seulement 400 $ USD",
+      "amount": "400 $",
+      "currency": "USD",
+      "description": "Oui, c'est vrai !!! Les frais d'abonnement ne sont que de 400 $ USD. C'est un petit montant comparé aux avantages et services qui vous sont offerts en tant que membre d'Arabian Eagle International Tourism Services"
+    },
+    "highlights": {
+      "hotelDiscounts": {
+        "title": "Obtenez 50% à 75% de Réduction sur les Prix des Hôtels et Plus",
+        "description": "Économisez plus de 50% à 75% sur les tarifs de base des chambres dans 1 145 000 hôtels dans le monde. Vous pouvez également obtenir des réductions auprès des sociétés de location de voitures"
+      },
+      "subscribeToday": {
+        "title": "Abonnez-vous Aujourd'hui",
+        "description": "Obtenez des réductions allant jusqu'à 75% sur les tarifs de base des chambres. Réductions hôtelières... 50% à 75% de réduction sur les prix des hôtels dans 1 145 000 hôtels dans le monde"
+      },
+      "feelComfortable": {
+        "title": "Vous Vous Sentirez à l'Aise en Sachant que la Réduction est Supérieure à 50% et Jusqu'à 75%",
+        "description": "Sur les tarifs de base des chambres dans 1 145 000 hôtels dans le monde, y compris les hôtels de renommée internationale connus de tous les voyageurs et les hôtels nouvellement construits dans le monde entier à différents niveaux et qualité de service selon les besoins des voyageurs"
+      },
+      "carRental": {
+        "title": "Réductions sur les Sociétés de Location de Voitures Internationales",
+        "description": "Les détenteurs de l'adhésion Arabian Eagle International bénéficient de tarifs spéciaux réduits de plusieurs sociétés internationales de location de voitures dans le monde entier"
+      }
+    },
+    "tabs": {
+      "newMember": "Nouveau Membre",
+      "partner": "Carte Banque/Partenaire",
+      "mobile": "Inscription Mobile"
+    },
+    "form": {
+      "userId": "Identifiant Utilisateur",
+      "password": "Mot de Passe",
+      "confirmPassword": "Confirmer le Mot de Passe",
+      "email": "Email",
+      "phone": "Numéro de Téléphone",
+      "fullName": "Nom Complet",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "J'ai oublié mon mot de passe",
+      "submit": "Créer un Compte",
+      "login": "Se Connecter à un Compte Existant"
+    },
+    "benefits": {
+      "title": "Avantages Membres",
+      "access": "Accéder aux détails complets des avantages",
+      "save": "Commencer à économiser aujourd'hui",
+      "exclusive": "Privilèges membres exclusifs"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "partner": {
+        "q1": {
+          "question": "Quel est le coût et quels sont les avantages de rejoindre le programme partenaire Arabian Eagle?",
+          "answer": "En fait, il n'y a pas de frais financiers initiaux pour que votre entreprise rejoigne le programme de partenariat Arabian Eagle International. Tout ce que vous avez à faire est de remplir le formulaire sur le site Web, en répondant à diverses questions sur votre entreprise et les services et privilèges spéciaux que vous pouvez offrir aux membres d'Arabian Eagle International, puis cliquez simplement sur le bouton d'envoi"
+        },
+        "q2": {
+          "question": "Que fera Arabian Eagle International pour vous?",
+          "answer": "Une fois que vous avez rejoint Arabian Eagle International, votre entreprise sera automatiquement enregistrée dans l'annuaire touristique avec tous les détails, et votre nom sera diffusé à tous les membres en tant que nouvelle entreprise où ils pourront utiliser leurs différentes cartes. En même temps, vous serez inclus dans les listes de consultation de voyage"
+        }
+      }
+    }
+  },
+  "contact": {
+    "title": "Nos Bureaux dans le Monde",
+    "subtitle": "Nous sommes là pour vous aider",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "country": "Pays",
+      "city": "Ville",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message"
+    },
+    "info": {
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone",
+      "whatsapp": "WhatsApp",
+      "address": "Adresse du Bureau"
+    },
+    "usaHotline": {
+      "title": "Pour les Membres aux États-Unis Uniquement",
+      "number": "+1 305 371 0000"
+    },
+    "officesTitle": "Adresses de Nos Bureaux",
+    "offices": {
+      "jeddah": {
+        "name": "Bureau de Jeddah",
+        "address": "Rue Al-Siteen - Place Al-Darajah - Centre Al-Awwad - 3ème Étage - 301",
+        "poBox": "7517",
+        "zip": "21472",
+        "tel": "+966 2 674 0950",
+        "fax": "+966 2 672 4222",
+        "mobile": "+966 54 201 20 40",
+        "email": "jeddah@ae4net.net",
+        "registry": "40 30 20 4932",
+        "established": "1988"
+      },
+      "kuwait": {
+        "name": "Bureau du Koweït",
+        "address": "Al-Manjaf - Fahaheel - Zone 4 - Rue 26",
+        "poBox": "7512",
+        "zip": "64006",
+        "tel": "+965 372 5180",
+        "fax": "+956 371 3669",
+        "mobile": "+965 99 38 1301",
+        "email": "kuwait@ae4net.net",
+        "registry": "752852",
+        "established": "1998"
+      },
+      "beirut": {
+        "name": "Bureau de Beyrouth",
+        "address": "Rue Bashara El Khoury - Ras El Nabaa - Centre du Grand Beyrouth - 8ème Étage",
+        "poBox": "155-600",
+        "tel": "+961 1 648 262",
+        "fax": "+961 1 648 216",
+        "email": "beirut@ae4net.net",
+        "registry": "77304/24",
+        "established": "2000"
+      }
+    },
+    "directLines": {
+      "title": "Ligne Directe vers le Bureau Principal à Jeddah",
+      "kuwaitLabel": "Bureau du Koweït",
+      "kuwait": "+965 99 38 1301",
+      "uaeLabel": "Bureau des Émirats",
+      "uae": "+971 566 041 043",
+      "egyptLabel": "Égypte",
+      "egypt": "+20 111 660 68 01",
+      "philippinesLabel": "Philippines",
+      "philippines": "+63 9179 37 37 37"
+    },
+    "agents": {
+      "title": "Nos Agents de Services Touristiques",
+      "singapore": {
+        "name": "Bureau Principal de Réservation à Singapour",
+        "company": "AT Reservation Pte Ltd",
+        "address": "22, Cavenagh Road/Orchard Road, #01-21 Hotel Grand Central, Singapore 229617",
+        "tel": "(65) 6235 2498, 6235 6426",
+        "fax": "(65) 6235 7620",
+        "license": "01148"
+      },
+      "hongKong": {
+        "name": "Hong Kong",
+        "company": "Asia Travel Network Ltd",
+        "address": "Rm 7A, No 6, Knutsford Terrace, Tsimshatsui, Kowloon, Hongkong",
+        "tel": "(852) 2736 0922",
+        "fax": "(852) 2405 0922",
+        "license": "352156"
+      },
+      "guangzhou": {
+        "name": "Guangzhou",
+        "address": "218 Sky Galleria, Citic Plaza, 233 Tianhe North Road, Guangzhou, China, PC 510613",
+        "hours": "Lun-Sam (0900-1900), Dim (1200-1600)"
+      },
+      "beijing": {
+        "name": "Pékin",
+        "address": "Jianwai Soho, Block A, #19-05, 39 East Third Ring Road, Chaoyang District Beijing, Beijing, China, PC 100022",
+        "hours": "Lun-Ven (0900-1800), Sam (0900-1300)"
+      },
+      "thailand": {
+        "name": "Thaïlande",
+        "company": "AT Network Co. Ltd.",
+        "address": "Lumpini Tower, 1168/44 18th Floor, Rama 4 Road, Tungmahamek, Sathorn Bangkok 10120, Thailand",
+        "tel": "(662) 677 6240-5, 679 7185, 679 7187",
+        "fax": "(662) 677 6246-7",
+        "license": "11/1921"
+      },
+      "malaysia": {
+        "name": "Malaisie",
+        "company": "Asiatravel Online Sdn Bhd",
+        "address": "148-03, 3rd Floor, Jln Bukit Bintang, 55100 Kuala Lumpur",
+        "tel": "603 - 2143 6555",
+        "fax": "603 - 2143 6558"
+      },
+      "philippinesManila": {
+        "name": "Philippines",
+        "company": "AT Phil., Inc",
+        "address": "G/F, Edgardo Angara Wing, IBP Bldg., Jade Street, Ortigas Center, Pasig City, Metro Manila 1605 Philippines",
+        "tel": "(632)634-4220/40/60, (632) 635-5099",
+        "fax": "(632) 635-6699, 910-4206",
+        "license": "TO-154-2004"
+      },
+      "philippinesCebu": {
+        "name": "Philippines Succursale de Cebu",
+        "address": "Lobby, Waterfront Airport Hotel, 1 Airport Road, Lapu-Lapu City, Cebu, Philippines",
+        "tel": "(6332) 341-20-35",
+        "fax": "(6332) 341-20-36"
+      },
+      "shanghai": {
+        "name": "Chine",
+        "company": "Asia Travel Shanghai Office",
+        "address": "333 Jui Jiang Road, 17th Floor, Finance Square Building, Shanghai 200001, China",
+        "tel": "(86-21) 6322 3855",
+        "fax": "(86-21) 6322 9542, 63600967"
+      },
+      "indochina": {
+        "name": "Indochine",
+        "company": "AT Network Co. Ltd.",
+        "address": "Lumpini Tower, 1168/44 18th Floor, Rama 4 Road, Tungmahamek, Sathorn Bangkok 10120, Thailand",
+        "tel": "(662) 677 6240-5, 679 7185, 679 7187",
+        "fax": "(662) 677 6246-7",
+        "license": "11/1921"
+      },
+      "dubai": {
+        "name": "Dubaï",
+        "company": "Asia Middle East Tours LLC",
+        "address": "Shop Numbers: WB21, WB22, WB23, (Basement 1/Tourist Village) Musalla Tower Mall, Bank Street, Bur Dubai, P.O. Box 112758 Dubai, United Arab Emirates",
+        "tel": "+971 566 041 043",
+        "license": "549563"
+      }
+    }
+  },
+  "hotels": {
+    "title": "Demander les tarifs des chambres d'hôtel",
+    "subtitle": "Veuillez entrer les informations suivantes",
+    "personalInfo": "Informations personnelles",
+    "hotelInfo": "Informations hôtelières requises",
+    "travelDate": "Date de voyage",
+    "form": {
+      "email": "Email",
+      "gender": "Sexe",
+      "male": "Homme",
+      "female": "Femme",
+      "title": "Titre",
+      "titleOptions": {
+        "mr": "M.",
+        "mrs": "Mme",
+        "miss": "Mlle",
+        "drMd": "Dr. - MD",
+        "drPhd": "Dr. - PHD",
+        "engineer": "Ingénieur"
+      },
+      "firstName": "Prénom",
+      "familyName": "Nom de famille",
+      "nationality": "Nationalité",
+      "mobile": "Mobile",
+      "hotelName": "Nom de l'hôtel",
+      "or": "OU",
+      "city": "Ville",
+      "country": "Pays",
+      "from": "De (Arrivée)",
+      "to": "À (Départ)",
+      "priceRange": "Gamme de prix",
+      "currency": "Devise",
+      "starRating": "Classement par étoiles",
+      "hotelType": "Type d'hôtel",
+      "apartment": "Appartement",
+      "hotel": "Hôtel",
+      "resort": "Complexe",
+      "submit": "Soumettre la demande",
+      "required": "Champ requis",
+      "pleaseChoose": "Veuillez choisir..."
+    },
+    "discount": "Jusqu'à 75% DE RÉDUCTION"
+  },
+  "deals": {
+    "title": "Offres Vacances Super Économies",
+    "subtitle": "Offres exclusives pour nos membres",
+    "filters": {
+      "destination": "Destination",
+      "travelType": "Type de Voyage",
+      "season": "Saison"
+    }
+  },
+  "experiences": {
+    "title": "Expériences de Voyage",
+    "subtitle": "Histoires de nos membres",
+    "shareYours": "Partagez Votre Histoire"
+  },
+  "footer": {
+    "about": "À Propos",
+    "services": "Services",
+    "support": "Support",
+    "newsletter": {
+      "title": "S'abonner à la Newsletter",
+      "placeholder": "Entrez votre email",
+      "button": "S'abonner"
+    },
+    "social": "Suivez-nous"
+  }
+}
+
+
