@@ -8,7 +8,8 @@
     "getStarted": "Get Started",
     "contactUs": "Contact Us",
     "copyright": "Arabian Eagle International © 2011",
-    "legalNotice": "Legal Notice"
+    "legalNotice": "Legal Notice",
+    "downloadPdf": "Download PDF"
   },
   "nav": {
     "home": "Home",
@@ -132,6 +133,33 @@
   "cards": {
     "title": "Arabian Eagle Cards",
     "subtitle": "Choose the card that fits your travel needs",
+    "basic": {
+      "name": "Basic Card",
+      "annualFee": "99",
+      "feature1": "Access to 1,145,000+ hotels worldwide",
+      "feature2": "Up to 50% discount on hotel rates",
+      "feature3": "24/7 customer support",
+      "feature4": "Free newsletter and travel tips"
+    },
+    "silver": {
+      "name": "Silver Card",
+      "annualFee": "199",
+      "feature1": "All Basic Card benefits",
+      "feature2": "Up to 65% discount on hotel rates",
+      "feature3": "Priority Pass (1 year free)",
+      "feature4": "Car rental discounts up to 25%",
+      "feature5": "Travel insurance included"
+    },
+    "gold": {
+      "name": "Gold Card",
+      "annualFee": "299",
+      "feature1": "All Silver Card benefits",
+      "feature2": "Up to 75% discount on hotel rates",
+      "feature3": "Priority Pass (lifetime)",
+      "feature4": "Car rental discounts up to 30%",
+      "feature5": "VIP hotel check-in services",
+      "feature6": "Arabian Eagle MasterCard option"
+    },
     "intro": {
       "title": "Arabian Eagle International",
       "subtitle": "Not just a new way to promote your business and services, but truly unique",

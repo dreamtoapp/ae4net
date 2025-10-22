@@ -8,7 +8,8 @@
     "getStarted": "Commencer",
     "contactUs": "Contactez-nous",
     "copyright": "Arabian Eagle International © 2011",
-    "legalNotice": "Mention Légale"
+    "legalNotice": "Mention Légale",
+    "downloadPdf": "Télécharger PDF"
   },
   "nav": {
     "home": "Accueil",
@@ -132,6 +133,33 @@
   "cards": {
     "title": "Cartes Arabian Eagle",
     "subtitle": "Choisissez la carte qui correspond à vos besoins de voyage",
+    "basic": {
+      "name": "Carte Basique",
+      "annualFee": "99",
+      "feature1": "Accès à plus de 1 145 000 hôtels dans le monde",
+      "feature2": "Jusqu'à 50% de réduction sur les tarifs hôteliers",
+      "feature3": "Support client 24/7",
+      "feature4": "Newsletter gratuite et conseils de voyage"
+    },
+    "silver": {
+      "name": "Carte Argent",
+      "annualFee": "199",
+      "feature1": "Tous les avantages de la Carte Basique",
+      "feature2": "Jusqu'à 65% de réduction sur les tarifs hôteliers",
+      "feature3": "Priority Pass (1 an gratuit)",
+      "feature4": "Réductions location de voiture jusqu'à 25%",
+      "feature5": "Assurance voyage incluse"
+    },
+    "gold": {
+      "name": "Carte Or",
+      "annualFee": "299",
+      "feature1": "Tous les avantages de la Carte Argent",
+      "feature2": "Jusqu'à 75% de réduction sur les tarifs hôteliers",
+      "feature3": "Priority Pass (à vie)",
+      "feature4": "Réductions location de voiture jusqu'à 30%",
+      "feature5": "Services d'enregistrement VIP à l'hôtel",
+      "feature6": "Option MasterCard Arabian Eagle"
+    },
     "intro": {
       "title": "Arabian Eagle International",
       "subtitle": "Pas seulement une nouvelle façon de promouvoir votre entreprise et vos services, mais vraiment unique",

@@ -3,29 +3,45 @@ import { Button } from '@/components/ui/button';
 import { Link } from '@/i18n/routing';
 import { BenefitCard } from '@/components/BenefitCard';
 import { StatsCounter } from '@/components/StatsCounter';
-import { Hotel, Plane, Car, CreditCard } from 'lucide-react';
+import { Hotel, Plane, Car, CreditCard, Download } from 'lucide-react';
+import Image from 'next/image';
 
 export default function HomePage() {
   const t = useTranslations();
 
   return (
     <div className="flex flex-col">
-      <section className="relative bg-gradient-to-br from-primary/10 via-background to-accent/10 py-20 md:py-32">
-        <div className="container mx-auto px-4">
+      <section className="relative h-[600px] md:h-[700px] flex items-center justify-center overflow-hidden">
+        <Image
+          src="/assets/banner.avif"
+          alt="AE4NET Hero Banner"
+          fill
+          priority
+          className="object-cover"
+          quality={90}
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/60 to-black/50" />
+        <div className="container relative z-10 mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-2xl">
               {t('home.hero.title')}{' '}
               <span className="text-primary">{t('home.hero.titleHighlight')}</span>
             </h1>
-            <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
+            <p className="text-lg md:text-xl text-white/90 mb-8 max-w-3xl mx-auto drop-shadow-lg">
               {t('home.hero.subtitle')}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button asChild size="lg">
                 <Link href="/join">{t('home.hero.ctaPrimary')}</Link>
               </Button>
-              <Button asChild variant="outline" size="lg">
+              <Button asChild variant="outline" size="lg" className="bg-white/10 border-white/20 text-white hover:bg-white/20">
                 <Link href="/about">{t('home.hero.ctaSecondary')}</Link>
+              </Button>
+              <Button asChild variant="secondary" size="lg" className="gap-2">
+                <Link href="/brochure">
+                  <Download className="h-5 w-5" />
+                  {t('common.downloadPdf')}
+                </Link>
               </Button>
             </div>
           </div>
@@ -158,6 +174,7 @@ export default function HomePage() {
     </div>
   );
 }
+
 
 
 

@@ -4,17 +4,50 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Building2, Users, TrendingUp, Award, CheckCircle2, Calendar } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
+import { DownloadPdfButton } from '@/components/DownloadPdfButton';
 
 export default function AboutPage() {
   const t = useTranslations('about');
+  const tc = useTranslations('common');
 
   return (
     <div className="flex flex-col">
-      <section className="bg-gradient-to-br from-primary/10 via-background to-accent/10 py-20">
-        <div className="container mx-auto px-4">
+      <section className="relative h-[500px] md:h-[600px] flex items-center justify-center overflow-hidden">
+        <Image
+          src="/assets/banner.avif"
+          alt="About Arabian Eagle"
+          fill
+          priority
+          className="object-cover"
+          quality={90}
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/75 via-black/65 to-black/55" />
+        <div className="container relative z-10 mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">{t('title')}</h1>
-            <p className="text-lg text-muted-foreground">{t('subtitle')}</p>
+            <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 px-6 py-2 rounded-full mb-6">
+              <Calendar className="h-4 w-4 text-white" />
+              <span className="text-white font-semibold text-sm">Since 1986 • 39 Years of Excellence</span>
+            </div>
+            <Badge variant="secondary" className="mb-6 text-base px-6 py-2">
+              {t('subtitle')}
+            </Badge>
+            <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white drop-shadow-2xl">
+              {t('title')}
+            </h1>
+            <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto drop-shadow-lg leading-relaxed mb-4">
+              {t('companyOverview.description1').split('1986')[0]}
+              <span className="inline-flex items-center gap-1 px-3 py-1 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 font-bold rounded-md text-xl mx-1 shadow-lg">
+                1986
+              </span>
+              {t('companyOverview.description1').split('1986')[1]}
+            </p>
+            <p className="text-base md:text-lg text-white/85 max-w-3xl mx-auto drop-shadow-lg leading-relaxed mb-8">
+              {t('companyOverview.description2')}
+            </p>
+            <div className="flex justify-center">
+              <DownloadPdfButton label={tc('downloadPdf')} />
+            </div>
           </div>
         </div>
       </section>

@@ -5,7 +5,8 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
 import { Button } from '@/components/ui/button';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
-import { Menu, X, Plane } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
+import Image from 'next/image';
 
 export function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -26,11 +27,14 @@ export function Header() {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
-          <Link href="/" className="flex items-center gap-2 font-bold text-lg">
-            <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center">
-              <Plane className="h-5 w-5 text-primary-foreground" />
-            </div>
-            <span className="hidden sm:inline">{t('common.brand')}</span>
+          <Link href="/" className="flex items-center">
+            <Image
+              src="/assets/logo.avif"
+              alt="AE4NET Logo"
+              width={64}
+              height={64}
+              className="h-auto w-16 object-contain"
+            />
           </Link>
 
           <nav className="hidden lg:flex items-center gap-6">
@@ -85,6 +89,7 @@ export function Header() {
     </header>
   );
 }
+
 
 
 

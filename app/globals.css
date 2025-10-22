@@ -69,4 +69,48 @@ body {
   font-family: 'Cairo', sans-serif;
 }
 
+/* Print Styles for Brochure */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  /* Hide header, navigation, and footer completely */
+  header, nav, footer,
+  [role="banner"],
+  [role="navigation"],
+  [role="contentinfo"] {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+  }
+  
+  .page-break {
+    page-break-after: always;
+    break-after: page;
+  }
+  
+  .avoid-break {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  
+  body {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  * {
+    box-shadow: none !important;
+  }
+}
+
+@page {
+  size: A4;
+  margin: 1cm;
+}
+
 

@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Link } from '@/i18n/routing';
-import { Wifi, Coffee, Droplets, Users, Armchair, Check, MapPin, Heart, Globe, Newspaper, Tv, Briefcase, DollarSign, Key } from 'lucide-react';
+import { Wifi, Coffee, Droplets, Users, Armchair, Check, Heart, Globe, Newspaper, Tv, Briefcase, DollarSign, Key } from 'lucide-react';
 
 export default function PriorityPassPage() {
   const t = useTranslations('priorityPass');

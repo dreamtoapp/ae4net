@@ -1,6 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
-import { Plane, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
+import Image from 'next/image';
 
 export function Footer() {
   const t = useTranslations();
@@ -27,11 +28,14 @@ export function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           <div className="lg:col-span-2">
-            <Link href="/" className="flex items-center gap-2 font-bold text-lg mb-4">
-              <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center">
-                <Plane className="h-5 w-5 text-primary-foreground" />
-              </div>
-              <span>{t('common.brand')}</span>
+            <Link href="/" className="flex items-center mb-4">
+              <Image
+                src="/assets/logo.avif"
+                alt="AE4NET Logo"
+                width={140}
+                height={140}
+                className="h-auto w-[140px] object-contain"
+              />
             </Link>
             <p className="text-sm text-muted-foreground mb-4">
               {t('common.tagline')}
@@ -116,6 +120,7 @@ export function Footer() {
     </footer>
   );
 }
+
 
 
 
