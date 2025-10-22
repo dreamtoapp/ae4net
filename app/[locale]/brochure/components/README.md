@@ -6,6 +6,10 @@ This folder contains all components specific to the `/brochure` route.
 
 All brochure page components follow this naming pattern: `BrochurePageX[Name].tsx`
 
+### Interactive Components (Client Components)
+- **BrochureFloatingButtons.tsx** - Floating action buttons for Download PDF and Print (Client Component)
+
+### Page Components (Server Components)
 - **BrochurePageHeader.tsx** - Reusable header with logo and brand (used on pages 2-9)
 - **BrochurePage1Cover.tsx** - Cover page with hero content
 - **BrochurePage2Stats.tsx** - Statistics and impact numbers
@@ -20,4 +24,8 @@ All brochure page components follow this naming pattern: `BrochurePageX[Name].ts
 ## Purpose
 
 These components are co-located with their route following Next.js App Router best practices. They are only used by the brochure page and kept separate from global components for better organization and maintainability.
+
+## Architecture
+
+The main `page.tsx` is a **Server Component** for optimal performance. Only interactive elements (like the floating buttons) are marked as Client Components with `"use client"` directive.
 

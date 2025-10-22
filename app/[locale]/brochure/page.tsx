@@ -1,7 +1,4 @@
-import { useTranslations } from 'next-intl';
-import { Printer } from 'lucide-react';
-import { PrintButton } from '@/components/PrintButton';
-import { DirectPdfDownload } from '@/components/DirectPdfDownload';
+import { BrochureFloatingButtons } from './components/BrochureFloatingButtons';
 import { BrochurePage1Cover } from './components/BrochurePage1Cover';
 import { BrochurePage2Stats } from './components/BrochurePage2Stats';
 import { BrochurePage3Benefits } from './components/BrochurePage3Benefits';
@@ -13,14 +10,9 @@ import { BrochurePage8Deals } from './components/BrochurePage8Deals';
 import { BrochurePage9Contact } from './components/BrochurePage9Contact';
 
 export default function BrochurePage() {
-  const tc = useTranslations('common');
-
   return (
     <>
-      <div className="pdf-controls">
-        <DirectPdfDownload label={tc('downloadPdf')} size="sm" />
-        <PrintButton label={<><Printer className="h-4 w-4" /> Print</>} />
-      </div>
+      <BrochureFloatingButtons />
 
       <div className="pdf-container">
         <BrochurePage1Cover />

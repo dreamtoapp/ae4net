@@ -16,13 +16,6 @@ export function BrochurePage1Cover() {
         className="object-cover"
         quality={100}
       />
-      <Image
-        src="/assets/pattern.jpg"
-        alt="Pattern"
-        fill
-        className="object-cover opacity-10 mix-blend-overlay"
-        quality={90}
-      />
       <div className="absolute inset-0 bg-gradient-to-br from-brand-navy/70 via-brand-navy/60 to-brand-navy/70" />
 
       <div className="absolute top-0 right-0 w-96 h-96 bg-primary/10 rounded-full blur-3xl" />

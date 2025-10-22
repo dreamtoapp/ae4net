@@ -8,19 +8,20 @@ interface PrintButtonProps {
   label: ReactNode;
   size?: "default" | "sm" | "lg" | "icon";
   variant?: "default" | "destructive" | "outline" | "secondary" | "ghost" | "link";
+  className?: string;
 }
 
-export function PrintButton({ label, size = "lg", variant = "default" }: PrintButtonProps) {
+export function PrintButton({ label, size = "lg", variant = "default", className }: PrintButtonProps) {
   const handlePrint = () => {
     window.print();
   };
 
   return (
-    <Button 
-      onClick={handlePrint} 
+    <Button
+      onClick={handlePrint}
       size={size}
       variant={variant}
-      className="no-print gap-2 shadow-lg"
+      className={className || "no-print gap-2 shadow-lg"}
     >
       {typeof label === 'string' ? (
         <>

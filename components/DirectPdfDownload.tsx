@@ -2,14 +2,15 @@
 
 import { Button } from '@/components/ui/button';
 import { FileDown } from 'lucide-react';
-import { useState } from 'react';
+import { useState, ReactNode } from 'react';
 
 interface DirectPdfDownloadProps {
-  label: string;
+  label: string | ReactNode;
   size?: "default" | "sm" | "lg" | "icon";
+  className?: string;
 }
 
-export function DirectPdfDownload({ label, size = "lg" }: DirectPdfDownloadProps) {
+export function DirectPdfDownload({ label, size = "lg", className }: DirectPdfDownloadProps) {
   const [isGenerating, setIsGenerating] = useState(false);
 
   const handleDownload = async () => {
@@ -68,11 +69,25 @@ export function DirectPdfDownload({ label, size = "lg" }: DirectPdfDownloadProps
       onClick={handleDownload}
       size={size}
       variant="default"
-      className="gap-2 shadow-lg"
+      className={className || "gap-2 shadow-lg"}
       disabled={isGenerating}
+      data-pdf-download
     >
-      <FileDown className={size === "sm" ? "h-4 w-4" : "h-5 w-5"} />
-      {isGenerating ? 'جاري التحميل...' : label}
+      {isGenerating ? (
+        <>
+          <FileDown className={size === "sm" ? "h-4 w-4" : "h-5 w-5"} />
+          جاري التحميل...
+        </>
+      ) : (
+        typeof label === 'string' ? (
+          <>
+            <FileDown className={size === "sm" ? "h-4 w-4" : "h-5 w-5"} />
+            {label}
+          </>
+        ) : (
+          label
+        )
+      )}
     </Button>
   );
 }
