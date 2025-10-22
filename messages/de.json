@@ -1,0 +1,160 @@
+{
+  "common": {
+    "brand": "Arabian Eagle International",
+    "tagline": "Reisen leichter gemacht",
+    "readMore": "Mehr lesen",
+    "joinNow": "Jetzt beitreten",
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Loslegen",
+    "contactUs": "Kontaktieren Sie uns",
+    "copyright": "Arabian Eagle International © 2011",
+    "legalNotice": "Rechtlicher Hinweis",
+    "downloadPdf": "PDF herunterladen",
+    "page": "Seite",
+    "of": "von",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "website": "Webseite"
+  },
+  "brochure": {
+    "ourImpact": "Unsere Wirkung",
+    "memberBenefits": "Mitgliedervorteile",
+    "ourServices": "Unsere Dienstleistungen",
+    "moreServices": "Weitere Dienstleistungen",
+    "membershipTiers": "Mitgliedschaftsstufen",
+    "hotDeals": "Top-Angebote",
+    "moreHotDeals": "Weitere Angebote",
+    "saveUpTo": "Sparen Sie bis zu",
+    "packageIncludes": "Paket beinhaltet:",
+    "starter": "EINSTEIGER",
+    "recommended": "EMPFOHLEN",
+    "premium": "PREMIUM",
+    "mostPopular": "⭐ Am beliebtesten",
+    "readyToStart": "Bereit, Ihre Reise zu beginnen?",
+    "service": "Service",
+    "was": "War",
+    "nowOnly": "Jetzt nur"
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über AE",
+    "cards": "AE Karten",
+    "priorityPass": "Priority Pass",
+    "services": "Dienstleistungen",
+    "join": "Beitreten",
+    "contact": "Kontakt",
+    "experiences": "Reiseerfahrungen",
+    "hotels": "Hotelpreise anfragen",
+    "deals": "Urlaubsangebote",
+    "login": "Anmelden",
+    "register": "Registrieren"
+  },
+  "home": {
+    "hero": {
+      "title": "Reisen wird",
+      "titleHighlight": "Einfacher",
+      "subtitle": "Die ARABIAN EAGLE INT'L Karte wurde speziell entwickelt, um Probleme für häufige internationale Reisende zu minimieren und gleichzeitig Kosten bei den wichtigsten Dienstleistungen zu senken.",
+      "ctaPrimary": "Jetzt beitreten",
+      "ctaSecondary": "Mehr erfahren"
+    },
+    "stats": {
+      "hotels": "1.145.000+",
+      "hotelsLabel": "Hotels weltweit",
+      "lounges": "850+",
+      "loungesLabel": "VIP-Lounges",
+      "countries": "120+",
+      "countriesLabel": "Länder",
+      "discount": "75%",
+      "discountLabel": "Rabatt bis zu"
+    },
+    "benefits": {
+      "title": "Exklusive Mitgliedervorteile",
+      "subtitle": "Genießen Sie Premium-Reisedienstleistungen zu unschlagbaren Preisen",
+      "hotelTitle": "Hotel-Rabatte",
+      "hotelDesc": "Zugang zu über 1.145.000 Hotels weltweit mit bis zu 75% Rabatt auf Standardpreise",
+      "loungeTitle": "Flughafen-Lounges",
+      "loungeDesc": "850+ VIP-Lounges an großen Flughäfen in über 120 Ländern, unabhängig von Ihrer Fluggesellschaft",
+      "carTitle": "Autovermietung",
+      "carDesc": "Sparen Sie bis zu 30% bei Autovermietungen für alle Ihre weltweiten Reisen",
+      "cardTitle": "MasterCard",
+      "cardDesc": "Arabian Eagle MasterCard Prepaid-Debitkarte mit exklusiven Mitgliederprivilegien"
+    },
+    "promotion": {
+      "title": "Sonderangebot",
+      "freePass": "Priority Pass KOSTENLOS für ein Jahr",
+      "withFirstTrip": "Mit der ersten REISE"
+    },
+    "howItWorks": {
+      "title": "Wie es funktioniert",
+      "step1Title": "Mitgliedschaft beitreten",
+      "step1Desc": "Registrieren Sie sich für Ihre Benutzer-ID und Ihr Passwort",
+      "step2Title": "Buchen & Sparen",
+      "step2Desc": "Zugang zu exklusiven Rabatten für Hotels, Lounges und Autovermietungen",
+      "step3Title": "Einfach reisen",
+      "step3Desc": "Genießen Sie Premium-Services und machen Sie Ihre Reise komfortabel mit weniger Kosten"
+    },
+    "cta": {
+      "title": "Beginnen Sie bei Ihrer nächsten Reise zu sparen",
+      "description": "Registrieren Sie sich jetzt für Ihre Benutzer-ID und Ihr Passwort, um auf die Website zuzugreifen und vollständige Informationen zu den Vorteilen zu erhalten und noch heute mit dem Sparen zu beginnen!",
+      "button": "Konto erstellen"
+    }
+  },
+  "about": {
+    "title": "Über Arabian Eagle",
+    "subtitle": "Ihr vertrauenswürdiger Partner für internationale Reisen"
+  },
+  "cards": {
+    "title": "Arabian Eagle Karten",
+    "subtitle": "Wählen Sie die Karte, die zu Ihren Reisebedürfnissen passt"
+  },
+  "priorityPass": {
+    "title": "Arabian Eagle Priority Pass Mitgliedschaft",
+    "subtitle": "Das größte unabhängige globale Programm"
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "subtitle": "Umfassende Reiselösungen für unsere Mitglieder"
+  },
+  "join": {
+    "title": "Treten Sie Arabian Eagle bei",
+    "subtitle": "Beginnen Sie heute, bei Ihren Reisen zu sparen"
+  },
+  "contact": {
+    "title": "Unsere Büros weltweit",
+    "subtitle": "Wir sind hier, um zu helfen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "country": "Land",
+      "city": "Stadt",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden"
+    }
+  },
+  "hotels": {
+    "title": "Hotelzimmerpreise anfragen",
+    "subtitle": "Bitte geben Sie die folgenden Informationen ein",
+    "discount": "Bis zu 75% RABATT"
+  },
+  "deals": {
+    "title": "Urlaubs-Super-Sparer",
+    "subtitle": "Exklusive Angebote für unsere Mitglieder"
+  },
+  "experiences": {
+    "title": "Reiseerfahrungen",
+    "subtitle": "Geschichten unserer Mitglieder"
+  },
+  "footer": {
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "support": "Support",
+    "newsletter": {
+      "title": "Newsletter abonnieren",
+      "placeholder": "Geben Sie Ihre E-Mail ein",
+      "button": "Abonnieren"
+    },
+    "social": "Folgen Sie uns"
+  }
+}

@@ -1,8 +1,9 @@
 "use client";
 
 import { Button } from '@/components/ui/button';
-import { FileDown } from 'lucide-react';
-import { useState, ReactNode } from 'react';
+import { FileDown, Loader2, CheckCircle2 } from 'lucide-react';
+import { useState, ReactNode, useEffect } from 'react';
+import { useLocale } from 'next-intl';
 
 interface DirectPdfDownloadProps {
   label: string | ReactNode;
@@ -10,85 +11,148 @@ interface DirectPdfDownloadProps {
   className?: string;
 }
 
+type ProgressStage = 'idle' | 'preparing' | 'generating' | 'downloading' | 'complete';
+
 export function DirectPdfDownload({ label, size = "lg", className }: DirectPdfDownloadProps) {
-  const [isGenerating, setIsGenerating] = useState(false);
+  const [stage, setStage] = useState<ProgressStage>('idle');
+  const [progress, setProgress] = useState(0);
+  const locale = useLocale();
+
+  const isGenerating = stage !== 'idle' && stage !== 'complete';
+
+  useEffect(() => {
+    let interval: NodeJS.Timeout;
+
+    if (stage === 'preparing') {
+      setProgress(0);
+      interval = setInterval(() => {
+        setProgress(prev => Math.min(prev + 10, 30));
+      }, 200);
+    } else if (stage === 'generating') {
+      setProgress(30);
+      interval = setInterval(() => {
+        setProgress(prev => Math.min(prev + 5, 85));
+      }, 300);
+    } else if (stage === 'downloading') {
+      setProgress(85);
+      interval = setInterval(() => {
+        setProgress(prev => Math.min(prev + 5, 95));
+      }, 100);
+    } else if (stage === 'complete') {
+      setProgress(100);
+      setTimeout(() => {
+        setStage('idle');
+        setProgress(0);
+      }, 2000);
+    }
+
+    return () => {
+      if (interval) clearInterval(interval);
+    };
+  }, [stage]);
 
   const handleDownload = async () => {
-    setIsGenerating(true);
+    setStage('preparing');
+
     try {
-      const jsPDF = (await import('jspdf')).default;
-      const html2canvas = (await import('html2canvas')).default;
+      // Simulate preparation time
+      await new Promise(resolve => setTimeout(resolve, 500));
+      setStage('generating');
 
-      const pdfContainer = document.querySelector('.pdf-container') as HTMLElement;
-      if (!pdfContainer) {
-        console.error('PDF container not found');
-        return;
+      // Call the API route to generate PDF
+      const response = await fetch(`/api/brochure-pdf?locale=${locale}`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/pdf',
+        },
+      });
+
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.details || 'Failed to generate PDF');
       }
 
-      const pages = pdfContainer.querySelectorAll('.pdf-page');
-      const pdf = new jsPDF('p', 'mm', 'a4');
-      const pdfWidth = pdf.internal.pageSize.getWidth();
-      const pdfHeight = pdf.internal.pageSize.getHeight();
+      setStage('downloading');
 
-      for (let i = 0; i < pages.length; i++) {
-        const page = pages[i] as HTMLElement;
+      // Get the PDF blob
+      const blob = await response.blob();
 
-        const canvas = await html2canvas(page, {
-          scale: 2,
-          useCORS: true,
-          logging: false,
-          backgroundColor: '#ffffff'
-        });
+      // Create download link
+      const url = window.URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = 'AE4NET-Brochure.pdf';
+      document.body.appendChild(link);
+      link.click();
 
-        const imgData = canvas.toDataURL('image/jpeg', 0.95);
-        const imgWidth = pdfWidth;
-        const imgHeight = (canvas.height * pdfWidth) / canvas.width;
+      // Cleanup
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
 
-        if (i > 0) {
-          pdf.addPage();
-        }
+      setStage('complete');
 
-        if (imgHeight > pdfHeight) {
-          pdf.addImage(imgData, 'JPEG', 0, 0, imgWidth, pdfHeight);
-        } else {
-          pdf.addImage(imgData, 'JPEG', 0, 0, imgWidth, imgHeight);
-        }
-      }
-
-      pdf.save('AE4NET-Brochure.pdf');
     } catch (error) {
       console.error('Error generating PDF:', error);
       alert('Failed to generate PDF. Please try again.');
-    } finally {
-      setIsGenerating(false);
+      setStage('idle');
+      setProgress(0);
+    }
+  };
+
+  const getStageText = () => {
+    switch (stage) {
+      case 'preparing':
+        return 'Preparing...';
+      case 'generating':
+        return 'Generating PDF...';
+      case 'downloading':
+        return 'Downloading...';
+      case 'complete':
+        return 'Complete!';
+      default:
+        return typeof label === 'string' ? label : '';
+    }
+  };
+
+  const getIcon = () => {
+    const iconSize = size === "sm" ? "h-4 w-4" : "h-5 w-5";
+
+    switch (stage) {
+      case 'complete':
+        return <CheckCircle2 className={`${iconSize} text-green-500`} />;
+      case 'preparing':
+      case 'generating':
+      case 'downloading':
+        return <Loader2 className={`${iconSize} animate-spin`} />;
+      default:
+        return <FileDown className={iconSize} />;
     }
   };
 
   return (
-    <Button
-      onClick={handleDownload}
-      size={size}
-      variant="default"
-      className={className || "gap-2 shadow-lg"}
-      disabled={isGenerating}
-      data-pdf-download
-    >
-      {isGenerating ? (
-        <>
-          <FileDown className={size === "sm" ? "h-4 w-4" : "h-5 w-5"} />
-          جاري التحميل...
-        </>
-      ) : (
-        typeof label === 'string' ? (
-          <>
-            <FileDown className={size === "sm" ? "h-4 w-4" : "h-5 w-5"} />
-            {label}
-          </>
-        ) : (
-          label
-        )
+    <div className="relative">
+      <Button
+        onClick={handleDownload}
+        size={size}
+        variant="default"
+        className={className || "gap-2 shadow-lg"}
+        disabled={isGenerating}
+        data-pdf-download
+      >
+        {getIcon()}
+        {typeof label === 'string' ? getStageText() : stage !== 'idle' ? getStageText() : label}
+      </Button>
+
+      {/* Progress Bar Overlay */}
+      {isGenerating && (
+        <div className="absolute bottom-0 left-0 right-0 h-1 bg-gray-200 dark:bg-gray-700 rounded-b-lg overflow-hidden">
+          <div
+            className="h-full bg-gradient-to-r from-brand-gold via-yellow-500 to-brand-gold transition-all duration-300 ease-out"
+            style={{ width: `${progress}%` }}
+          />
+        </div>
       )}
-    </Button>
+    </div>
   );
 }
 

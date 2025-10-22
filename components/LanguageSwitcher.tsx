@@ -1,7 +1,8 @@
 "use client";
 
 import { useLocale } from 'next-intl';
-import { usePathname, useRouter } from '@/i18n/routing';
+import { usePathname } from '@/i18n/routing';
+import { useRouter } from 'next/navigation';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -15,6 +16,9 @@ const languages = [
   { code: 'en', name: 'English', flag: '🇺🇸' },
   { code: 'ar', name: 'العربية', flag: '🇸🇦' },
   { code: 'fr', name: 'Français', flag: '🇫🇷' },
+  { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },
+  { code: 'id', name: 'Indonesia', flag: '🇮🇩' },
+  { code: 'de', name: 'Deutsch', flag: '🇩🇪' },
 ];
 
 export function LanguageSwitcher() {
@@ -25,7 +29,9 @@ export function LanguageSwitcher() {
   const currentLanguage = languages.find(lang => lang.code === locale);
 
   const handleLanguageChange = (newLocale: string) => {
-    router.replace(pathname, { locale: newLocale });
+    // Build the new URL with the correct locale
+    const newPath = `/${newLocale}${pathname}`;
+    router.replace(newPath);
   };
 
   return (

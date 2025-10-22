@@ -1,0 +1,160 @@
+{
+  "common": {
+    "brand": "Arabian Eagle International",
+    "tagline": "Seyahati Kolaylaştırır",
+    "readMore": "Devamını Oku",
+    "joinNow": "Şimdi Katıl",
+    "learnMore": "Daha Fazla Bilgi",
+    "getStarted": "Başlayın",
+    "contactUs": "Bize Ulaşın",
+    "copyright": "Arabian Eagle International © 2011",
+    "legalNotice": "Yasal Uyarı",
+    "downloadPdf": "PDF İndir",
+    "page": "Sayfa",
+    "of": "/",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "website": "Web Sitesi"
+  },
+  "brochure": {
+    "ourImpact": "Etkimiz",
+    "memberBenefits": "Üye Avantajları",
+    "ourServices": "Hizmetlerimiz",
+    "moreServices": "Daha Fazla Hizmet",
+    "membershipTiers": "Üyelik Seviyeleri",
+    "hotDeals": "Sıcak Fırsatlar",
+    "moreHotDeals": "Daha Fazla Fırsat",
+    "saveUpTo": "Tasarruf edin",
+    "packageIncludes": "Paket İçeriği:",
+    "starter": "BAŞLANGIÇ",
+    "recommended": "ÖNERİLEN",
+    "premium": "PREMIUM",
+    "mostPopular": "⭐ En Popüler",
+    "readyToStart": "Yolculuğunuza Başlamaya Hazır mısınız?",
+    "service": "Hizmet",
+    "was": "Önceki Fiyat",
+    "nowOnly": "Şimdi Sadece"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "AE Hakkında",
+    "cards": "AE Kartları",
+    "priorityPass": "Priority Pass",
+    "services": "Hizmetler",
+    "join": "Bize Katılın",
+    "contact": "İletişim",
+    "experiences": "Seyahat Deneyimleri",
+    "hotels": "Otel Fiyatları",
+    "deals": "Tatil Fırsatları",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol"
+  },
+  "home": {
+    "hero": {
+      "title": "Seyahati",
+      "titleHighlight": "Kolaylaştırır",
+      "subtitle": "ARABIAN EAGLE INT'L Kartı, sık seyahat eden uluslararası gezginlerin sorunlarını en aza indirmek ve aynı zamanda ana hizmetlerde maliyetleri düşürmek için özel olarak geliştirilmiştir.",
+      "ctaPrimary": "Şimdi Katıl",
+      "ctaSecondary": "Daha Fazla Bilgi"
+    },
+    "stats": {
+      "hotels": "1.145.000+",
+      "hotelsLabel": "Dünya Çapında Otel",
+      "lounges": "850+",
+      "loungesLabel": "VIP Salonları",
+      "countries": "120+",
+      "countriesLabel": "Ülke",
+      "discount": "75%",
+      "discountLabel": "İndirim"
+    },
+    "benefits": {
+      "title": "Özel Üye Avantajları",
+      "subtitle": "Rakipsiz fiyatlarla premium seyahat hizmetlerinin keyfini çıkarın",
+      "hotelTitle": "Otel İndirimleri",
+      "hotelDesc": "Dünya çapında 1.145.000'den fazla otelde normal fiyatlardan %75'e varan indirimlerle erişim",
+      "loungeTitle": "Havalimanı Salonları",
+      "loungeDesc": "120'den fazla ülkede büyük havalimanlarında 850'den fazla VIP salon, havayolunuza bakılmaksızın",
+      "carTitle": "Araç Kiralama",
+      "carDesc": "Dünya çapında tüm seyahatleriniz için araç kiralamada %30'a varan tasarruf",
+      "cardTitle": "MasterCard",
+      "cardDesc": "Özel üye ayrıcalıkları ile Arabian Eagle MasterCard ön ödemeli banka kartı"
+    },
+    "promotion": {
+      "title": "Özel Teklif",
+      "freePass": "Priority Pass bir yıl ÜCRETSİZ",
+      "withFirstTrip": "İlk SEYAHATİNİZDE"
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır",
+      "step1Title": "Üyeliğe Katılın",
+      "step1Desc": "Kullanıcı Adı ve Şifreniz için kaydolun",
+      "step2Title": "Rezervasyon Yapın ve Tasarruf Edin",
+      "step2Desc": "Oteller, salonlar ve araç kiralamada özel indirimlere erişin",
+      "step3Title": "Kolay Seyahat",
+      "step3Desc": "Premium hizmetlerin keyfini çıkarın ve yolculuğunuzu daha az masrafla konforlu hale getirin"
+    },
+    "cta": {
+      "title": "Bir Sonraki Seyahatinizde Tasarruf Etmeye Başlayın",
+      "description": "Kullanıcı Kimliği ve Şifreniz için şimdi kaydolun, böylece tüm avantaj detaylarına erişebilir ve bugün tasarruf etmeye başlayabilirsiniz!",
+      "button": "Hesap Oluştur"
+    }
+  },
+  "about": {
+    "title": "Arabian Eagle Hakkında",
+    "subtitle": "Uluslararası seyahatte güvenilir ortağınız"
+  },
+  "cards": {
+    "title": "Arabian Eagle Kartları",
+    "subtitle": "Seyahat ihtiyaçlarınıza uygun kartı seçin"
+  },
+  "priorityPass": {
+    "title": "Arabian Eagle Priority Pass Üyeliği",
+    "subtitle": "En Büyük Bağımsız Küresel Program"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Üyelerimiz için kapsamlı seyahat çözümleri"
+  },
+  "join": {
+    "title": "Arabian Eagle'a Katılın",
+    "subtitle": "Bugün seyahatlerinizde tasarruf etmeye başlayın"
+  },
+  "contact": {
+    "title": "Dünya Çapındaki Ofislerimiz",
+    "subtitle": "Size yardımcı olmak için buradayız",
+    "form": {
+      "name": "İsim",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "country": "Ülke",
+      "city": "Şehir",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder"
+    }
+  },
+  "hotels": {
+    "title": "Otel odası fiyatları talep edin",
+    "subtitle": "Lütfen aşağıdaki bilgileri girin",
+    "discount": "%75'e varan İNDİRİM"
+  },
+  "deals": {
+    "title": "Tatil Süper Tasarrufu",
+    "subtitle": "Üyelerimize özel fırsatlar"
+  },
+  "experiences": {
+    "title": "Seyahat Deneyimleri",
+    "subtitle": "Üyelerimizden hikayeler"
+  },
+  "footer": {
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "support": "Destek",
+    "newsletter": {
+      "title": "Bültene Abone Ol",
+      "placeholder": "E-postanızı girin",
+      "button": "Abone Ol"
+    },
+    "social": "Bizi Takip Edin"
+  }
+}

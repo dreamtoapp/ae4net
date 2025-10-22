@@ -1,0 +1,160 @@
+{
+  "common": {
+    "brand": "Arabian Eagle International",
+    "tagline": "Membuat Perjalanan Lebih Mudah",
+    "readMore": "Baca Selengkapnya",
+    "joinNow": "Bergabung Sekarang",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "getStarted": "Mulai",
+    "contactUs": "Hubungi Kami",
+    "copyright": "Arabian Eagle International © 2011",
+    "legalNotice": "Pemberitahuan Hukum",
+    "downloadPdf": "Unduh PDF",
+    "page": "Halaman",
+    "of": "dari",
+    "email": "Email",
+    "phone": "Telepon",
+    "website": "Situs Web"
+  },
+  "brochure": {
+    "ourImpact": "Dampak Kami",
+    "memberBenefits": "Manfaat Anggota",
+    "ourServices": "Layanan Kami",
+    "moreServices": "Layanan Lainnya",
+    "membershipTiers": "Tingkat Keanggotaan",
+    "hotDeals": "Penawaran Menarik",
+    "moreHotDeals": "Lebih Banyak Penawaran",
+    "saveUpTo": "Hemat hingga",
+    "packageIncludes": "Paket Termasuk:",
+    "starter": "PEMULA",
+    "recommended": "DIREKOMENDASIKAN",
+    "premium": "PREMIUM",
+    "mostPopular": "⭐ Paling Populer",
+    "readyToStart": "Siap Memulai Perjalanan Anda?",
+    "service": "Layanan",
+    "was": "Sebelumnya",
+    "nowOnly": "Sekarang Hanya"
+  },
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang AE",
+    "cards": "Kartu AE",
+    "priorityPass": "Priority Pass",
+    "services": "Layanan",
+    "join": "Bergabung",
+    "contact": "Kontak",
+    "experiences": "Pengalaman Perjalanan",
+    "hotels": "Permintaan Tarif Hotel",
+    "deals": "Penawaran Liburan",
+    "login": "Masuk",
+    "register": "Daftar"
+  },
+  "home": {
+    "hero": {
+      "title": "Membuat Perjalanan",
+      "titleHighlight": "Lebih Mudah",
+      "subtitle": "Kartu ARABIAN EAGLE INT'L telah dikembangkan khusus untuk meminimalkan masalah bagi pelancong internasional yang sering bepergian, sekaligus mengurangi biaya pada layanan utama.",
+      "ctaPrimary": "Bergabung Sekarang",
+      "ctaSecondary": "Pelajari Lebih Lanjut"
+    },
+    "stats": {
+      "hotels": "1.145.000+",
+      "hotelsLabel": "Hotel di Seluruh Dunia",
+      "lounges": "850+",
+      "loungesLabel": "Lounge VIP",
+      "countries": "120+",
+      "countriesLabel": "Negara",
+      "discount": "75%",
+      "discountLabel": "Diskon Hingga"
+    },
+    "benefits": {
+      "title": "Manfaat Eksklusif Anggota",
+      "subtitle": "Nikmati layanan perjalanan premium dengan harga terbaik",
+      "hotelTitle": "Diskon Hotel",
+      "hotelDesc": "Akses ke 1.145.000+ hotel di seluruh dunia dengan diskon hingga 75% dari tarif normal",
+      "loungeTitle": "Lounge Bandara",
+      "loungeDesc": "850+ lounge VIP di bandara utama di lebih dari 120 negara, terlepas dari maskapai Anda",
+      "carTitle": "Sewa Mobil",
+      "carDesc": "Hemat hingga 30% untuk sewa mobil untuk semua perjalanan Anda di seluruh dunia",
+      "cardTitle": "MasterCard",
+      "cardDesc": "Kartu debit prabayar Arabian Eagle MasterCard dengan hak istimewa anggota eksklusif"
+    },
+    "promotion": {
+      "title": "Penawaran Khusus",
+      "freePass": "Priority Pass GRATIS selama satu tahun",
+      "withFirstTrip": "Dengan PERJALANAN pertama"
+    },
+    "howItWorks": {
+      "title": "Cara Kerja",
+      "step1Title": "Bergabung dengan Keanggotaan",
+      "step1Desc": "Daftar dan dapatkan ID Pengguna dan Kata Sandi Anda",
+      "step2Title": "Pesan & Hemat",
+      "step2Desc": "Akses diskon eksklusif untuk hotel, lounge, dan sewa mobil",
+      "step3Title": "Perjalanan Mudah",
+      "step3Desc": "Nikmati layanan premium dan buat perjalanan Anda nyaman dengan biaya lebih sedikit"
+    },
+    "cta": {
+      "title": "Mulai Menghemat di Perjalanan Berikutnya",
+      "description": "Daftar sekarang untuk ID Pengguna dan Kata Sandi Anda sehingga Anda dapat mengakses situs untuk detail manfaat lengkap dan mulai menghemat hari ini!",
+      "button": "Buat Akun"
+    }
+  },
+  "about": {
+    "title": "Tentang Arabian Eagle",
+    "subtitle": "Mitra terpercaya Anda dalam perjalanan internasional"
+  },
+  "cards": {
+    "title": "Kartu Arabian Eagle",
+    "subtitle": "Pilih kartu yang sesuai dengan kebutuhan perjalanan Anda"
+  },
+  "priorityPass": {
+    "title": "Keanggotaan Arabian Eagle Priority Pass",
+    "subtitle": "Program Global Independen Terbesar"
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "subtitle": "Solusi perjalanan komprehensif untuk anggota kami"
+  },
+  "join": {
+    "title": "Bergabung dengan Arabian Eagle",
+    "subtitle": "Mulai menghemat perjalanan Anda hari ini"
+  },
+  "contact": {
+    "title": "Kantor Kami di Seluruh Dunia",
+    "subtitle": "Kami di sini untuk membantu",
+    "form": {
+      "name": "Nama",
+      "email": "Email",
+      "phone": "Telepon",
+      "country": "Negara",
+      "city": "Kota",
+      "subject": "Subjek",
+      "message": "Pesan",
+      "submit": "Kirim Pesan"
+    }
+  },
+  "hotels": {
+    "title": "Minta tarif kamar hotel",
+    "subtitle": "Silakan masukkan informasi berikut",
+    "discount": "DISKON hingga 75%"
+  },
+  "deals": {
+    "title": "Penawaran Liburan Super Hemat",
+    "subtitle": "Penawaran eksklusif untuk anggota kami"
+  },
+  "experiences": {
+    "title": "Pengalaman Perjalanan",
+    "subtitle": "Cerita dari anggota kami"
+  },
+  "footer": {
+    "about": "Tentang Kami",
+    "services": "Layanan",
+    "support": "Dukungan",
+    "newsletter": {
+      "title": "Berlangganan Buletin",
+      "placeholder": "Masukkan email Anda",
+      "button": "Berlangganan"
+    },
+    "social": "Ikuti Kami"
+  }
+}
