@@ -2,24 +2,23 @@
 
 import { Button } from '@/components/ui/button';
 import { Download } from 'lucide-react';
+import { Link } from '@/i18n/routing';
 
 interface DownloadPdfButtonProps {
   label: string;
 }
 
 export function DownloadPdfButton({ label }: DownloadPdfButtonProps) {
-  const handleDownload = () => {
-    window.print();
-  };
-
   return (
     <Button
-      onClick={handleDownload}
+      asChild
       size="lg"
       className="no-print gap-2"
     >
-      <Download className="h-5 w-5" />
-      {label}
+      <Link href="/brochure">
+        <Download className="h-5 w-5" />
+        {label}
+      </Link>
     </Button>
   );
 }

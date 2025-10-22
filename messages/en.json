@@ -9,7 +9,31 @@
     "contactUs": "Contact Us",
     "copyright": "Arabian Eagle International © 2011",
     "legalNotice": "Legal Notice",
-    "downloadPdf": "Download PDF"
+    "downloadPdf": "Download PDF",
+    "page": "Page",
+    "of": "of",
+    "email": "Email",
+    "phone": "Phone",
+    "website": "Website"
+  },
+  "brochure": {
+    "ourImpact": "Our Impact",
+    "memberBenefits": "Member Benefits",
+    "ourServices": "Our Services",
+    "moreServices": "More Services",
+    "membershipTiers": "Membership Tiers",
+    "hotDeals": "Hot Deals",
+    "moreHotDeals": "More Hot Deals",
+    "saveUpTo": "Save up to",
+    "packageIncludes": "Package Includes:",
+    "starter": "STARTER",
+    "recommended": "RECOMMENDED",
+    "premium": "PREMIUM",
+    "mostPopular": "⭐ Most Popular",
+    "readyToStart": "Ready to Start Your Journey?",
+    "service": "Service",
+    "was": "Was",
+    "nowOnly": "Now Only"
   },
   "nav": {
     "home": "Home",

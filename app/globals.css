@@ -5,47 +5,47 @@
 @layer base {
   :root {
     --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --foreground: 238 24% 23%;
     --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card-foreground: 238 24% 23%;
     --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
-    --primary: 210 100% 50%;
-    --primary-foreground: 210 40% 98%;
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
-    --accent: 45 100% 51%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --popover-foreground: 238 24% 23%;
+    --primary: 238 24% 23%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 220 8% 91%;
+    --secondary-foreground: 238 24% 23%;
+    --muted: 220 8% 91%;
+    --muted-foreground: 238 24% 45%;
+    --accent: 45 100% 58%;
+    --accent-foreground: 238 24% 23%;
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 210 100% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 220 8% 91%;
+    --input: 220 8% 91%;
+    --ring: 45 100% 58%;
     --radius: 0.5rem;
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-    --primary: 210 100% 50%;
-    --primary-foreground: 222.2 47.4% 11.2%;
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-    --accent: 45 100% 51%;
-    --accent-foreground: 210 40% 98%;
+    --background: 238 24% 15%;
+    --foreground: 220 8% 91%;
+    --card: 238 24% 18%;
+    --card-foreground: 220 8% 91%;
+    --popover: 238 24% 18%;
+    --popover-foreground: 220 8% 91%;
+    --primary: 45 100% 58%;
+    --primary-foreground: 238 24% 23%;
+    --secondary: 238 24% 25%;
+    --secondary-foreground: 220 8% 91%;
+    --muted: 238 24% 25%;
+    --muted-foreground: 220 8% 70%;
+    --accent: 45 100% 58%;
+    --accent-foreground: 238 24% 23%;
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
+    --destructive-foreground: 220 8% 91%;
+    --border: 238 24% 25%;
+    --input: 238 24% 25%;
+    --ring: 45 100% 58%;
   }
 }
 
@@ -69,9 +69,56 @@ body {
   font-family: 'Cairo', sans-serif;
 }
 
+/* A4 PDF Page Simulation */
+.pdf-page {
+  width: 210mm;
+  height: 297mm;
+  margin: 20px auto;
+  background: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  position: relative;
+  page-break-after: always;
+}
+
+.pdf-container {
+  background: #f5f5f5;
+  padding: 20px 0;
+}
+
+.page-number {
+  position: absolute;
+  bottom: 10mm;
+  right: 10mm;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #666;
+  z-index: 10;
+}
+
+.pdf-controls {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  gap: 8px;
+}
+
 /* Print Styles for Brochure */
 @media print {
   .no-print {
+    display: none !important;
+  }
+  
+  .page-number {
+    display: none !important;
+  }
+  
+  .pdf-controls {
     display: none !important;
   }
   
@@ -86,14 +133,16 @@ body {
     overflow: hidden !important;
   }
   
-  .page-break {
-    page-break-after: always;
-    break-after: page;
+  .pdf-container {
+    background: white;
+    padding: 0;
   }
   
-  .avoid-break {
-    page-break-inside: avoid;
-    break-inside: avoid;
+  .pdf-page {
+    box-shadow: none !important;
+    margin: 0 !important;
+    page-break-after: always;
+    break-after: page;
   }
   
   body {
@@ -110,7 +159,7 @@ body {
 
 @page {
   size: A4;
-  margin: 1cm;
+  margin: 0;
 }
 
 

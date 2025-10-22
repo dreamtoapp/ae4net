@@ -9,7 +9,31 @@
     "contactUs": "اتصل بنا",
     "copyright": "النسر العربي الدولي © 2011",
     "legalNotice": "إشعار قانوني",
-    "downloadPdf": "تحميل PDF"
+    "downloadPdf": "تحميل PDF",
+    "page": "صفحة",
+    "of": "من",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "website": "الموقع الإلكتروني"
+  },
+  "brochure": {
+    "ourImpact": "تأثيرنا",
+    "memberBenefits": "مزايا الأعضاء",
+    "ourServices": "خدماتنا",
+    "moreServices": "المزيد من الخدمات",
+    "membershipTiers": "مستويات العضوية",
+    "hotDeals": "عروض ساخنة",
+    "moreHotDeals": "المزيد من العروض الساخنة",
+    "saveUpTo": "وفّر حتى",
+    "packageIncludes": "تشمل الباقة:",
+    "starter": "مبتدئ",
+    "recommended": "موصى به",
+    "premium": "بريميوم",
+    "mostPopular": "⭐ الأكثر شعبية",
+    "readyToStart": "هل أنت مستعد لبدء رحلتك؟",
+    "service": "خدمة",
+    "was": "كان",
+    "nowOnly": "الآن فقط"
   },
   "nav": {
     "home": "الرئيسية",
