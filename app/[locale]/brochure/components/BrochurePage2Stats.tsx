@@ -44,9 +44,9 @@ export function BrochurePage2Stats() {
         <div className="grid grid-cols-2 gap-5">
           <Card className="group relative overflow-hidden border-0 shadow-lg hover:shadow-xl transition-all">
             <div className="absolute inset-0 bg-gradient-to-br from-primary to-primary/90 transform group-hover:scale-105 transition-transform" />
-            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5">
+            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5 z-10">
               <div className="mb-2">
-                <Hotel className="h-8 w-8 text-brand-gold" />
+                <Hotel className="h-8 w-8 text-brand-gold drop-shadow-md" />
               </div>
               <div className="text-4xl font-black text-primary-foreground mb-1.5 tracking-tight">1,145,000+</div>
               <div className="h-0.5 w-12 bg-brand-gold rounded-full mb-1.5" />
@@ -56,9 +56,9 @@ export function BrochurePage2Stats() {
 
           <Card className="group relative overflow-hidden border-0 shadow-lg hover:shadow-xl transition-all">
             <div className="absolute inset-0 bg-gradient-to-br from-brand-navy to-brand-navy/90 transform group-hover:scale-105 transition-transform" />
-            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5">
+            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5 z-10">
               <div className="mb-2">
-                <Armchair className="h-8 w-8 text-brand-gold" />
+                <Armchair className="h-8 w-8 text-brand-gold drop-shadow-md" />
               </div>
               <div className="text-4xl font-black text-white mb-1.5 tracking-tight">850+</div>
               <div className="h-0.5 w-12 bg-brand-gold rounded-full mb-1.5" />
@@ -68,24 +68,24 @@ export function BrochurePage2Stats() {
 
           <Card className="group relative overflow-hidden border-0 shadow-lg hover:shadow-xl transition-all">
             <div className="absolute inset-0 bg-gradient-to-br from-secondary to-secondary/90 transform group-hover:scale-105 transition-transform" />
-            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5">
+            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5 z-10">
               <div className="mb-2">
-                <Globe className="h-8 w-8 text-brand-gold" />
+                <Globe className="h-8 w-8 text-secondary-foreground drop-shadow-md" />
               </div>
               <div className="text-4xl font-black text-secondary-foreground mb-1.5 tracking-tight">120+</div>
-              <div className="h-0.5 w-12 bg-brand-gold rounded-full mb-1.5" />
+              <div className="h-0.5 w-12 bg-secondary-foreground/40 rounded-full mb-1.5" />
               <p className="text-xs text-secondary-foreground/90 font-medium uppercase tracking-wide">{t('home.stats.countriesLabel')}</p>
             </CardContent>
           </Card>
 
           <Card className="group relative overflow-hidden border-0 shadow-lg hover:shadow-xl transition-all">
             <div className="absolute inset-0 bg-gradient-to-br from-accent to-accent/90 transform group-hover:scale-105 transition-transform" />
-            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5">
+            <CardContent className="relative p-0 flex flex-col justify-center items-center text-center py-6 px-5 z-10">
               <div className="mb-2">
-                <Percent className="h-8 w-8 text-brand-gold" />
+                <Percent className="h-8 w-8 text-accent-foreground drop-shadow-md" />
               </div>
               <div className="text-4xl font-black text-accent-foreground mb-1.5 tracking-tight">75%</div>
-              <div className="h-0.5 w-12 bg-brand-gold rounded-full mb-1.5" />
+              <div className="h-0.5 w-12 bg-accent-foreground/40 rounded-full mb-1.5" />
               <p className="text-xs text-accent-foreground/90 font-medium uppercase tracking-wide">{t('home.stats.discountLabel')}</p>
             </CardContent>
           </Card>
