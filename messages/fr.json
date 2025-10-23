@@ -42,17 +42,17 @@
   },
   "nav": {
     "home": "Accueil",
-    "about": "À Propos d'AE",
-    "cards": "Cartes AE",
+    "about": "Arabian Eagle",
+    "cards": "Cartes",
     "priorityPass": "Priority Pass",
     "services": "Services",
-    "join": "Nous Rejoindre",
-    "contact": "Contacts",
-    "experiences": "Expérience de Voyage",
-    "hotels": "Demander les Tarifs Hôteliers",
-    "deals": "Offres Vacances",
+    "join": "Adhésion",
+    "contact": "Contact",
+    "experiences": "Expériences",
+    "hotels": "Hôtels",
+    "deals": "Offres",
     "login": "Connexion",
-    "register": "S'inscrire"
+    "register": "Inscription"
   },
   "home": {
     "hero": {
@@ -220,6 +220,22 @@
   "cards": {
     "title": "Cartes Arabian Eagle",
     "subtitle": "Choisissez la carte qui correspond à vos besoins de voyage",
+    "showcase": {
+      "title": "Découvrez Nos Cartes d'Adhésion Exclusives",
+      "description": "Explorez la gamme de cartes d'adhésion Arabian Eagle, chacune conçue pour améliorer votre expérience de voyage avec des avantages et privilèges inégalés.",
+      "card1Alt": "Carte Priority Pass Arabian Eagle",
+      "card1Name": "Priority Pass",
+      "card1Brief": "Pour garantir une expérience de voyage plus pratique pour les voyageurs Arabian Eagle de toutes les classes, nous sommes heureux d'offrir aux membres Arabian Eagle le Priority Pass qui leur donne accès à plus de 850 salons VIP dans les aéroports internationaux de plus de 120 pays et 400 villes dans le monde.",
+      "card2Alt": "Carte d'Adhésion Arabian Eagle",
+      "card2Name": "Carte d'Adhésion",
+      "card2Brief": "L'adhésion VIP Arabian Eagle d'Arabian Eagle International offre au membre une gamme d'avantages qui non seulement permettent d'économiser de l'argent, mais rendent également les voyages internationaux beaucoup plus faciles.",
+      "card3Alt": "Carte Shorakaa Arabian Eagle",
+      "card3Name": "Carte Shorakaa Arabian Eagle",
+      "card3Brief": "Carte super économique de réduction des coûts. La carte Shorakaa Arabian Eagle super économique est utilisée à plusieurs fins. Elle permet à son titulaire d'obtenir des réductions dans les centres commerciaux, les clubs de santé et les sociétés de location de voitures dans tout le Royaume.",
+      "card4Alt": "Carte Internationale Arabian Eagle - Master Card",
+      "card4Name": "Carte Internationale Arabian Eagle - Master Card",
+      "card4Brief": "La carte internationale Arabian Eagle fonctionne comme n'importe quelle autre carte de crédit. Cependant, vous seul déterminez combien vous dépensez grâce au pré-dépôt. Vous pouvez commander notre nouvelle carte de débit prépayée Arabian Eagle International MasterCard®."
+    },
     "basic": {
       "name": "Carte Basique",
       "annualFee": "99",
@@ -294,9 +310,9 @@
     }
   },
   "priorityPass": {
-    "title": "Adhésion Priority Pass Arabian Eagle",
-    "subtitle": "Le Plus Grand Programme Mondial Indépendant",
-    "description": "Il s'agit du plus grand programme mondial indépendant permettant à tous les clients d'Arabian Eagle d'éviter le bruit des aéroports bondés en accédant à plus de 850 salons VIP dans les aéroports internationaux du monde entier, rendant vos temps d'attente dans les aéroports pleins de luxe, de calme et de tranquillité d'esprit jusqu'au moment de l'embarquement. Vous profiterez de l'accès aux salons où que vous soyez, quelle que soit la classe de voyage ou la compagnie aérienne avec laquelle vous voyagez.",
+    "title": "Accès aux Salons d'Aéroport Priority Pass",
+    "subtitle": "Détenteurs de Cartes MasterCard Éligibles",
+    "description": "L'accès aux salons d'aéroport Priority Pass offre aux détenteurs de cartes MasterCard éligibles l'accès à, et tous les privilèges de, plus de 850 salons VIP dans les principaux aéroports de plus de 120 pays dans le monde. Les détenteurs de cartes éligibles profiteront de toutes les commodités d'un salon d'aéroport, quelle que soit la compagnie aérienne, l'adhésion de voyageur fréquent ou la classe de billet achetée.",
     "stats": {
       "lounges": "850+",
       "loungesLabel": "Salons dans le Monde",
@@ -306,21 +322,35 @@
       "citiesLabel": "Villes"
     },
     "howToUse": {
-      "title": "Comment Utiliser Priority Pass",
-      "step1": "Avant de voyager, les voyageurs peuvent consulter les salons du pays où ils se rendent en recherchant dans le répertoire disponible sur le site Web",
-      "step2": "À l'arrivée, présentez votre carte au personnel de réception du salon sélectionné",
-      "step3": "Un membre du personnel du salon sera ravi de fournir ses services et de vous diriger vers ce dont chaque voyageur a besoin jusqu'à l'heure de l'embarquement",
-      "step4": "Les détenteurs de cartes profiteront de rafraîchissements gratuits, de journaux, de télévision. De plus, il y a accès aux installations d'affaires, y compris téléphone, fax, services de conférence et internet"
+      "title": "Comment Fonctionne Priority Pass",
+      "stepTitle1": "Avant le Voyage",
+      "stepTitle2": "Admission",
+      "beforeTravel": "Avant de voyager, les détenteurs de cartes peuvent se connecter à Priority Pass et consulter un répertoire des salons d'aéroport disponibles dans le monde entier.",
+      "admissionTitle": "Admission",
+      "admission": "Les détenteurs de cartes éligibles présentent leurs cartes d'adhésion Priority Pass pour obtenir l'admission pour eux-mêmes.",
+      "guests": "Les invités sont autorisés à la discrétion de chaque salon."
     },
     "benefits": {
-      "title": "Avantages de l'Adhésion Priority Pass",
-      "peaceAndCalm": {
-        "title": "Paix et Calme",
-        "description": "Les aéroports sont des endroits bondés qui créent du stress et de l'inconfort. La meilleure façon de se débarrasser de ce stress est d'entrer dans l'un des salons luxueux en attendant votre vol. L'adhésion Priority Pass vous permet de profiter de l'accès à ces salons et de bénéficier de leurs services lors de vos voyages à tout moment, quelle que soit votre classe de vol ou la compagnie aérienne avec laquelle vous traitez"
+      "title": "Avantages de l'Adhésion",
+      "access": {
+        "title": "Accès",
+        "description": "Utilisez n'importe quel salon du programme chaque fois que vous voyagez."
       },
-      "worldwide": {
-        "title": "Salons Partout dans le Monde",
-        "description": "Nous avons de nombreux salons d'affaires, vous pouvez donc accéder à plus de 850 salons dans plus de 120 pays et plus de 400 villes, y compris les aéroports les plus importants du Moyen-Orient, en particulier les aéroports d'Arabie Saoudite et du Golfe Arabique"
+      "network": {
+        "title": "Réseau de Salons",
+        "description": "Plus de 850 salons à travers le monde sont disponibles pour tous les membres."
+      },
+      "value": {
+        "title": "Valeur",
+        "description": "L'adhésion offre un excellent rapport qualité-prix."
+      },
+      "facilities": {
+        "title": "Installations",
+        "description": "Les salons offrent des rafraîchissements gratuits, des journaux, la télévision et des installations d'affaires (téléphone, fax, conférence et installations Internet, lorsque disponibles)."
+      },
+      "economicAdvantage": {
+        "title": "Avantage Économique",
+        "description": "En adhérant, les voyageurs peuvent s'assurer d'avoir accès aux installations des salons VIP, même en voyageant en classe économique, ce qui est bénéfique pour ceux qui cherchent à réduire les coûts de voyage ou à passer de la classe affaires."
       }
     },
     "features": {
@@ -333,17 +363,17 @@
       "feature6": "Entrée quelle que soit la classe de billet ou la compagnie aérienne"
     },
     "companion": {
-      "title": "Accès des Compagnons",
-      "description": "Ce service distingué n'est pas seulement pour vous, mais pour les compagnons avec vous tels que les membres de la famille, les amis ou l'un de vos proches, et ils bénéficient des mêmes avantages mentionnés pour des frais nominaux de 27 $ USD, ce qui n'est pas beaucoup compte tenu de ces privilèges",
-      "fee": "27 $ USD par compagnon"
+      "title": "Politique d'Invités",
+      "description": "Les invités sont autorisés à la discrétion de chaque salon."
     },
     "keyAccess": {
       "title": "Clé d'Accès aux Salons VIP dans le Monde Entier",
-      "description": "La carte Arabian Eagle International est la clé pour accéder aux salons VIP dans le monde entier, rendant vos temps d'attente dans les aéroports pleins de luxe, de calme et de tranquillité d'esprit jusqu'au moment de l'embarquement"
+      "description": "La carte Arabian Eagle International est la clé pour accéder aux salons VIP dans le monde entier, rendant vos temps d'attente dans les aéroports pleins de luxe, de calme et de tranquillité d'esprit jusqu'au moment de l'embarquement."
     },
     "freeOffer": {
       "title": "GRATUIT pendant Un An",
-      "subtitle": "Avec le Premier Voyage"
+      "subtitle": "Avec le Premier Voyage",
+      "badge": "Offre Spéciale"
     },
     "amenities": {
       "title": "Commodités du Salon",
@@ -355,6 +385,10 @@
       "newspaper": "Journaux et magazines",
       "tv": "Télévision",
       "business": "Installations d'affaires"
+    },
+    "disclaimer": {
+      "title": "Avis de Non-responsabilité",
+      "text": "Les informations contenues sont fournies uniquement à des fins d'information générale. Elles ne prétendent pas être une description complète de tous les termes, conditions, limitations, exclusions ou autres dispositions de tout programme ou avantages d'assurance fournis par, pour ou délivrés à la carte Arabian Eagle International. Pour toute question, contactez le centre d'assistance de la carte Arabian Eagle International."
     }
   },
   "services": {

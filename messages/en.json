@@ -42,15 +42,15 @@
   },
   "nav": {
     "home": "Home",
-    "about": "About AE",
-    "cards": "AE Cards",
+    "about": "Arabian Eagle",
+    "cards": "Cards",
     "priorityPass": "Priority Pass",
     "services": "Services",
-    "join": "Join us",
-    "contact": "Contacts",
-    "experiences": "Travel experience",
-    "hotels": "Request hotel rates",
-    "deals": "Holidays Super Saver",
+    "join": "Membership",
+    "contact": "Contact",
+    "experiences": "Experiences",
+    "hotels": "Hotels",
+    "deals": "Deals",
     "login": "Login",
     "register": "Register"
   },
@@ -220,6 +220,22 @@
   "cards": {
     "title": "Arabian Eagle Cards",
     "subtitle": "Choose the card that fits your travel needs",
+    "showcase": {
+      "title": "Discover Our Exclusive Membership Cards",
+      "description": "Explore the range of Arabian Eagle membership cards, each designed to enhance your travel experience with unparalleled benefits and privileges.",
+      "card1Alt": "Arabian Eagle Priority Pass Card",
+      "card1Name": "Priority Pass",
+      "card1Brief": "To ensure a more convenient travel experience for Arabian Eagle travelers of all class status, we are pleased to offer Arabian Eagle members the priority pass which grants them access to over 850 VIP lounges at international airports in more than 120 countries and 400 cities worldwide.",
+      "card2Alt": "Arabian Eagle Membership Card",
+      "card2Name": "Membership Card",
+      "card2Brief": "The Arabian Eagle VIP Membership from Arabian Eagle International offers the member range of benefits that not only saves money, but also makes international travel that much easier.",
+      "card3Alt": "Shorakaa Arabian Eagle Card",
+      "card3Name": "Shorakaa Arabian Eagle Card",
+      "card3Brief": "Super saver cost cutter card. The Shorakaa Arabian Eagle super saver Card is to be used for several purposes. It enables its holder to get discounts in shopping centers, health clubs and car hire companies all over the Kingdom.",
+      "card4Alt": "Arabian Eagle International Card - Master Card",
+      "card4Name": "Arabian Eagle International Card - Master Card",
+      "card4Brief": "Arabian Eagle International Card is like any other credit card. However, you are only determine how much you spend out through the pre-deposit. You can order our new Arabian Eagle International MasterCard® prepaid debit card."
+    },
     "basic": {
       "name": "Basic Card",
       "annualFee": "99",
@@ -294,9 +310,9 @@
     }
   },
   "priorityPass": {
-    "title": "Arabian Eagle Priority Pass Membership",
-    "subtitle": "The Largest Independent Global Program",
-    "description": "This is the largest independent global program enabling all Arabian Eagle customers to avoid the noise of crowded airports by accessing more than 850 VIP lounges in international airports around the world, making your waiting times at airports full of luxury, calm and peace of mind until boarding time. You will enjoy access to lounges wherever you want, regardless of travel class or the airline you are traveling with.",
+    "title": "Priority Pass Airport Lounge Access",
+    "subtitle": "Eligible MasterCard Cardholders",
+    "description": "Priority Pass Airport Lounge Access provides eligible MasterCard cardholders with access to, and all of the privileges of, more than 850 VIP lounges in major airports in over 120 countries worldwide. Eligible cardholders will enjoy all of the convenience of an airport lounge, regardless of airline, frequent flyer membership, or class of ticket bought.",
     "stats": {
       "lounges": "850+",
       "loungesLabel": "Lounges Worldwide",
@@ -306,21 +322,35 @@
       "citiesLabel": "Cities"
     },
     "howToUse": {
-      "title": "How to Use Priority Pass",
-      "step1": "Before traveling, travelers can view lounges in the country they are traveling to by searching the directory available on the website",
-      "step2": "Upon arrival, present your card to the reception staff at the selected lounge",
-      "step3": "A lounge staff member will be pleased to provide their services and direct you to what each traveler needs until boarding time",
-      "step4": "Cardholders will enjoy complimentary refreshments, newspapers, television. In addition, there is access to business facilities including telephone, fax, conference services, and internet"
+      "title": "How Priority Pass Works",
+      "stepTitle1": "Before Travel",
+      "stepTitle2": "Admission",
+      "beforeTravel": "Before traveling, cardholders can log on to Priority Pass and view a directory of airport lounges available worldwide.",
+      "admissionTitle": "Admission",
+      "admission": "Eligible cardholders present their Priority Pass membership cards to gain admission for themselves.",
+      "guests": "Guests are permitted at the discretion of each lounge."
     },
     "benefits": {
-      "title": "Priority Pass Membership Benefits",
-      "peaceAndCalm": {
-        "title": "Peace and Calm",
-        "description": "Airports are crowded places that create stress and discomfort. The best way to get rid of that stress is to enter one of the luxurious lounges while waiting for your flight. Priority Pass membership allows you to enjoy access to these lounges and benefit from their services when traveling at any time, regardless of your flight class or the airline you deal with"
+      "title": "Membership Benefits",
+      "access": {
+        "title": "Access",
+        "description": "Use any of the lounges in the program whenever you travel."
       },
-      "worldwide": {
-        "title": "Lounges Around the World",
-        "description": "We have many business lounges, so you can access more than 850 lounges in more than 120 countries and more than 400 cities, including the most important airports in the Middle East, especially airports in Saudi Arabia and the Arabian Gulf"
+      "network": {
+        "title": "Lounge Network",
+        "description": "Over 850 lounges throughout the world are available to all members."
+      },
+      "value": {
+        "title": "Value",
+        "description": "Membership offers great value for money."
+      },
+      "facilities": {
+        "title": "Facilities",
+        "description": "Lounges offer complimentary refreshments, newspapers, television, and business facilities (phone, fax, conference, and Internet facilities, where available)."
+      },
+      "economicAdvantage": {
+        "title": "Economic Advantage",
+        "description": "By joining, travelers can ensure they gain access to VIP lounge facilities, even when flying economy class, which is beneficial for those seeking to cut travel costs or downgrading from business class."
       }
     },
     "features": {
@@ -333,17 +363,17 @@
       "feature6": "Entry regardless of ticket class or airline"
     },
     "companion": {
-      "title": "Companion Access",
-      "description": "This distinguished service is not just for you, but for companions with you such as family members, friends, or any of your relatives, and they enjoy the same mentioned benefits for a nominal fee of $27 USD, which is not much considering those privileges",
-      "fee": "$27 USD per companion"
+      "title": "Guest Policy",
+      "description": "Guests are permitted at the discretion of each lounge."
     },
     "keyAccess": {
       "title": "Key to VIP Lounge Access Worldwide",
-      "description": "Arabian Eagle International Card is the key to accessing VIP lounges worldwide, making your waiting times at airports full of luxury, calm, and peace of mind until boarding time"
+      "description": "Arabian Eagle International Card is the key to accessing VIP lounges worldwide, making your waiting times at airports full of luxury, calm, and peace of mind until boarding time."
     },
     "freeOffer": {
       "title": "FREE for One Year",
-      "subtitle": "With the First Trip"
+      "subtitle": "With the First Trip",
+      "badge": "Special Offer"
     },
     "amenities": {
       "title": "Lounge Amenities",
@@ -355,6 +385,10 @@
       "newspaper": "Newspapers & magazines",
       "tv": "Television",
       "business": "Business facilities"
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "text": "The information contained is provided solely for general informational purposes. It does not intend to be a complete description of all terms, conditions, limitations, exclusions, or other provisions of any program or insurance benefits provided by, or for, or issued to Arabian Eagle International Card. For any questions, contact the Arabian Eagle International Card Assistance center."
     }
   },
   "services": {

@@ -10,6 +10,10 @@ import '../globals.css';
 export const metadata: Metadata = {
   title: 'Arabian Eagle International - Makes Travelling Easier',
   description: 'Access 1,145,000+ hotels worldwide, 850+ VIP lounges, and exclusive travel benefits. Your trusted partner in international travel.',
+  icons: {
+    icon: '/assets/logo.png',
+    apple: '/assets/logo.png',
+  },
 };
 
 export function generateStaticParams() {

@@ -42,15 +42,15 @@
   },
   "nav": {
     "home": "Startseite",
-    "about": "Über AE",
-    "cards": "AE Karten",
+    "about": "Arabian Eagle",
+    "cards": "Karten",
     "priorityPass": "Priority Pass",
     "services": "Dienstleistungen",
-    "join": "Beitreten",
+    "join": "Mitgliedschaft",
     "contact": "Kontakt",
-    "experiences": "Reiseerfahrungen",
-    "hotels": "Hotelpreise anfragen",
-    "deals": "Urlaubsangebote",
+    "experiences": "Erlebnisse",
+    "hotels": "Hotels",
+    "deals": "Angebote",
     "login": "Anmelden",
     "register": "Registrieren"
   },
@@ -220,6 +220,22 @@
   "cards": {
     "title": "Arabian Eagle Karten",
     "subtitle": "Wählen Sie die Karte, die zu Ihren Reisebedürfnissen passt",
+    "showcase": {
+      "title": "Entdecken Sie Unsere Exklusiven Mitgliedskarten",
+      "description": "Erkunden Sie die Palette der Arabian Eagle Mitgliedskarten, die jeweils darauf ausgelegt sind, Ihr Reiseerlebnis mit unvergleichlichen Vorteilen und Privilegien zu verbessern.",
+      "card1Alt": "Arabian Eagle Priority Pass Karte",
+      "card1Name": "Priority Pass",
+      "card1Brief": "Um ein komfortableres Reiseerlebnis für Arabian Eagle Reisende aller Klassenstatus zu gewährleisten, freuen wir uns, Arabian Eagle Mitgliedern den Priority Pass anzubieten, der ihnen Zugang zu über 850 VIP-Lounges an internationalen Flughäfen in mehr als 120 Ländern und 400 Städten weltweit gewährt.",
+      "card2Alt": "Arabian Eagle Mitgliedskarte",
+      "card2Name": "Mitgliedskarte",
+      "card2Brief": "Die Arabian Eagle VIP-Mitgliedschaft von Arabian Eagle International bietet dem Mitglied eine Reihe von Vorteilen, die nicht nur Geld sparen, sondern auch internationale Reisen erheblich erleichtern.",
+      "card3Alt": "Shorakaa Arabian Eagle Karte",
+      "card3Name": "Shorakaa Arabian Eagle Karte",
+      "card3Brief": "Super-Spar-Kostensenkungskarte. Die Shorakaa Arabian Eagle Super-Spar-Karte wird für mehrere Zwecke verwendet. Sie ermöglicht dem Inhaber Rabatte in Einkaufszentren, Fitnessclubs und Autovermietungen im gesamten Königreich.",
+      "card4Alt": "Arabian Eagle International Karte - Master Card",
+      "card4Name": "Arabian Eagle International Karte - Master Card",
+      "card4Brief": "Die Arabian Eagle International Karte funktioniert wie jede andere Kreditkarte. Sie bestimmen jedoch nur, wie viel Sie durch die Vorauszahlung ausgeben. Sie können unsere neue Arabian Eagle International MasterCard® Prepaid-Debitkarte bestellen."
+    },
     "basic": {
       "name": "Basiskarte",
       "annualFee": "99",
@@ -294,9 +310,9 @@
     }
   },
   "priorityPass": {
-    "title": "Arabian Eagle Priority Pass Mitgliedschaft",
-    "subtitle": "Das größte unabhängige globale Programm",
-    "description": "Dies ist das größte unabhängige globale Programm, das es allen Arabian Eagle Kunden ermöglicht, dem Lärm überfüllter Flughäfen zu entfliehen, indem sie auf mehr als 850 VIP-Lounges in internationalen Flughäfen auf der ganzen Welt zugreifen, wodurch Ihre Wartezeiten an Flughäfen voller Luxus, Ruhe und Seelenfrieden bis zur Boardingzeit werden. Sie genießen den Zugang zu Lounges, wo immer Sie möchten, unabhängig von Reiseklasse oder der Fluggesellschaft, mit der Sie reisen.",
+    "title": "Priority Pass Flughafen-Lounge-Zugang",
+    "subtitle": "Berechtigte MasterCard-Karteninhaber",
+    "description": "Der Priority Pass Flughafen-Lounge-Zugang bietet berechtigten MasterCard-Karteninhabern Zugang zu und alle Privilegien von mehr als 850 VIP-Lounges an großen Flughäfen in über 120 Ländern weltweit. Berechtigte Karteninhaber genießen alle Annehmlichkeiten einer Flughafen-Lounge, unabhängig von Fluggesellschaft, Vielfliegermitgliedschaft oder gekaufter Ticketklasse.",
     "stats": {
       "lounges": "850+",
       "loungesLabel": "Lounges weltweit",
@@ -306,21 +322,35 @@
       "citiesLabel": "Städte"
     },
     "howToUse": {
-      "title": "Wie man Priority Pass verwendet",
-      "step1": "Vor der Reise können Reisende Lounges in dem Land, in das sie reisen, anzeigen, indem sie das auf der Website verfügbare Verzeichnis durchsuchen",
-      "step2": "Bei Ankunft präsentieren Sie Ihre Karte dem Empfangspersonal in der ausgewählten Lounge",
-      "step3": "Ein Lounge-Mitarbeiter wird gerne ihre Dienste anbieten und Sie zu dem führen, was jeder Reisende bis zur Boardingzeit benötigt",
-      "step4": "Karteninhaber genießen kostenlose Erfrischungen, Zeitungen, Fernsehen. Darüber hinaus gibt es Zugang zu Geschäftseinrichtungen einschließlich Telefon, Fax, Konferenzdienste und Internet"
+      "title": "Wie Priority Pass funktioniert",
+      "stepTitle1": "Vor der Reise",
+      "stepTitle2": "Eintritt",
+      "beforeTravel": "Vor der Reise können sich Karteninhaber bei Priority Pass anmelden und ein Verzeichnis der weltweit verfügbaren Flughafen-Lounges anzeigen.",
+      "admissionTitle": "Eintritt",
+      "admission": "Berechtigte Karteninhaber legen ihre Priority Pass Mitgliedskarten vor, um für sich selbst Eintritt zu erhalten.",
+      "guests": "Gäste sind nach Ermessen jeder Lounge gestattet."
     },
     "benefits": {
-      "title": "Priority Pass Mitgliedschaftsvorteile",
-      "peaceAndCalm": {
-        "title": "Frieden und Ruhe",
-        "description": "Flughäfen sind überfüllte Orte, die Stress und Unbehagen verursachen. Der beste Weg, diesen Stress loszuwerden, besteht darin, eine der luxuriösen Lounges zu betreten, während Sie auf Ihren Flug warten. Die Priority Pass Mitgliedschaft ermöglicht es Ihnen, jederzeit Zugang zu diesen Lounges zu genießen und von ihren Dienstleistungen zu profitieren, unabhängig von Ihrer Flugklasse oder der Fluggesellschaft, mit der Sie zu tun haben"
+      "title": "Mitgliedschaftsvorteile",
+      "access": {
+        "title": "Zugang",
+        "description": "Nutzen Sie eine der Lounges des Programms, wann immer Sie reisen."
       },
-      "worldwide": {
-        "title": "Lounges auf der ganzen Welt",
-        "description": "Wir haben viele Business-Lounges, sodass Sie auf mehr als 850 Lounges in mehr als 120 Ländern und mehr als 400 Städten zugreifen können, einschließlich der wichtigsten Flughäfen im Nahen Osten, insbesondere Flughäfen in Saudi-Arabien und am Arabischen Golf"
+      "network": {
+        "title": "Lounge-Netzwerk",
+        "description": "Über 850 Lounges auf der ganzen Welt stehen allen Mitgliedern zur Verfügung."
+      },
+      "value": {
+        "title": "Wert",
+        "description": "Die Mitgliedschaft bietet ein hervorragendes Preis-Leistungs-Verhältnis."
+      },
+      "facilities": {
+        "title": "Einrichtungen",
+        "description": "Lounges bieten kostenlose Erfrischungen, Zeitungen, Fernsehen und Geschäftseinrichtungen (Telefon, Fax, Konferenz- und Interneteinrichtungen, sofern verfügbar)."
+      },
+      "economicAdvantage": {
+        "title": "Wirtschaftlicher Vorteil",
+        "description": "Durch den Beitritt können Reisende sicherstellen, dass sie Zugang zu VIP-Lounge-Einrichtungen erhalten, auch wenn sie in der Economy-Klasse fliegen, was für diejenigen von Vorteil ist, die Reisekosten senken oder von der Business-Klasse herabstufen möchten."
       }
     },
     "features": {
@@ -333,17 +363,17 @@
       "feature6": "Eintritt unabhängig von Ticketklasse oder Fluggesellschaft"
     },
     "companion": {
-      "title": "Begleiter-Zugang",
-      "description": "Dieser hervorragende Service ist nicht nur für Sie, sondern auch für Begleiter wie Familienmitglieder, Freunde oder Verwandte, und sie genießen die gleichen genannten Vorteile für eine nominelle Gebühr von 27 USD, was angesichts dieser Privilegien nicht viel ist",
-      "fee": "27 USD pro Begleiter"
+      "title": "Gästerichtlinie",
+      "description": "Gäste sind nach Ermessen jeder Lounge gestattet."
     },
     "keyAccess": {
       "title": "Schlüssel zum VIP-Lounge-Zugang weltweit",
-      "description": "Arabian Eagle International Card ist der Schlüssel zum Zugang zu VIP-Lounges weltweit und macht Ihre Wartezeiten an Flughäfen voller Luxus, Ruhe und Seelenfrieden bis zur Boardingzeit"
+      "description": "Arabian Eagle International Card ist der Schlüssel zum Zugang zu VIP-Lounges weltweit und macht Ihre Wartezeiten an Flughäfen voller Luxus, Ruhe und Seelenfrieden bis zur Boardingzeit."
     },
     "freeOffer": {
       "title": "KOSTENLOS für ein Jahr",
-      "subtitle": "Mit der ersten Reise"
+      "subtitle": "Mit der ersten Reise",
+      "badge": "Sonderangebot"
     },
     "amenities": {
       "title": "Lounge-Annehmlichkeiten",
@@ -355,6 +385,10 @@
       "newspaper": "Zeitungen und Zeitschriften",
       "tv": "Fernsehen",
       "business": "Geschäftseinrichtungen"
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "text": "Die enthaltenen Informationen werden ausschließlich zu allgemeinen Informationszwecken bereitgestellt. Es ist nicht beabsichtigt, eine vollständige Beschreibung aller Bedingungen, Konditionen, Einschränkungen, Ausschlüsse oder anderer Bestimmungen eines Programms oder Versicherungsleistungen zu sein, die von, für oder an die Arabian Eagle International Card bereitgestellt werden. Bei Fragen wenden Sie sich an das Arabian Eagle International Card Assistance Center."
     }
   },
   "services": {

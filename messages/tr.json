@@ -42,17 +42,17 @@
   },
   "nav": {
     "home": "Ana Sayfa",
-    "about": "AE Hakkında",
-    "cards": "AE Kartları",
+    "about": "Arabian Eagle",
+    "cards": "Kartlar",
     "priorityPass": "Priority Pass",
     "services": "Hizmetler",
-    "join": "Bize Katılın",
+    "join": "Üyelik",
     "contact": "İletişim",
-    "experiences": "Seyahat Deneyimleri",
-    "hotels": "Otel Fiyatları",
-    "deals": "Tatil Fırsatları",
-    "login": "Giriş Yap",
-    "register": "Kayıt Ol"
+    "experiences": "Deneyimler",
+    "hotels": "Oteller",
+    "deals": "Fırsatlar",
+    "login": "Giriş",
+    "register": "Kayıt"
   },
   "home": {
     "hero": {
@@ -220,6 +220,22 @@
   "cards": {
     "title": "Arabian Eagle Kartları",
     "subtitle": "Seyahat ihtiyaçlarınıza uygun kartı seçin",
+    "showcase": {
+      "title": "Özel Üyelik Kartlarımızı Keşfedin",
+      "description": "Her biri eşsiz avantajlar ve ayrıcalıklarla seyahat deneyiminizi geliştirmek için tasarlanmış Arabian Eagle üyelik kartları serisini keşfedin.",
+      "card1Alt": "Arabian Eagle Priority Pass Kartı",
+      "card1Name": "Priority Pass",
+      "card1Brief": "Tüm sınıf statülerindeki Arabian Eagle yolcuları için daha rahat bir seyahat deneyimi sağlamak amacıyla, Arabian Eagle üyelerine 120'den fazla ülke ve dünya çapında 400 şehirdeki uluslararası havalimanlarında 850'den fazla VIP salona erişim sağlayan priority pass sunmaktan memnuniyet duyuyoruz.",
+      "card2Alt": "Arabian Eagle Üyelik Kartı",
+      "card2Name": "Üyelik Kartı",
+      "card2Brief": "Arabian Eagle International'dan Arabian Eagle VIP Üyeliği, üyeye sadece para tasarrufu sağlamakla kalmayıp, aynı zamanda uluslararası seyahati çok daha kolay hale getiren bir dizi avantaj sunar.",
+      "card3Alt": "Shorakaa Arabian Eagle Kartı",
+      "card3Name": "Shorakaa Arabian Eagle Kartı",
+      "card3Brief": "Süper tasarruf maliyet kesici kart. Shorakaa Arabian Eagle süper tasarruf Kartı birkaç amaç için kullanılır. Sahibinin Krallık genelindeki alışveriş merkezlerinde, sağlık kulüplerinde ve araç kiralama şirketlerinde indirimler almasını sağlar.",
+      "card4Alt": "Arabian Eagle Uluslararası Kart - Master Card",
+      "card4Name": "Arabian Eagle Uluslararası Kart - Master Card",
+      "card4Brief": "Arabian Eagle Uluslararası Kart diğer kredi kartları gibi çalışır. Ancak, ön depozit yoluyla ne kadar harcayacağınızı yalnızca siz belirlersiniz. Yeni Arabian Eagle International MasterCard® ön ödemeli banka kartımızı sipariş edebilirsiniz."
+    },
     "basic": {
       "name": "Temel Kart",
       "annualFee": "99",
@@ -294,9 +310,9 @@
     }
   },
   "priorityPass": {
-    "title": "Arabian Eagle Priority Pass Üyeliği",
-    "subtitle": "En Büyük Bağımsız Küresel Program",
-    "description": "Bu, tüm Arabian Eagle müşterilerinin dünya çapındaki uluslararası havalimanlarında 850'den fazla VIP salona erişerek kalabalık havalimanlarının gürültüsünden kaçınmalarını sağlayan en büyük bağımsız küresel programdır, bu da biniş zamanına kadar havalimanlarındaki bekleme sürelerinizi lüks, sakinlik ve huzur dolu hale getirir. Seyahat sınıfı veya seyahat ettiğiniz havayolundan bağımsız olarak istediğiniz yerde salonlara erişimin keyfini çıkaracaksınız.",
+    "title": "Priority Pass Havalimanı Salonu Erişimi",
+    "subtitle": "Uygun MasterCard Kart Sahipleri",
+    "description": "Priority Pass Havalimanı Salonu Erişimi, uygun MasterCard kart sahiplerine dünya çapında 120'den fazla ülkedeki büyük havalimanlarında 850'den fazla VIP salona ve tüm ayrıcalıklarına erişim sağlar. Uygun kart sahipleri, havayolu, sık uçan üyeliği veya satın alınan bilet sınıfından bağımsız olarak bir havalimanı salonunun tüm konforlarından yararlanacaklardır.",
     "stats": {
       "lounges": "850+",
       "loungesLabel": "Dünya Çapında Salon",
@@ -306,21 +322,35 @@
       "citiesLabel": "Şehir"
     },
     "howToUse": {
-      "title": "Priority Pass Nasıl Kullanılır",
-      "step1": "Seyahat etmeden önce, gezginler web sitesinde mevcut dizini arayarak seyahat ettikleri ülkedeki salonları görüntüleyebilir",
-      "step2": "Varışta, kartınızı seçilen salondaki resepsiyon personeline gösterin",
-      "step3": "Bir salon personeli, biniş zamanına kadar her gezginin ihtiyaç duyduğu şeylere hizmetlerini sağlamaktan ve yönlendirmekten memnuniyet duyacaktır",
-      "step4": "Kart sahipleri ücretsiz ikramlardan, gazetelerden, televizyondan yararlanacaktır. Ayrıca, telefon, faks, konferans hizmetleri ve internet dahil olmak üzere iş olanaklarına erişim vardır"
+      "title": "Priority Pass Nasıl Çalışır",
+      "stepTitle1": "Seyahat Öncesi",
+      "stepTitle2": "Giriş",
+      "beforeTravel": "Seyahat etmeden önce, kart sahipleri Priority Pass'e giriş yapabilir ve dünya çapında mevcut havalimanı salonlarının bir dizinini görüntüleyebilir.",
+      "admissionTitle": "Giriş",
+      "admission": "Uygun kart sahipleri, kendileri için giriş izni almak üzere Priority Pass üyelik kartlarını sunar.",
+      "guests": "Misafirlere her salonun takdirine bağlı olarak izin verilir."
     },
     "benefits": {
-      "title": "Priority Pass Üyelik Avantajları",
-      "peaceAndCalm": {
-        "title": "Huzur ve Sakinlik",
-        "description": "Havalimanları stres ve rahatsızlık yaratan kalabalık yerlerdir. Bu stresten kurtulmanın en iyi yolu, uçuşunuzu beklerken lüks salonlardan birine girmektir. Priority Pass üyeliği, uçuş sınıfınız veya iş yaptığınız havayolundan bağımsız olarak, her zaman seyahat ederken bu salonlara erişmenin ve hizmetlerinden yararlanmanın keyfini çıkarmanızı sağlar"
+      "title": "Üyelik Avantajları",
+      "access": {
+        "title": "Erişim",
+        "description": "Seyahat ettiğinizde programdaki salonlardan herhangi birini kullanın."
       },
-      "worldwide": {
-        "title": "Dünya Çapında Salonlar",
-        "description": "Birçok iş salonumuz var, böylece 120'den fazla ülkede ve 400'den fazla şehirde, özellikle Suudi Arabistan ve Arap Körfezi'ndeki havalimanları olmak üzere Orta Doğu'daki en önemli havalimanları dahil olmak üzere 850'den fazla salona erişebilirsiniz"
+      "network": {
+        "title": "Salon Ağı",
+        "description": "Dünya çapında 850'den fazla salon tüm üyelere açıktır."
+      },
+      "value": {
+        "title": "Değer",
+        "description": "Üyelik para için harika bir değer sunar."
+      },
+      "facilities": {
+        "title": "Tesisler",
+        "description": "Salonlar ücretsiz ikramlar, gazeteler, televizyon ve iş tesisleri (telefon, faks, konferans ve İnternet tesisleri, mevcut olduğunda) sunar."
+      },
+      "economicAdvantage": {
+        "title": "Ekonomik Avantaj",
+        "description": "Katılarak, gezginler ekonomi sınıfında uçarken bile VIP salon tesislerine erişim sağlayabilirler, bu da seyahat maliyetlerini düşürmeye veya business sınıfından düşürmeye çalışanlar için faydalıdır."
       }
     },
     "features": {
@@ -333,17 +363,17 @@
       "feature6": "Bilet sınıfı veya havayolundan bağımsız giriş"
     },
     "companion": {
-      "title": "Refakatçi Erişimi",
-      "description": "Bu seçkin hizmet sadece sizin için değil, aile üyeleri, arkadaşlar veya akrabalarınız gibi sizinle birlikte olan refakatçiler için de geçerlidir ve bu ayrıcalıkları düşünüldüğünde çok fazla olmayan 27 USD nominal bir ücret karşılığında aynı belirtilen avantajlardan yararlanırlar",
-      "fee": "Refakatçi başına 27 USD"
+      "title": "Misafir Politikası",
+      "description": "Misafirlere her salonun takdirine bağlı olarak izin verilir."
     },
     "keyAccess": {
       "title": "Dünya Çapında VIP Salon Erişim Anahtarı",
-      "description": "Arabian Eagle International Kartı, dünya çapında VIP salonlara erişim anahtarıdır ve biniş zamanına kadar havalimanlarındaki bekleme sürelerinizi lüks, sakinlik ve huzur dolu hale getirir"
+      "description": "Arabian Eagle International Kartı, dünya çapında VIP salonlara erişim anahtarıdır ve biniş zamanına kadar havalimanlarındaki bekleme sürelerinizi lüks, sakinlik ve huzur dolu hale getirir."
     },
     "freeOffer": {
       "title": "Bir Yıl ÜCRETSİZ",
-      "subtitle": "İlk Seyahatle"
+      "subtitle": "İlk Seyahatle",
+      "badge": "Özel Teklif"
     },
     "amenities": {
       "title": "Salon Olanakları",
@@ -355,6 +385,10 @@
       "newspaper": "Gazeteler ve dergiler",
       "tv": "Televizyon",
       "business": "İş olanakları"
+    },
+    "disclaimer": {
+      "title": "Feragatname",
+      "text": "İçerilen bilgiler yalnızca genel bilgi amaçlı sağlanmaktadır. Arabian Eagle International Kartı tarafından, için veya için verilen herhangi bir program veya sigorta avantajlarının tüm şartlarının, koşullarının, sınırlamalarının, istisnaların veya diğer hükümlerinin tam bir açıklaması olması amaçlanmamaktadır. Herhangi bir soru için Arabian Eagle International Kartı Yardım merkeziyle iletişime geçin."
     }
   },
   "services": {

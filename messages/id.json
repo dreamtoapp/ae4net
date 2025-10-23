@@ -42,15 +42,15 @@
   },
   "nav": {
     "home": "Beranda",
-    "about": "Tentang AE",
-    "cards": "Kartu AE",
+    "about": "Arabian Eagle",
+    "cards": "Kartu",
     "priorityPass": "Priority Pass",
     "services": "Layanan",
-    "join": "Bergabung",
+    "join": "Keanggotaan",
     "contact": "Kontak",
-    "experiences": "Pengalaman Perjalanan",
-    "hotels": "Permintaan Tarif Hotel",
-    "deals": "Penawaran Liburan",
+    "experiences": "Pengalaman",
+    "hotels": "Hotel",
+    "deals": "Penawaran",
     "login": "Masuk",
     "register": "Daftar"
   },
@@ -220,6 +220,22 @@
   "cards": {
     "title": "Kartu Arabian Eagle",
     "subtitle": "Pilih kartu yang sesuai dengan kebutuhan perjalanan Anda",
+    "showcase": {
+      "title": "Temukan Kartu Keanggotaan Eksklusif Kami",
+      "description": "Jelajahi rangkaian kartu keanggotaan Arabian Eagle, masing-masing dirancang untuk meningkatkan pengalaman perjalanan Anda dengan manfaat dan hak istimewa yang tak tertandingi.",
+      "card1Alt": "Kartu Priority Pass Arabian Eagle",
+      "card1Name": "Priority Pass",
+      "card1Brief": "Untuk memastikan pengalaman perjalanan yang lebih nyaman bagi para pelancong Arabian Eagle dari semua status kelas, kami dengan senang hati menawarkan kepada anggota Arabian Eagle priority pass yang memberi mereka akses ke lebih dari 850 lounge VIP di bandara internasional di lebih dari 120 negara dan 400 kota di seluruh dunia.",
+      "card2Alt": "Kartu Keanggotaan Arabian Eagle",
+      "card2Name": "Kartu Keanggotaan",
+      "card2Brief": "Keanggotaan VIP Arabian Eagle dari Arabian Eagle International menawarkan kepada anggota berbagai manfaat yang tidak hanya menghemat uang, tetapi juga membuat perjalanan internasional menjadi jauh lebih mudah.",
+      "card3Alt": "Kartu Shorakaa Arabian Eagle",
+      "card3Name": "Kartu Shorakaa Arabian Eagle",
+      "card3Brief": "Kartu penghematan super pemotong biaya. Kartu Shorakaa Arabian Eagle super saver digunakan untuk beberapa tujuan. Kartu ini memungkinkan pemegangnya mendapatkan diskon di pusat perbelanjaan, klub kesehatan, dan perusahaan penyewaan mobil di seluruh Kerajaan.",
+      "card4Alt": "Kartu Internasional Arabian Eagle - Master Card",
+      "card4Name": "Kartu Internasional Arabian Eagle - Master Card",
+      "card4Brief": "Kartu Internasional Arabian Eagle seperti kartu kredit lainnya. Namun, Anda hanya menentukan berapa banyak yang Anda belanjakan melalui pra-deposit. Anda dapat memesan kartu debit prabayar Arabian Eagle International MasterCard® baru kami."
+    },
     "basic": {
       "name": "Kartu Dasar",
       "annualFee": "99",
@@ -294,9 +310,9 @@
     }
   },
   "priorityPass": {
-    "title": "Keanggotaan Arabian Eagle Priority Pass",
-    "subtitle": "Program Global Independen Terbesar",
-    "description": "Ini adalah program global independen terbesar yang memungkinkan semua pelanggan Arabian Eagle untuk menghindari kebisingan bandara yang ramai dengan mengakses lebih dari 850 lounge VIP di bandara internasional di seluruh dunia, membuat waktu tunggu Anda di bandara penuh dengan kemewahan, ketenangan, dan ketenangan pikiran sampai waktu boarding. Anda akan menikmati akses ke lounge di mana pun Anda mau, terlepas dari kelas perjalanan atau maskapai yang Anda gunakan.",
+    "title": "Akses Lounge Bandara Priority Pass",
+    "subtitle": "Pemegang Kartu MasterCard yang Memenuhi Syarat",
+    "description": "Akses Lounge Bandara Priority Pass memberikan pemegang kartu MasterCard yang memenuhi syarat akses ke, dan semua hak istimewa dari, lebih dari 850 lounge VIP di bandara utama di lebih dari 120 negara di seluruh dunia. Pemegang kartu yang memenuhi syarat akan menikmati semua kenyamanan lounge bandara, terlepas dari maskapai, keanggotaan frequent flyer, atau kelas tiket yang dibeli.",
     "stats": {
       "lounges": "850+",
       "loungesLabel": "Lounge di Seluruh Dunia",
@@ -306,21 +322,35 @@
       "citiesLabel": "Kota"
     },
     "howToUse": {
-      "title": "Cara Menggunakan Priority Pass",
-      "step1": "Sebelum bepergian, pelancong dapat melihat lounge di negara yang mereka kunjungi dengan mencari direktori yang tersedia di situs web",
-      "step2": "Setibanya di sana, tunjukkan kartu Anda kepada staf resepsionis di lounge yang dipilih",
-      "step3": "Anggota staf lounge akan dengan senang hati memberikan layanan mereka dan mengarahkan Anda ke apa yang dibutuhkan setiap pelancong sampai waktu boarding",
-      "step4": "Pemegang kartu akan menikmati penyegaran gratis, koran, televisi. Selain itu, ada akses ke fasilitas bisnis termasuk telepon, faks, layanan konferensi, dan internet"
+      "title": "Cara Kerja Priority Pass",
+      "stepTitle1": "Sebelum Bepergian",
+      "stepTitle2": "Masuk",
+      "beforeTravel": "Sebelum bepergian, pemegang kartu dapat masuk ke Priority Pass dan melihat direktori lounge bandara yang tersedia di seluruh dunia.",
+      "admissionTitle": "Masuk",
+      "admission": "Pemegang kartu yang memenuhi syarat menyerahkan kartu keanggotaan Priority Pass mereka untuk mendapatkan izin masuk untuk diri mereka sendiri.",
+      "guests": "Tamu diizinkan atas kebijaksanaan setiap lounge."
     },
     "benefits": {
-      "title": "Manfaat Keanggotaan Priority Pass",
-      "peaceAndCalm": {
-        "title": "Kedamaian dan Ketenangan",
-        "description": "Bandara adalah tempat yang ramai yang menciptakan stres dan ketidaknyamanan. Cara terbaik untuk menghilangkan stres itu adalah dengan memasuki salah satu lounge mewah sambil menunggu penerbangan Anda. Keanggotaan Priority Pass memungkinkan Anda untuk menikmati akses ke lounge ini dan memanfaatkan layanan mereka saat bepergian kapan saja, terlepas dari kelas penerbangan Anda atau maskapai yang Anda gunakan"
+      "title": "Manfaat Keanggotaan",
+      "access": {
+        "title": "Akses",
+        "description": "Gunakan salah satu lounge dalam program setiap kali Anda bepergian."
       },
-      "worldwide": {
-        "title": "Lounge di Seluruh Dunia",
-        "description": "Kami memiliki banyak lounge bisnis, sehingga Anda dapat mengakses lebih dari 850 lounge di lebih dari 120 negara dan lebih dari 400 kota, termasuk bandara terpenting di Timur Tengah, terutama bandara di Arab Saudi dan Teluk Arab"
+      "network": {
+        "title": "Jaringan Lounge",
+        "description": "Lebih dari 850 lounge di seluruh dunia tersedia untuk semua anggota."
+      },
+      "value": {
+        "title": "Nilai",
+        "description": "Keanggotaan menawarkan nilai yang sangat baik untuk uang."
+      },
+      "facilities": {
+        "title": "Fasilitas",
+        "description": "Lounge menawarkan penyegaran gratis, koran, televisi, dan fasilitas bisnis (telepon, faks, konferensi, dan fasilitas Internet, jika tersedia)."
+      },
+      "economicAdvantage": {
+        "title": "Keuntungan Ekonomi",
+        "description": "Dengan bergabung, pelancong dapat memastikan mereka mendapatkan akses ke fasilitas lounge VIP, bahkan ketika terbang di kelas ekonomi, yang bermanfaat bagi mereka yang ingin memotong biaya perjalanan atau menurunkan dari kelas bisnis."
       }
     },
     "features": {
@@ -333,17 +363,17 @@
       "feature6": "Masuk terlepas dari kelas tiket atau maskapai"
     },
     "companion": {
-      "title": "Akses Pendamping",
-      "description": "Layanan terbaik ini bukan hanya untuk Anda, tetapi untuk pendamping dengan Anda seperti anggota keluarga, teman, atau kerabat Anda, dan mereka menikmati manfaat yang sama disebutkan untuk biaya nominal $ 27 USD, yang tidak banyak mengingat hak istimewa tersebut",
-      "fee": "$ 27 USD per pendamping"
+      "title": "Kebijakan Tamu",
+      "description": "Tamu diizinkan atas kebijaksanaan setiap lounge."
     },
     "keyAccess": {
       "title": "Kunci Akses Lounge VIP di Seluruh Dunia",
-      "description": "Kartu Arabian Eagle International adalah kunci untuk mengakses lounge VIP di seluruh dunia, membuat waktu tunggu Anda di bandara penuh dengan kemewahan, ketenangan, dan ketenangan pikiran sampai waktu boarding"
+      "description": "Kartu Arabian Eagle International adalah kunci untuk mengakses lounge VIP di seluruh dunia, membuat waktu tunggu Anda di bandara penuh dengan kemewahan, ketenangan, dan ketenangan pikiran sampai waktu boarding."
     },
     "freeOffer": {
       "title": "GRATIS selama Satu Tahun",
-      "subtitle": "Dengan Perjalanan Pertama"
+      "subtitle": "Dengan Perjalanan Pertama",
+      "badge": "Penawaran Khusus"
     },
     "amenities": {
       "title": "Fasilitas Lounge",
@@ -355,6 +385,10 @@
       "newspaper": "Koran & majalah",
       "tv": "Televisi",
       "business": "Fasilitas bisnis"
+    },
+    "disclaimer": {
+      "title": "Penafian",
+      "text": "Informasi yang terkandung disediakan semata-mata untuk tujuan informasi umum. Ini tidak dimaksudkan untuk menjadi deskripsi lengkap dari semua syarat, ketentuan, batasan, pengecualian, atau ketentuan lain dari program apa pun atau manfaat asuransi yang disediakan oleh, untuk, atau dikeluarkan untuk Kartu Arabian Eagle International. Untuk pertanyaan apa pun, hubungi pusat bantuan Kartu Arabian Eagle International."
     }
   },
   "services": {
