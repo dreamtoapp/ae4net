@@ -132,25 +132,25 @@ export default function JoinPage() {
               <TabsContent value="new">
                 <Card>
                   <CardHeader>
-                    <CardTitle>Create New Account</CardTitle>
-                    <CardDescription>Join Arabian Eagle and start saving today</CardDescription>
+                    <CardTitle>{t('createAccount')}</CardTitle>
+                    <CardDescription>{t('createAccountDesc')}</CardDescription>
                   </CardHeader>
                   <CardContent className="space-y-4">
                     <div>
                       <Label htmlFor="fullName">{t('form.fullName')}</Label>
-                      <Input id="fullName" placeholder="John Doe" />
+                      <Input id="fullName" placeholder={t('form.namePlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="email">{t('form.email')}</Label>
-                      <Input id="email" type="email" placeholder="your@email.com" />
+                      <Input id="email" type="email" placeholder={t('form.emailPlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="phone">{t('form.phone')}</Label>
-                      <Input id="phone" type="tel" placeholder="+1 (555) 000-0000" />
+                      <Input id="phone" type="tel" placeholder={t('form.phonePlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="userId">{t('form.userId')}</Label>
-                      <Input id="userId" placeholder="Choose a username" />
+                      <Input id="userId" placeholder={t('form.usernamePlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="password">{t('form.password')}</Label>
@@ -168,23 +168,23 @@ export default function JoinPage() {
               <TabsContent value="mobile">
                 <Card>
                   <CardHeader>
-                    <CardTitle>Mobile Registration</CardTitle>
-                    <CardDescription>Register using your mobile number</CardDescription>
+                    <CardTitle>{t('mobileTitle')}</CardTitle>
+                    <CardDescription>{t('mobileDesc')}</CardDescription>
                   </CardHeader>
                   <CardContent className="space-y-4">
                     <div>
                       <Label htmlFor="mobileNumber">{t('form.phone')}</Label>
-                      <Input id="mobileNumber" type="tel" placeholder="+1 (555) 000-0000" />
+                      <Input id="mobileNumber" type="tel" placeholder={t('form.phonePlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="mobileName">{t('form.fullName')}</Label>
-                      <Input id="mobileName" placeholder="John Doe" />
+                      <Input id="mobileName" placeholder={t('form.namePlaceholder')} />
                     </div>
                     <div>
                       <Label htmlFor="mobileEmail">{t('form.email')}</Label>
-                      <Input id="mobileEmail" type="email" placeholder="your@email.com" />
+                      <Input id="mobileEmail" type="email" placeholder={t('form.emailPlaceholder')} />
                     </div>
-                    <Button className="w-full">Send Verification Code</Button>
+                    <Button className="w-full">{t('sendCode')}</Button>
                   </CardContent>
                 </Card>
               </TabsContent>
@@ -223,7 +223,7 @@ export default function JoinPage() {
           <div className="max-w-3xl mx-auto">
             <div className="text-center mb-10">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('faq.title')}</h2>
-              <p className="text-muted-foreground">For Business Partners</p>
+              <p className="text-muted-foreground">{t('forBusinessPartners')}</p>
             </div>
 
             <Accordion type="single" collapsible className="w-full">

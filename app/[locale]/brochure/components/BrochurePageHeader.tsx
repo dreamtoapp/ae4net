@@ -14,7 +14,7 @@ export function BrochurePageHeader({ variant = 'light' }: BrochurePageHeaderProp
     <div className="absolute top-6 right-6 z-20 flex items-center gap-3">
       <div className="text-right">
         <p className={`${textColor} font-black text-base leading-tight`}>{tc('brand')}</p>
-        <p className={`${subtextColor} text-xs mt-0.5`}>www.ae4net.com</p>
+        <p className={`${subtextColor} text-xs mt-0.5`}>{tc('websiteUrl')}</p>
       </div>
       <Image
         src="/assets/logo.avif"

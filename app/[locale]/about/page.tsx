@@ -27,7 +27,7 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto text-center">
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md border border-white/20 px-6 py-2 rounded-full mb-6">
               <Calendar className="h-4 w-4 text-white" />
-              <span className="text-white font-semibold text-sm">Since 1986 • 39 Years of Excellence</span>
+              <span className="text-white font-semibold text-sm">{tc('established')} • {tc('yearsExperience')}</span>
             </div>
             <Badge variant="secondary" className="mb-6 text-base px-6 py-2">
               {t('subtitle')}
@@ -36,11 +36,11 @@ export default function AboutPage() {
               {t('title')}
             </h1>
             <p className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto drop-shadow-lg leading-relaxed mb-4">
-              {t('companyOverview.description1').split('1986')[0]}
+              {t('companyOverview.description1').split('1988')[0]}
               <span className="inline-flex items-center gap-1 px-3 py-1 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 font-bold rounded-md text-xl mx-1 shadow-lg">
-                1986
+                1988
               </span>
-              {t('companyOverview.description1').split('1986')[1]}
+              {t('companyOverview.description1').split('1988')[1]}
             </p>
             <p className="text-base md:text-lg text-white/85 max-w-3xl mx-auto drop-shadow-lg leading-relaxed mb-8">
               {t('companyOverview.description2')}

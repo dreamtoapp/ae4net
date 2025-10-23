@@ -2,6 +2,7 @@ import { useTranslations } from 'next-intl';
 
 export default function LegalPage() {
   const t = useTranslations('common');
+  const tContact = useTranslations('contact');
 
   return (
     <div className="flex flex-col">
@@ -48,7 +49,7 @@ export default function LegalPage() {
 
             <h3>6. Contact Information</h3>
             <p>
-              For questions about our legal notice or terms of service, please contact us at info@ae4net.net.
+              {tContact('legal.contactText', { email: t('contactEmail') })}
             </p>
 
             <p className="text-sm text-muted-foreground mt-8">

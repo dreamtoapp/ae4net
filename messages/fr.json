@@ -14,7 +14,12 @@
     "of": "sur",
     "email": "Email",
     "phone": "Téléphone",
-    "website": "Site Web"
+    "website": "Site Web",
+    "yearsExperience": "37 Ans d'Excellence",
+    "established": "Depuis 1988",
+    "websiteUrl": "www.ae4net.com",
+    "contactEmail": "info@ae4net.com",
+    "contactPhone": "+1 (555) 123-4567"
   },
   "brochure": {
     "ourImpact": "Notre Impact",
@@ -113,8 +118,8 @@
     },
     "companyOverview": {
       "title": "Aperçu de l'Entreprise",
-      "description1": "Arabian Eagle International pour les services touristiques a été créée en 1986 pour agir en tant que groupe de négociation au nom des hommes d'affaires et des VIP qui voyagent constamment.",
-      "description2": "Arabian Eagle International Card est considérée comme pionnière dans l'industrie du voyage et est innovante dans la façon de servir et de divertir les voyageurs au coût le plus bas possible.",
+      "description1": "Arab Eagle est un fournisseur leader de solutions de voyage et de tourisme de haute technologie, dédié au service des voyageurs arabes dans le monde entier. Fondée en 1988 à Chypre, la société s'est étendue au Liban et a récemment établi son siège au Royaume d'Arabie Saoudite.",
+      "description2": "Avec plus de 35 ans d'expérience, Arab Eagle combine l'innovation technologique avec une compréhension approfondie des besoins des voyageurs arabes, offrant une expérience de voyage fluide et premium.",
       "description3": "Maintenant, avec la technologie moderne et l'entrée d'Internet dans les foyers et les bureaux, Arabian Eagle International a placé toute cette technologie entre les mains des membres et des partenaires, que ce soit à la maison ou au travail et dans leurs bureaux.",
       "description4": "Cette opportunité convient aux membres et aux partenaires pour accéder à tous les besoins de voyage via un réseau technologique avancé. En même temps, ils bénéficient du coût unique le plus bas pour voyager n'importe où dans le monde.",
       "description5": "De plus, Arabian Eagle offre à ses membres des offres qui soutiennent les services de leurs propres bureaux ou des bureaux de leurs partenaires commerciaux.",
@@ -127,13 +132,71 @@
     "stats": {
       "title": "Informations Clés",
       "founded": "Entreprise Fondée",
-      "foundedYear": "1986",
+      "foundedYear": "1988",
+      "experience": "35+ Ans",
       "members": "Total des Membres",
       "membersCount": "42 000+",
       "market": "Marché Cible",
       "marketDesc": "Voyageurs de la Péninsule Arabique et du Monde Arabe",
-      "spending": "Dépenses Annuelles",
-      "spendingAmount": "110+ Milliards $"
+      "spending": "Dépenses des Voyageurs Arabes",
+      "spendingAmount": "27+ Milliards $ depuis 2018",
+      "saudiShare": "58% d'Arabie Saoudite",
+      "annualGrowth": "15%-20% annuellement",
+      "partnerships": "1 150 000+ Centres de Voyage"
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Être leader dans la fourniture de services de voyage intelligents et intégrés via une seule plateforme avancée.",
+      "commitments": {
+        "title": "Pour réaliser cette vision, nous nous engageons à:",
+        "commitment1": "Développer un moteur de recherche mondial complet au service des voyageurs arabes où qu'ils soient",
+        "commitment2": "Offrir les meilleurs prix et offres pour les hôtels, les stations balnéaires, les vols et les locations de voitures",
+        "commitment3": "Fournir un support dédié 24/7 pour garantir la satisfaction client et la résolution rapide de tout défi de voyage",
+        "commitment4": "Permettre aux voyageurs d'accéder aux dernières technologies numériques via une application mobile conviviale à tout moment, n'importe où",
+        "commitment5": "Offrir des services sûrs, rapides et premium qui élèvent l'expérience de voyage avec confiance et facilité"
+      }
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Être la plateforme de premier choix pour les voyageurs arabes en combinant la technologie moderne avec une compréhension approfondie de la culture et des besoins locaux, fournissant des solutions de voyage intelligentes et intégrées."
+    },
+    "marketAnalysis": {
+      "title": "Analyse du Marché",
+      "description": "Malgré la présence d'entreprises mondiales de voyage et de tourisme, les voyageurs arabes restent mal desservis en termes de services adaptés à leur culture.",
+      "statistics": "Les statistiques montrent que les voyageurs arabes ont dépensé plus de 27 milliards de dollars depuis 2018, dont 58% d'Arabie Saoudite, avec des prévisions de croissance allant de 15% à 20% par an.",
+      "opportunity": "Ces chiffres reflètent une opportunité de marché importante, positionnant Arab Eagle pour combler l'écart et fournir une expérience de voyage sur mesure et culturellement adaptée."
+    },
+    "technology": {
+      "title": "Technologie et Services",
+      "description": "Arab Eagle a développé un moteur de réservation d'hôtels et de voyages de pointe utilisant l'IA et l'analyse intelligente pour fournir:",
+      "service1": "Réservations d'hôtels et de stations balnéaires à des tarifs compétitifs",
+      "service2": "Billets d'avion à prix réduits",
+      "service3": "Services de location de voitures et de transport",
+      "service4": "Forfaits de voyage personnalisés conçus pour les voyageurs arabes",
+      "partnerships": "L'entreprise a également établi des partenariats stratégiques avec plus de 1 150 000 centres de voyage et de tourisme dans le monde, garantissant les meilleures offres et des services étendus."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Développement continu de solutions technologiques pour les voyageurs arabes"
+      },
+      "transparency": {
+        "title": "Transparence",
+        "description": "Prix, offres et services clairs"
+      },
+      "professionalism": {
+        "title": "Professionnalisme",
+        "description": "Respect des normes de qualité mondiales"
+      },
+      "customerFirst": {
+        "title": "Le Client d'Abord",
+        "description": "Garantir la satisfaction du client est notre priorité absolue"
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "description": "Arab Eagle vise à devenir le moteur d'hospitalité leader pour le monde arabe, combinant des décennies d'expertise avec des technologies avancées pour offrir une expérience de voyage fluide, fiable et inspirante pour chaque voyageur arabe."
     },
     "partnership": {
       "title": "Opportunités de Partenariat",
@@ -188,7 +251,7 @@
       "title": "Arabian Eagle International",
       "subtitle": "Pas seulement une nouvelle façon de promouvoir votre entreprise et vos services, mais vraiment unique",
       "highlights": {
-        "founded": "Fondée en 1986",
+        "founded": "Fondée en 1988",
         "pioneer": "Pionnier de l'Industrie du Voyage",
         "technology": "Technologie Moderne Avancée",
         "lowCost": "Coûts de Voyage les Plus Bas",
@@ -377,6 +440,12 @@
   "join": {
     "title": "Rejoindre Arabian Eagle",
     "subtitle": "Commencez à économiser sur vos voyages aujourd'hui",
+    "createAccount": "Créer un Nouveau Compte",
+    "createAccountDesc": "Rejoignez Arabian Eagle et commencez à économiser aujourd'hui",
+    "mobileTitle": "Inscription Mobile",
+    "mobileDesc": "Inscrivez-vous en utilisant votre numéro de mobile",
+    "sendCode": "Envoyer le Code de Vérification",
+    "forBusinessPartners": "Pour les Partenaires Commerciaux",
     "intro": {
       "title": "Inscrivez-vous Maintenant",
       "description": "Inscrivez-vous maintenant pour recevoir votre numéro d'adhésion et votre mot de passe afin d'accéder et de profiter des services fournis par Arabian Eagle International Tourism Services"
@@ -420,7 +489,11 @@
       "rememberMe": "Se souvenir de moi",
       "forgotPassword": "J'ai oublié mon mot de passe",
       "submit": "Créer un Compte",
-      "login": "Se Connecter à un Compte Existant"
+      "login": "Se Connecter à un Compte Existant",
+      "namePlaceholder": "Jean Dupont",
+      "emailPlaceholder": "votre@email.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "usernamePlaceholder": "Choisissez un nom d'utilisateur"
     },
     "benefits": {
       "title": "Avantages Membres",
@@ -460,6 +533,9 @@
       "phone": "Numéro de Téléphone",
       "whatsapp": "WhatsApp",
       "address": "Adresse du Bureau"
+    },
+    "legal": {
+      "contactText": "Pour toute question concernant notre mention légale ou nos conditions de service, veuillez nous contacter à {email}."
     },
     "usaHotline": {
       "title": "Pour les Membres aux États-Unis Uniquement",

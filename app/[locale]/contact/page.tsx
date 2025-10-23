@@ -8,6 +8,7 @@ import { Mail, Phone, MapPin, Building2, Printer, Globe } from 'lucide-react';
 
 export default function ContactPage() {
   const t = useTranslations('contact');
+  const tc = useTranslations('common');
 
   return (
     <div className="flex flex-col">
@@ -46,11 +47,11 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <Label htmlFor="email">{t('form.email')}</Label>
-                    <Input id="email" type="email" placeholder="your@email.com" />
+                    <Input id="email" type="email" placeholder={tc('contactEmail')} />
                   </div>
                   <div>
                     <Label htmlFor="phone">{t('form.phone')}</Label>
-                    <Input id="phone" type="tel" placeholder="+1 (555) 000-0000" />
+                    <Input id="phone" type="tel" placeholder={tc('contactPhone')} />
                   </div>
                   <div className="grid grid-cols-2 gap-4">
                     <div>

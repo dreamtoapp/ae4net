@@ -14,7 +14,12 @@
     "of": "of",
     "email": "Email",
     "phone": "Phone",
-    "website": "Website"
+    "website": "Website",
+    "yearsExperience": "37 Years of Excellence",
+    "established": "Since 1988",
+    "websiteUrl": "www.ae4net.com",
+    "contactEmail": "info@ae4net.com",
+    "contactPhone": "+1 (555) 123-4567"
   },
   "brochure": {
     "ourImpact": "Our Impact",
@@ -113,8 +118,8 @@
     },
     "companyOverview": {
       "title": "Company Overview",
-      "description1": "Arabian Eagle International for Tourism Services was established in 1986 to act as a negotiating group on behalf of businessmen and VIPs who travel constantly.",
-      "description2": "Arabian Eagle International Card is considered a pioneer in the travel industry and is innovative in how to serve and entertain travelers at the lowest possible cost.",
+      "description1": "Arab Eagle is a leading provider of high-tech travel and tourism solutions, dedicated to serving Arab travelers worldwide. Founded in 1988 in Cyprus, the company expanded to Lebanon and recently established its headquarters in the Kingdom of Saudi Arabia.",
+      "description2": "With over 35 years of experience, Arab Eagle combines technological innovation with a deep understanding of Arab travelers' needs, delivering a seamless and premium travel experience.",
       "description3": "Now, with modern technology and the entry of the Internet into homes and offices, Arabian Eagle International has placed all this technology in the hands of members and partners, whether at home or at work and in their offices.",
       "description4": "This opportunity is suitable for members and partners to access all travel needs through an advanced technology network. At the same time, they enjoy the unique low cost of traveling to anywhere in the world.",
       "description5": "In addition, Arabian Eagle offers its members deals that support services from their own offices or their business partners' offices.",
@@ -127,13 +132,71 @@
     "stats": {
       "title": "Key Information",
       "founded": "Company Founded",
-      "foundedYear": "1986",
+      "foundedYear": "1988",
+      "experience": "35+ Years",
       "members": "Total Members",
       "membersCount": "42,000+",
       "market": "Target Market",
       "marketDesc": "Travelers from the Arabian Peninsula and the Arab World",
-      "spending": "Annual Spending",
-      "spendingAmount": "$110+ Billion"
+      "spending": "Arab Travelers Spending",
+      "spendingAmount": "$27+ Billion since 2018",
+      "saudiShare": "58% from Saudi Arabia",
+      "annualGrowth": "15%-20% annually",
+      "partnerships": "1,150,000+ Travel Centers"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To lead in providing smart, integrated travel services through a single advanced platform.",
+      "commitments": {
+        "title": "To achieve this vision, we commit to:",
+        "commitment1": "Developing a comprehensive global search engine serving Arab travelers wherever they are",
+        "commitment2": "Offering the best prices and deals for hotels, resorts, flights, and car rentals",
+        "commitment3": "Providing 24/7 dedicated support to ensure customer satisfaction and quick resolution of any travel challenges",
+        "commitment4": "Enabling travelers to access the latest digital technologies via a user-friendly mobile app anytime, anywhere",
+        "commitment5": "Delivering safe, fast, and premium services that elevate the travel experience with confidence and ease"
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To be the first-choice platform for Arab travelers by combining modern technology with a deep understanding of local culture and needs, providing smart and integrated travel solutions."
+    },
+    "marketAnalysis": {
+      "title": "Market Analysis",
+      "description": "Despite the presence of global travel and tourism companies, Arab travelers remain underserved in terms of culturally tailored services.",
+      "statistics": "Statistics show that Arab travelers have spent over $27 billion USD since 2018, with 58% from Saudi Arabia, and growth forecasts ranging 15%-20% annually.",
+      "opportunity": "These numbers reflect a significant market opportunity, positioning Arab Eagle to bridge the gap and provide a tailored, culturally-aware travel experience."
+    },
+    "technology": {
+      "title": "Technology & Services",
+      "description": "Arab Eagle developed a cutting-edge hotel and travel booking engine using AI and smart analytics to provide:",
+      "service1": "Hotel and resort bookings at competitive rates",
+      "service2": "Discounted flight tickets",
+      "service3": "Car rental and transportation services",
+      "service4": "Custom travel packages designed for Arab travelers",
+      "partnerships": "The company has also established strategic partnerships with over 1,150,000 travel and tourism centers worldwide, ensuring the best deals and wide-ranging services."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Continuous development of technological solutions for Arab travelers"
+      },
+      "transparency": {
+        "title": "Transparency",
+        "description": "Clear pricing, offers, and services"
+      },
+      "professionalism": {
+        "title": "Professionalism",
+        "description": "Adherence to global quality standards"
+      },
+      "customerFirst": {
+        "title": "Customer First",
+        "description": "Ensuring customer satisfaction is our top priority"
+      }
+    },
+    "conclusion": {
+      "title": "Conclusion",
+      "description": "Arab Eagle aims to become the leading hospitality engine for the Arab world, combining decades of expertise with advanced technologies to deliver a seamless, reliable, and inspiring travel experience for every Arab traveler."
     },
     "partnership": {
       "title": "Partnership Opportunities",
@@ -188,7 +251,7 @@
       "title": "Arabian Eagle International",
       "subtitle": "Not just a new way to promote your business and services, but truly unique",
       "highlights": {
-        "founded": "Established in 1986",
+        "founded": "Established in 1988",
         "pioneer": "Pioneer in Travel Industry",
         "technology": "Advanced Modern Technology",
         "lowCost": "Lowest Travel Costs",
@@ -377,6 +440,12 @@
   "join": {
     "title": "Join Arabian Eagle",
     "subtitle": "Start saving on your travels today",
+    "createAccount": "Create New Account",
+    "createAccountDesc": "Join Arabian Eagle and start saving today",
+    "mobileTitle": "Mobile Registration",
+    "mobileDesc": "Register using your mobile number",
+    "sendCode": "Send Verification Code",
+    "forBusinessPartners": "For Business Partners",
     "intro": {
       "title": "Register Now",
       "description": "Apply now to register and receive your membership number and password to access and enjoy the services provided by Arabian Eagle International Tourism Services"
@@ -420,7 +489,11 @@
       "rememberMe": "Remember me",
       "forgotPassword": "I forgot my password",
       "submit": "Create Account",
-      "login": "Login to Existing Account"
+      "login": "Login to Existing Account",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "your@email.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "usernamePlaceholder": "Choose a username"
     },
     "benefits": {
       "title": "Member Benefits",
@@ -460,6 +533,9 @@
       "phone": "Phone Number",
       "whatsapp": "WhatsApp",
       "address": "Office Address"
+    },
+    "legal": {
+      "contactText": "For questions about our legal notice or terms of service, please contact us at {email}."
     },
     "usaHotline": {
       "title": "For USA Members Only",

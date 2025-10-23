@@ -14,7 +14,12 @@
     "of": "von",
     "email": "E-Mail",
     "phone": "Telefon",
-    "website": "Webseite"
+    "website": "Webseite",
+    "yearsExperience": "37 Jahre Exzellenz",
+    "established": "Seit 1988",
+    "websiteUrl": "www.ae4net.com",
+    "contactEmail": "info@ae4net.com",
+    "contactPhone": "+1 (555) 123-4567"
   },
   "brochure": {
     "ourImpact": "Unsere Wirkung",
@@ -113,8 +118,8 @@
     },
     "companyOverview": {
       "title": "Unternehmensübersicht",
-      "description1": "Arabian Eagle International für Tourismusdienstleistungen wurde 1986 gegründet, um im Namen von Geschäftsleuten und VIPs, die ständig reisen, als Verhandlungsgruppe zu fungieren.",
-      "description2": "Arabian Eagle International Card gilt als Pionier in der Reisebranche und ist innovativ in der Art und Weise, wie Reisende zu den niedrigsten möglichen Kosten bedient und unterhalten werden.",
+      "description1": "Arab Eagle ist ein führender Anbieter von hochtechnologischen Reise- und Tourismuslösungen, der sich der Bedienung arabischer Reisender weltweit verschrieben hat. Das 1988 in Zypern gegründete Unternehmen expandierte nach Libanon und hat kürzlich seinen Hauptsitz im Königreich Saudi-Arabien eingerichtet.",
+      "description2": "Mit über 35 Jahren Erfahrung verbindet Arab Eagle technologische Innovation mit einem tiefen Verständnis für die Bedürfnisse arabischer Reisender und bietet ein nahtloses und erstklassiges Reiseerlebnis.",
       "description3": "Jetzt, mit moderner Technologie und dem Eintritt des Internets in Häuser und Büros, hat Arabian Eagle International all diese Technologie in die Hände von Mitgliedern und Partnern gelegt, sei es zu Hause oder bei der Arbeit und in ihren Büros.",
       "description4": "Diese Möglichkeit ist für Mitglieder und Partner geeignet, um über ein fortschrittliches Technologienetzwerk auf alle Reisebedürfnisse zuzugreifen. Gleichzeitig genießen sie die einzigartigen niedrigen Kosten für Reisen überall auf der Welt.",
       "description5": "Darüber hinaus bietet Arabian Eagle seinen Mitgliedern Angebote, die Dienstleistungen von ihren eigenen Büros oder den Büros ihrer Geschäftspartner unterstützen.",
@@ -127,13 +132,71 @@
     "stats": {
       "title": "Wichtige Informationen",
       "founded": "Unternehmen gegründet",
-      "foundedYear": "1986",
+      "foundedYear": "1988",
+      "experience": "35+ Jahre",
       "members": "Gesamtmitglieder",
       "membersCount": "42.000+",
       "market": "Zielmarkt",
       "marketDesc": "Reisende von der Arabischen Halbinsel und der arabischen Welt",
-      "spending": "Jährliche Ausgaben",
-      "spendingAmount": "110+ Milliarden $"
+      "spending": "Ausgaben arabischer Reisender",
+      "spendingAmount": "$27+ Milliarden seit 2018",
+      "saudiShare": "58% aus Saudi-Arabien",
+      "annualGrowth": "15%-20% jährlich",
+      "partnerships": "1.150.000+ Reisezentren"
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "description": "Führend bei der Bereitstellung intelligenter, integrierter Reisedienstleistungen über eine einzige fortschrittliche Plattform.",
+      "commitments": {
+        "title": "Um diese Vision zu verwirklichen, verpflichten wir uns:",
+        "commitment1": "Entwicklung einer umfassenden globalen Suchmaschine für arabische Reisende, wo immer sie sind",
+        "commitment2": "Angebot der besten Preise und Angebote für Hotels, Resorts, Flüge und Mietwagen",
+        "commitment3": "Bereitstellung von 24/7-Support zur Gewährleistung der Kundenzufriedenheit und schnellen Lösung von Reiseproblemen",
+        "commitment4": "Ermöglichung des Zugriffs auf die neuesten digitalen Technologien über eine benutzerfreundliche mobile App jederzeit und überall",
+        "commitment5": "Bereitstellung sicherer, schneller und erstklassiger Dienstleistungen, die das Reiseerlebnis mit Vertrauen und Leichtigkeit verbessern"
+      }
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Die erste Wahl für arabische Reisende zu sein, indem wir moderne Technologie mit einem tiefen Verständnis für lokale Kultur und Bedürfnisse kombinieren und intelligente und integrierte Reiselösungen anbieten."
+    },
+    "marketAnalysis": {
+      "title": "Marktanalyse",
+      "description": "Trotz der Präsenz globaler Reise- und Tourismusunternehmen werden arabische Reisende in Bezug auf kulturell angepasste Dienstleistungen weiterhin unterversorgt.",
+      "statistics": "Statistiken zeigen, dass arabische Reisende seit 2018 über 27 Milliarden US-Dollar ausgegeben haben, davon 58% aus Saudi-Arabien, mit Wachstumsprognosen von 15%-20% jährlich.",
+      "opportunity": "Diese Zahlen spiegeln eine bedeutende Marktchance wider und positionieren Arab Eagle, um die Lücke zu schließen und ein maßgeschneidertes, kulturell bewusstes Reiseerlebnis zu bieten."
+    },
+    "technology": {
+      "title": "Technologie & Dienstleistungen",
+      "description": "Arab Eagle hat eine hochmoderne Hotel- und Reisebuchungsmaschine mit KI und intelligenter Analytik entwickelt, um Folgendes bereitzustellen:",
+      "service1": "Hotel- und Resortbuchungen zu wettbewerbsfähigen Preisen",
+      "service2": "Ermäßigte Flugtickets",
+      "service3": "Mietwagen- und Transportdienste",
+      "service4": "Maßgeschneiderte Reisepakete für arabische Reisende",
+      "partnerships": "Das Unternehmen hat auch strategische Partnerschaften mit über 1.150.000 Reise- und Tourismuszentren weltweit aufgebaut und garantiert die besten Angebote und umfassende Dienstleistungen."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Kontinuierliche Entwicklung technologischer Lösungen für arabische Reisende"
+      },
+      "transparency": {
+        "title": "Transparenz",
+        "description": "Klare Preise, Angebote und Dienstleistungen"
+      },
+      "professionalism": {
+        "title": "Professionalität",
+        "description": "Einhaltung globaler Qualitätsstandards"
+      },
+      "customerFirst": {
+        "title": "Kunde zuerst",
+        "description": "Die Gewährleistung der Kundenzufriedenheit ist unsere oberste Priorität"
+      }
+    },
+    "conclusion": {
+      "title": "Fazit",
+      "description": "Arab Eagle zielt darauf ab, die führende Gastgewerbe-Plattform für die arabische Welt zu werden, indem jahrzehntelange Expertise mit fortschrittlichen Technologien kombiniert wird, um ein nahtloses, zuverlässiges und inspirierendes Reiseerlebnis für jeden arabischen Reisenden zu bieten."
     },
     "partnership": {
       "title": "Partnerschaftsmöglichkeiten",
@@ -188,7 +251,7 @@
       "title": "Arabian Eagle International",
       "subtitle": "Nicht nur ein neuer Weg, Ihr Geschäft und Ihre Dienstleistungen zu fördern, sondern wirklich einzigartig",
       "highlights": {
-        "founded": "Gegründet 1986",
+        "founded": "Gegründet 1988",
         "pioneer": "Pionier in der Reisebranche",
         "technology": "Fortschrittliche moderne Technologie",
         "lowCost": "Niedrigste Reisekosten",
@@ -377,6 +440,12 @@
   "join": {
     "title": "Treten Sie Arabian Eagle bei",
     "subtitle": "Beginnen Sie heute, bei Ihren Reisen zu sparen",
+    "createAccount": "Neues Konto Erstellen",
+    "createAccountDesc": "Treten Sie Arabian Eagle bei und beginnen Sie heute zu sparen",
+    "mobileTitle": "Mobile Registrierung",
+    "mobileDesc": "Registrieren Sie sich mit Ihrer Handynummer",
+    "sendCode": "Bestätigungscode Senden",
+    "forBusinessPartners": "Für Geschäftspartner",
     "intro": {
       "title": "Jetzt registrieren",
       "description": "Bewerben Sie sich jetzt, um sich zu registrieren und Ihre Mitgliedsnummer und Ihr Passwort zu erhalten, um auf die von Arabian Eagle International Tourism Services bereitgestellten Dienstleistungen zuzugreifen und sie zu genießen"
@@ -420,7 +489,11 @@
       "rememberMe": "Angemeldet bleiben",
       "forgotPassword": "Ich habe mein Passwort vergessen",
       "submit": "Konto erstellen",
-      "login": "Anmeldung zum bestehenden Konto"
+      "login": "Anmeldung zum bestehenden Konto",
+      "namePlaceholder": "Max Mustermann",
+      "emailPlaceholder": "ihre@email.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "usernamePlaceholder": "Benutzernamen wählen"
     },
     "benefits": {
       "title": "Mitgliedervorteile",
@@ -460,6 +533,9 @@
       "phone": "Telefonnummer",
       "whatsapp": "WhatsApp",
       "address": "Büroadresse"
+    },
+    "legal": {
+      "contactText": "Bei Fragen zu unserem rechtlichen Hinweis oder unseren Nutzungsbedingungen kontaktieren Sie uns bitte unter {email}."
     },
     "usaHotline": {
       "title": "Nur für USA-Mitglieder",

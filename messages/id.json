@@ -14,7 +14,12 @@
     "of": "dari",
     "email": "Email",
     "phone": "Telepon",
-    "website": "Situs Web"
+    "website": "Situs Web",
+    "yearsExperience": "37 Tahun Keunggulan",
+    "established": "Sejak 1988",
+    "websiteUrl": "www.ae4net.com",
+    "contactEmail": "info@ae4net.com",
+    "contactPhone": "+1 (555) 123-4567"
   },
   "brochure": {
     "ourImpact": "Dampak Kami",
@@ -113,8 +118,8 @@
     },
     "companyOverview": {
       "title": "Ikhtisar Perusahaan",
-      "description1": "Arabian Eagle International untuk Layanan Pariwisata didirikan pada tahun 1986 untuk bertindak sebagai kelompok negosiasi atas nama pengusaha dan VIP yang bepergian secara konstan.",
-      "description2": "Kartu Arabian Eagle International dianggap sebagai perintis dalam industri perjalanan dan inovatif dalam cara melayani dan menghibur pelancong dengan biaya serendah mungkin.",
+      "description1": "Arab Eagle adalah penyedia terkemuka solusi perjalanan dan pariwisata berteknologi tinggi, yang didedikasikan untuk melayani pelancong Arab di seluruh dunia. Didirikan pada tahun 1988 di Siprus, perusahaan berkembang ke Lebanon dan baru-baru ini mendirikan kantor pusat di Kerajaan Arab Saudi.",
+      "description2": "Dengan pengalaman lebih dari 35 tahun, Arab Eagle menggabungkan inovasi teknologi dengan pemahaman mendalam tentang kebutuhan pelancong Arab, memberikan pengalaman perjalanan yang mulus dan premium.",
       "description3": "Sekarang, dengan teknologi modern dan masuknya Internet ke rumah dan kantor, Arabian Eagle International telah menempatkan semua teknologi ini di tangan anggota dan mitra, baik di rumah maupun di tempat kerja dan di kantor mereka.",
       "description4": "Kesempatan ini cocok untuk anggota dan mitra untuk mengakses semua kebutuhan perjalanan melalui jaringan teknologi canggih. Pada saat yang sama, mereka menikmati biaya rendah yang unik untuk bepergian ke mana saja di dunia.",
       "description5": "Selain itu, Arabian Eagle menawarkan kepada anggotanya kesepakatan yang mendukung layanan dari kantor mereka sendiri atau kantor mitra bisnis mereka.",
@@ -127,13 +132,71 @@
     "stats": {
       "title": "Informasi Kunci",
       "founded": "Perusahaan Didirikan",
-      "foundedYear": "1986",
+      "foundedYear": "1988",
+      "experience": "35+ Tahun",
       "members": "Total Anggota",
       "membersCount": "42.000+",
       "market": "Pasar Target",
       "marketDesc": "Pelancong dari Semenanjung Arab dan Dunia Arab",
-      "spending": "Pengeluaran Tahunan",
-      "spendingAmount": "110+ Miliar $"
+      "spending": "Pengeluaran Pelancong Arab",
+      "spendingAmount": "$27+ Miliar sejak 2018",
+      "saudiShare": "58% dari Arab Saudi",
+      "annualGrowth": "15%-20% per tahun",
+      "partnerships": "1.150.000+ Pusat Perjalanan"
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "description": "Memimpin dalam menyediakan layanan perjalanan cerdas dan terintegrasi melalui satu platform canggih.",
+      "commitments": {
+        "title": "Untuk mencapai visi ini, kami berkomitmen untuk:",
+        "commitment1": "Mengembangkan mesin pencari global komprehensif yang melayani pelancong Arab di mana pun mereka berada",
+        "commitment2": "Menawarkan harga dan penawaran terbaik untuk hotel, resor, penerbangan, dan sewa mobil",
+        "commitment3": "Menyediakan dukungan khusus 24/7 untuk memastikan kepuasan pelanggan dan penyelesaian cepat tantangan perjalanan",
+        "commitment4": "Memungkinkan pelancong mengakses teknologi digital terbaru melalui aplikasi seluler yang ramah pengguna kapan saja, di mana saja",
+        "commitment5": "Memberikan layanan aman, cepat, dan premium yang meningkatkan pengalaman perjalanan dengan percaya diri dan mudah"
+      }
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Menjadi platform pilihan pertama untuk pelancong Arab dengan menggabungkan teknologi modern dengan pemahaman mendalam tentang budaya dan kebutuhan lokal, menyediakan solusi perjalanan cerdas dan terintegrasi."
+    },
+    "marketAnalysis": {
+      "title": "Analisis Pasar",
+      "description": "Meskipun ada perusahaan perjalanan dan pariwisata global, pelancong Arab masih kurang terlayani dalam hal layanan yang disesuaikan secara budaya.",
+      "statistics": "Statistik menunjukkan bahwa pelancong Arab telah menghabiskan lebih dari $27 miliar USD sejak 2018, dengan 58% dari Arab Saudi, dan perkiraan pertumbuhan berkisar 15%-20% per tahun.",
+      "opportunity": "Angka-angka ini mencerminkan peluang pasar yang signifikan, memposisikan Arab Eagle untuk menjembatani kesenjangan dan memberikan pengalaman perjalanan yang disesuaikan dan sadar budaya."
+    },
+    "technology": {
+      "title": "Teknologi & Layanan",
+      "description": "Arab Eagle mengembangkan mesin pemesanan hotel dan perjalanan canggih menggunakan AI dan analitik cerdas untuk menyediakan:",
+      "service1": "Pemesanan hotel dan resor dengan tarif kompetitif",
+      "service2": "Tiket penerbangan diskon",
+      "service3": "Layanan sewa mobil dan transportasi",
+      "service4": "Paket perjalanan khusus yang dirancang untuk pelancong Arab",
+      "partnerships": "Perusahaan juga telah menjalin kemitraan strategis dengan lebih dari 1.150.000 pusat perjalanan dan pariwisata di seluruh dunia, memastikan penawaran terbaik dan layanan yang luas."
+    },
+    "values": {
+      "title": "Nilai-Nilai Kami",
+      "innovation": {
+        "title": "Inovasi",
+        "description": "Pengembangan berkelanjutan solusi teknologi untuk pelancong Arab"
+      },
+      "transparency": {
+        "title": "Transparansi",
+        "description": "Harga, penawaran, dan layanan yang jelas"
+      },
+      "professionalism": {
+        "title": "Profesionalisme",
+        "description": "Kepatuhan terhadap standar kualitas global"
+      },
+      "customerFirst": {
+        "title": "Pelanggan Pertama",
+        "description": "Memastikan kepuasan pelanggan adalah prioritas utama kami"
+      }
+    },
+    "conclusion": {
+      "title": "Kesimpulan",
+      "description": "Arab Eagle bertujuan menjadi mesin perhotelan terkemuka untuk dunia Arab, menggabungkan puluhan tahun keahlian dengan teknologi canggih untuk memberikan pengalaman perjalanan yang mulus, andal, dan menginspirasi bagi setiap pelancong Arab."
     },
     "partnership": {
       "title": "Peluang Kemitraan",
@@ -188,7 +251,7 @@
       "title": "Arabian Eagle International",
       "subtitle": "Bukan hanya cara baru untuk mempromosikan bisnis dan layanan Anda, tetapi benar-benar unik",
       "highlights": {
-        "founded": "Didirikan pada tahun 1986",
+        "founded": "Didirikan pada tahun 1988",
         "pioneer": "Perintis dalam Industri Perjalanan",
         "technology": "Teknologi Modern Canggih",
         "lowCost": "Biaya Perjalanan Terendah",
@@ -377,6 +440,12 @@
   "join": {
     "title": "Bergabung dengan Arabian Eagle",
     "subtitle": "Mulai menghemat perjalanan Anda hari ini",
+    "createAccount": "Buat Akun Baru",
+    "createAccountDesc": "Bergabunglah dengan Arabian Eagle dan mulai menghemat hari ini",
+    "mobileTitle": "Pendaftaran Mobile",
+    "mobileDesc": "Daftar menggunakan nomor ponsel Anda",
+    "sendCode": "Kirim Kode Verifikasi",
+    "forBusinessPartners": "Untuk Mitra Bisnis",
     "intro": {
       "title": "Daftar Sekarang",
       "description": "Daftar sekarang untuk menerima nomor keanggotaan dan kata sandi Anda untuk mengakses dan menikmati layanan yang disediakan oleh Arabian Eagle International Tourism Services"
@@ -420,7 +489,11 @@
       "rememberMe": "Ingat saya",
       "forgotPassword": "Saya lupa kata sandi saya",
       "submit": "Buat Akun",
-      "login": "Masuk ke Akun yang Ada"
+      "login": "Masuk ke Akun yang Ada",
+      "namePlaceholder": "Budi Santoso",
+      "emailPlaceholder": "anda@email.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "usernamePlaceholder": "Pilih nama pengguna"
     },
     "benefits": {
       "title": "Manfaat Anggota",
@@ -460,6 +533,9 @@
       "phone": "Nomor Telepon",
       "whatsapp": "WhatsApp",
       "address": "Alamat Kantor"
+    },
+    "legal": {
+      "contactText": "Untuk pertanyaan tentang pemberitahuan hukum atau syarat layanan kami, silakan hubungi kami di {email}."
     },
     "usaHotline": {
       "title": "Hanya untuk Anggota AS",

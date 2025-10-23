@@ -70,7 +70,7 @@ export function BrochurePage9Contact() {
                       </div>
                     </div>
                     <p className="font-black text-brand-gold mb-2 text-sm uppercase tracking-wider">{tc('email')}</p>
-                    <p className="text-primary text-sm font-bold">info@ae4net.com</p>
+                    <p className="text-primary text-sm font-bold">{tc('contactEmail')}</p>
                   </CardContent>
                 </Card>
                 <Card className="bg-white/5 backdrop-blur-sm border-2 border-white/20 hover:bg-white/10 hover:border-brand-gold/40 transition-all shadow-lg group">
@@ -84,7 +84,7 @@ export function BrochurePage9Contact() {
                       </div>
                     </div>
                     <p className="font-black text-brand-gold mb-2 text-sm uppercase tracking-wider">{tc('phone')}</p>
-                    <p className="text-primary text-sm font-bold">+1 (555) 123-4567</p>
+                    <p className="text-primary text-sm font-bold">{tc('contactPhone')}</p>
                   </CardContent>
                 </Card>
                 <Card className="bg-white/5 backdrop-blur-sm border-2 border-white/20 hover:bg-white/10 hover:border-brand-gold/40 transition-all shadow-lg group">
@@ -98,7 +98,7 @@ export function BrochurePage9Contact() {
                       </div>
                     </div>
                     <p className="font-black text-brand-gold mb-2 text-sm uppercase tracking-wider">{tc('website')}</p>
-                    <p className="text-primary text-sm font-bold">www.ae4net.com</p>
+                    <p className="text-primary text-sm font-bold">{tc('websiteUrl')}</p>
                   </CardContent>
                 </Card>
               </div>
@@ -114,7 +114,7 @@ export function BrochurePage9Contact() {
         <div className="flex items-center justify-center gap-2 text-primary/50 text-xs">
           <span>{tc('tagline')}</span>
           <span className="w-1.5 h-1.5 bg-brand-gold rounded-full" />
-          <span className="text-brand-gold font-semibold">EST. 1986</span>
+          <span className="text-brand-gold font-semibold">EST. 1988</span>
         </div>
       </div>
     </div>

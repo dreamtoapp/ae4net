@@ -14,7 +14,12 @@
     "of": "/",
     "email": "E-posta",
     "phone": "Telefon",
-    "website": "Web Sitesi"
+    "website": "Web Sitesi",
+    "yearsExperience": "37 Yıl Mükemmellik",
+    "established": "1988'den Beri",
+    "websiteUrl": "www.ae4net.com",
+    "contactEmail": "info@ae4net.com",
+    "contactPhone": "+1 (555) 123-4567"
   },
   "brochure": {
     "ourImpact": "Etkimiz",
@@ -113,8 +118,8 @@
     },
     "companyOverview": {
       "title": "Şirket Genel Bakış",
-      "description1": "Arabian Eagle International Turizm Hizmetleri, sürekli seyahat eden işadamları ve VIP'ler adına müzakere grubu olarak hareket etmek üzere 1986 yılında kurulmuştur.",
-      "description2": "Arabian Eagle International Kartı, seyahat endüstrisinde öncüdür ve gezginlere en düşük maliyetle hizmet verme ve eğlendirme konusunda yenilikçidir.",
+      "description1": "Arab Eagle, dünya çapında Arap gezginlere hizmet vermeye adanmış, yüksek teknolojili seyahat ve turizm çözümleri sunan lider bir sağlayıcıdır. 1988 yılında Kıbrıs'ta kurulan şirket, Lübnan'a genişledi ve yakın zamanda merkezini Suudi Arabistan Krallığı'nda kurdu.",
+      "description2": "35 yılı aşkın deneyimiyle Arab Eagle, teknolojik yeniliği Arap gezginlerinin ihtiyaçlarına derin bir anlayışla birleştirerek kusursuz ve premium bir seyahat deneyimi sunmaktadır.",
       "description3": "Şimdi, modern teknoloji ve İnternet'in evlere ve ofislere girişi ile Arabian Eagle International, tüm bu teknolojiyi ister evde ister işte ve ofislerinde olsun, üyelerin ve ortakların ellerine yerleştirmiştir.",
       "description4": "Bu fırsat, üyeler ve ortaklar için gelişmiş bir teknoloji ağı aracılığıyla tüm seyahat ihtiyaçlarına erişmek için uygundur. Aynı zamanda, dünyanın herhangi bir yerine seyahat etmenin benzersiz düşük maliyetinden yararlanırlar.",
       "description5": "Ayrıca, Arabian Eagle üyelerine kendi ofislerinden veya iş ortaklarının ofislerinden hizmetleri destekleyen fırsatlar sunar.",
@@ -127,13 +132,71 @@
     "stats": {
       "title": "Temel Bilgiler",
       "founded": "Şirket Kuruldu",
-      "foundedYear": "1986",
+      "foundedYear": "1988",
+      "experience": "35+ Yıl",
       "members": "Toplam Üye",
       "membersCount": "42.000+",
       "market": "Hedef Pazar",
       "marketDesc": "Arap Yarımadası ve Arap Dünyasından Gezginler",
-      "spending": "Yıllık Harcama",
-      "spendingAmount": "110+ Milyar $"
+      "spending": "Arap Gezginlerin Harcaması",
+      "spendingAmount": "2018'den beri 27+ Milyar $",
+      "saudiShare": "Suudi Arabistan'dan %58",
+      "annualGrowth": "Yıllık %15-20",
+      "partnerships": "1.150.000+ Seyahat Merkezi"
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description": "Tek bir gelişmiş platform aracılığıyla akıllı, entegre seyahat hizmetleri sağlamada lider olmak.",
+      "commitments": {
+        "title": "Bu vizyonu gerçekleştirmek için şunları taahhüt ediyoruz:",
+        "commitment1": "Arap gezginlere nerede olurlarsa olsunlar hizmet eden kapsamlı bir küresel arama motoru geliştirmek",
+        "commitment2": "Oteller, tatil köyleri, uçuşlar ve araç kiralama için en iyi fiyatları ve fırsatları sunmak",
+        "commitment3": "Müşteri memnuniyetini sağlamak ve seyahat zorluklarının hızlı çözümü için 7/24 özel destek sağlamak",
+        "commitment4": "Gezginlerin her zaman, her yerde kullanıcı dostu bir mobil uygulama aracılığıyla en son dijital teknolojilere erişmesini sağlamak",
+        "commitment5": "Güven ve kolaylıkla seyahat deneyimini yükselten güvenli, hızlı ve premium hizmetler sunmak"
+      }
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Modern teknolojiyi yerel kültür ve ihtiyaçların derin bir anlayışıyla birleştirerek, akıllı ve entegre seyahat çözümleri sağlayarak Arap gezginler için ilk tercih platformu olmak."
+    },
+    "marketAnalysis": {
+      "title": "Pazar Analizi",
+      "description": "Küresel seyahat ve turizm şirketlerinin varlığına rağmen, Arap gezginler kültürel olarak uyarlanmış hizmetler açısından yetersiz hizmet almaktadır.",
+      "statistics": "İstatistikler, Arap gezginlerin 2018'den bu yana 27 milyar ABD dolarından fazla harcama yaptığını, bunun %58'inin Suudi Arabistan'dan olduğunu ve büyüme tahminlerinin yıllık %15-20 arasında olduğunu göstermektedir.",
+      "opportunity": "Bu rakamlar önemli bir pazar fırsatını yansıtmakta ve Arab Eagle'ı boşluğu doldurmak ve özel olarak tasarlanmış, kültürel olarak bilinçli bir seyahat deneyimi sağlamak için konumlandırmaktadır."
+    },
+    "technology": {
+      "title": "Teknoloji ve Hizmetler",
+      "description": "Arab Eagle, yapay zeka ve akıllı analitiği kullanarak şunları sağlamak için son teknoloji otel ve seyahat rezervasyon motoru geliştirmiştir:",
+      "service1": "Rekabetçi fiyatlarla otel ve tatil köyü rezervasyonları",
+      "service2": "İndirimli uçak biletleri",
+      "service3": "Araç kiralama ve ulaşım hizmetleri",
+      "service4": "Arap gezginler için tasarlanmış özel seyahat paketleri",
+      "partnerships": "Şirket ayrıca dünya çapında 1.150.000'den fazla seyahat ve turizm merkezi ile stratejik ortaklıklar kurmuş ve en iyi fırsatları ve geniş kapsamlı hizmetleri garanti etmiştir."
+    },
+    "values": {
+      "title": "Değerlerimiz",
+      "innovation": {
+        "title": "İnovasyon",
+        "description": "Arap gezginler için teknolojik çözümlerin sürekli geliştirilmesi"
+      },
+      "transparency": {
+        "title": "Şeffaflık",
+        "description": "Net fiyatlandırma, teklifler ve hizmetler"
+      },
+      "professionalism": {
+        "title": "Profesyonellik",
+        "description": "Küresel kalite standartlarına bağlılık"
+      },
+      "customerFirst": {
+        "title": "Önce Müşteri",
+        "description": "Müşteri memnuniyetini sağlamak en önemli önceliğimizdir"
+      }
+    },
+    "conclusion": {
+      "title": "Sonuç",
+      "description": "Arab Eagle, onlarca yıllık uzmanlığı gelişmiş teknolojilerle birleştirerek her Arap gezgin için kusursuz, güvenilir ve ilham verici bir seyahat deneyimi sunmak üzere Arap dünyası için lider konaklama motoru olmayı hedeflemektedir."
     },
     "partnership": {
       "title": "Ortaklık Fırsatları",
@@ -188,7 +251,7 @@
       "title": "Arabian Eagle International",
       "subtitle": "Sadece işinizi ve hizmetlerinizi tanıtmanın yeni bir yolu değil, gerçekten benzersiz",
       "highlights": {
-        "founded": "1986'da Kuruldu",
+        "founded": "1988'da Kuruldu",
         "pioneer": "Seyahat Endüstrisinde Öncü",
         "technology": "Gelişmiş Modern Teknoloji",
         "lowCost": "En Düşük Seyahat Maliyetleri",
@@ -377,6 +440,12 @@
   "join": {
     "title": "Arabian Eagle'a Katılın",
     "subtitle": "Bugün seyahatlerinizde tasarruf etmeye başlayın",
+    "createAccount": "Yeni Hesap Oluştur",
+    "createAccountDesc": "Arabian Eagle'a katılın ve bugün tasarruf etmeye başlayın",
+    "mobileTitle": "Mobil Kayıt",
+    "mobileDesc": "Cep telefonu numaranızı kullanarak kaydolun",
+    "sendCode": "Doğrulama Kodu Gönder",
+    "forBusinessPartners": "İş Ortakları İçin",
     "intro": {
       "title": "Şimdi Kayıt Olun",
       "description": "Arabian Eagle International Turizm Hizmetleri tarafından sağlanan hizmetlere erişmek ve bunlardan yararlanmak için üyelik numaranızı ve şifrenizi almak üzere şimdi başvurun ve kaydolun"
@@ -420,7 +489,11 @@
       "rememberMe": "Beni hatırla",
       "forgotPassword": "Şifremi unuttum",
       "submit": "Hesap Oluştur",
-      "login": "Mevcut Hesaba Giriş Yap"
+      "login": "Mevcut Hesaba Giriş Yap",
+      "namePlaceholder": "Ahmet Yılmaz",
+      "emailPlaceholder": "sizin@email.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "usernamePlaceholder": "Bir kullanıcı adı seçin"
     },
     "benefits": {
       "title": "Üye Avantajları",
@@ -460,6 +533,9 @@
       "phone": "Telefon Numarası",
       "whatsapp": "WhatsApp",
       "address": "Ofis Adresi"
+    },
+    "legal": {
+      "contactText": "Yasal bildirimimiz veya hizmet şartlarımız hakkında sorularınız için lütfen {email} adresinden bizimle iletişime geçin."
     },
     "usaHotline": {
       "title": "Sadece ABD Üyeleri İçin",

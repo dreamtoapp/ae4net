@@ -34,9 +34,9 @@ export function BrochurePage1Cover() {
         </div>
 
         <div className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/10 backdrop-blur-xl border border-white/20 rounded-full mb-8">
-          <span className="text-brand-gold font-bold text-sm tracking-wide">EST. 1986</span>
+          <span className="text-brand-gold font-bold text-sm tracking-wide">EST. 1988</span>
           <span className="text-white/60">•</span>
-          <span className="text-white/90 font-medium text-sm">39 Years of Excellence</span>
+          <span className="text-white/90 font-medium text-sm">{tc('yearsExperience')}</span>
         </div>
 
         <h1 className="text-6xl font-black text-white mb-6 drop-shadow-2xl leading-tight">
