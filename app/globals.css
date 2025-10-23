@@ -88,8 +88,8 @@ body {
 
 .page-number {
   position: absolute;
-  bottom: 10mm;
-  right: 10mm;
+  bottom: 3mm;
+  left: 10mm;
   background: rgba(0, 0, 0, 0.05);
   padding: 4px 12px;
   border-radius: 4px;

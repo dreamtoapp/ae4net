@@ -1,4 +1,8 @@
-{
+const fs = require('fs');
+const path = require('path');
+
+// Complete Indonesian translation
+const id = {
   "common": {
     "brand": "Arabian Eagle International",
     "tagline": "Membuat Perjalanan Lebih Mudah",
@@ -662,4 +666,12 @@
     },
     "social": "Ikuti Kami"
   }
-}
+};
+
+const outputPath = path.join(__dirname, '..', 'messages', 'id.json');
+fs.writeFileSync(outputPath, JSON.stringify(id, null, 2), 'utf8');
+console.log('✅ Indonesian translation file created successfully!');
+console.log(`📁 Location: ${outputPath}`);
+console.log(`📊 Total keys: ${JSON.stringify(id).match(/:/g).length}`);
+
+

@@ -101,23 +101,346 @@
   },
   "about": {
     "title": "Arabian Eagle Hakkında",
-    "subtitle": "Uluslararası seyahatte güvenilir ortağınız"
+    "subtitle": "Uluslararası seyahatte güvenilir ortağınız",
+    "whatIsAE": {
+      "title": "Arabian Eagle Nedir",
+      "description1": "Arabian Eagle International, işinizi ve hizmetlerinizi tanıtmanın sadece yeni bir yolu değildir; aslında Arap Yarımadası ve diğer Arap ülkelerinden gelen gezginlere hizmet verme konusunda uzmanlaşmış ilk kart şirketidir ve size yüksek gelirli geniş bir kitleye ulaşma fırsatı sunar.",
+      "description2": "Birkaç alanda, hem kart sahibine hem de tedarik şirketine sağlanan hizmetler ve faydalar açısından yaygın olarak kullanılan diğer seyahat kartlarına benzemektedir. Ancak farklı olan şey, Arabian Eagle International'ın hizmetlerini dünyanın en yüksek mevcut gelirlerinden birine sahip her pazar için... özellikle Arap dünyası, özellikle de Arap Yarımadası için kurması ve tasarlamasıdır.",
+      "description3": "Son yıllarda, Araplar ve Arap dünyasına göç edenler, diğer coğrafi bölgelerdeki muadillerinden daha fazla otel ve araç kiralama şirketlerini kullanan sık uluslararası gezginler haline gelmiştir. Aslında, Arap dünyasından gelen gezginler yılda yüz on milyar ABD dolarından fazla seyahate harcamaktadır. İşte Arabian Eagle International'ın kendi işinizi tanıtmanız için size sunduğu pazar budur.",
+      "description4": "Ve siz, bir iş ortağı olarak, bir ortak olduğunuzda Arabian Eagle'ın iş vizyonundan ve üyelerimize sağlanan hizmetlerden yararlanabilirsiniz. Yapmanız gereken tek şey, bize işiniz, hizmetleriniz ve ortaklar olarak teklifleriniz hakkında bilgi vermek ve iş hedeflerinizin ve şirket arzularınızın beklentilerinizi aşan iş büyümesi ile gerçekleşeceğinden emin olabiliriz.",
+      "description5": "Kapsamlı üye programımız ve pazarlara girme yeteneğimiz, bizi seyahat endüstrisindeki en iyi öncü şirketlerden biri haline getirmiştir. Yirmi sekiz bini aşan üyelerimiz, bir dizi hizmetten yararlanmaktadır ve çoğu işimizin kuruluşundan bu yana bizimle birliktedir. Bir iş ortağı olarak, 42.000 üyemiz aracılığıyla müşteri tabanınızı artıracak, üyelerimizin pazarlama bakım ekibimizi ve hizmetlerinizi tanıtmak için tesislerimizi kullanacaksınız. Normalde yıllar alacak iş geliştirmede büyük bir adımı, şimdi sadece birkaç düğme tıklamasıyla gerçekleştirebilirsiniz.",
+      "description6": "Arabian Eagle International, bağlı üyeleri için hizmetlerini geliştirmeyi ve dünyanın çeşitli ülkelerinden iş ittifaklarını artırmayı amaçlamaktadır. Arabian Eagle International, üyelerinin güvenini ve sadakatini kazanmış ve iş büyümesini kararlı ve sıkı tutmuştur, ancak bu aynı zamanda bir iş ortağı olarak sizin de yapacağınız şeydir. Arabian Eagle, sizden bir üye olarak, sizin ondan yararlanacağınız kadar fayda sağlamayacaktır."
+    },
+    "companyOverview": {
+      "title": "Şirket Genel Bakış",
+      "description1": "Arabian Eagle International Turizm Hizmetleri, sürekli seyahat eden işadamları ve VIP'ler adına müzakere grubu olarak hareket etmek üzere 1986 yılında kurulmuştur.",
+      "description2": "Arabian Eagle International Kartı, seyahat endüstrisinde öncüdür ve gezginlere en düşük maliyetle hizmet verme ve eğlendirme konusunda yenilikçidir.",
+      "description3": "Şimdi, modern teknoloji ve İnternet'in evlere ve ofislere girişi ile Arabian Eagle International, tüm bu teknolojiyi ister evde ister işte ve ofislerinde olsun, üyelerin ve ortakların ellerine yerleştirmiştir.",
+      "description4": "Bu fırsat, üyeler ve ortaklar için gelişmiş bir teknoloji ağı aracılığıyla tüm seyahat ihtiyaçlarına erişmek için uygundur. Aynı zamanda, dünyanın herhangi bir yerine seyahat etmenin benzersiz düşük maliyetinden yararlanırlar.",
+      "description5": "Ayrıca, Arabian Eagle üyelerine kendi ofislerinden veya iş ortaklarının ofislerinden hizmetleri destekleyen fırsatlar sunar.",
+      "description6": "Üyelik, uluslararası işlerde lider olarak kabul edilen ve seyahatlerini rahat bir şekilde organize etme ve yönetme konusunda profesyonel topluluktaki sizin gibi insanlar içindir, seyahat sırasında gereken konfordan ödün vermeden seyahat masraflarını azaltırken.",
+      "description7": "Buradan, gezginin engellerini aşmasına yardımcı olmak ve rahatsızlık ve zaman kaybını önlemek için elimizden geleni yaptık ve harcadığınız her dolar için en iyi kalitede seçkin hizmetleri size sunduk, çünkü bu küresel mali zorluk zamanlarında büyük önem taşıyan bir konudur.",
+      "description8": "Nereye seyahat ederseniz edin, sizi ve bakmakla yükümlü olduklarınızı korumak için özel olarak ayrılmış geniş bir sigorta belgesi yelpazesi olduğundan emin olabilirsiniz ve bu kılavuzda belirtilen özel uluslararası ayrıcalıklar, her seyahatte ve her zaman gereksinimlerinize ayak uydurmak için genişlemeye devam edecektir, Arabian Eagle International yönetiminde veya hizmetlerini uluslararası olarak sağlamak için bizimle işbirliği yapan şirketlerden herhangi birinde size hizmet verenlerden yorulmadan.",
+      "description9": "Bunun yanı sıra, önerilerinizi sunarak buna katkıda bulunabilirsiniz, böylece arkadaşlarınıza ve seyahat ortaklarınıza söz yayarak Arabian Eagle International'daki tüm müşterilere yardımcı olmanın en iyi yolunu sağlayabiliriz.",
+      "description10": "Bu, üyeliğin genişlemesine ve müzakere gücünün artmasına yol açacaktır, bu da faydaların artması ve geliştirilmesi anlamına gelir."
+    },
+    "stats": {
+      "title": "Temel Bilgiler",
+      "founded": "Şirket Kuruldu",
+      "foundedYear": "1986",
+      "members": "Toplam Üye",
+      "membersCount": "42.000+",
+      "market": "Hedef Pazar",
+      "marketDesc": "Arap Yarımadası ve Arap Dünyasından Gezginler",
+      "spending": "Yıllık Harcama",
+      "spendingAmount": "110+ Milyar $"
+    },
+    "partnership": {
+      "title": "Ortaklık Fırsatları",
+      "subtitle": "Arabian Eagle International İş Geliştirme Planına katılmanın maliyeti ve faydaları nelerdir?",
+      "noCost": "Aslında, Arabian Eagle International planına katılmak için hiçbir maliyet veya mali harcama yoktur.",
+      "formInstruction": "Yapmanız gereken tek şey formu doldurmak ve alanları doldurmak ve işiniz ile Arabian Eagle International üyelerine ve kart sahiplerine sunulabilecek özel hizmetler ve ayrıcalıklarla ilgili çeşitli soruları cevaplamak ve ardından bize belirtilen adreste iade etmektir.",
+      "benefits": {
+        "title": "Arabian Eagle International size karşılığında ne sunacak?",
+        "benefit1": "Kuruluşunuzun adının tüm ayrıntılarla sisteme otomatik eklenmesi",
+        "benefit2": "Kuruluş adınızın tüm Arabian Eagle International kart sahiplerine dağıtılması",
+        "benefit3": "Danışmanlık hizmetleri listesine otomatik ekleme",
+        "benefit4": "42.000'den fazla potansiyel üyeye erişim"
+      }
+    },
+    "cta": {
+      "title": "Katılmakla İlgileniyor musunuz?",
+      "description": "Arabian Eagle International'a katılmakla ilgileniyorsanız veya daha fazla bilgiye ihtiyacınız varsa, lütfen bizimle iletişime geçin.",
+      "button": "Şimdi Bize Ulaşın"
+    }
   },
   "cards": {
     "title": "Arabian Eagle Kartları",
-    "subtitle": "Seyahat ihtiyaçlarınıza uygun kartı seçin"
+    "subtitle": "Seyahat ihtiyaçlarınıza uygun kartı seçin",
+    "basic": {
+      "name": "Temel Kart",
+      "annualFee": "99",
+      "feature1": "Dünya çapında 1.145.000'den fazla otele erişim",
+      "feature2": "Otel fiyatlarında %50'ye varan indirim",
+      "feature3": "7/24 müşteri desteği",
+      "feature4": "Ücretsiz bülten ve seyahat ipuçları"
+    },
+    "silver": {
+      "name": "Gümüş Kart",
+      "annualFee": "199",
+      "feature1": "Tüm Temel Kart faydaları",
+      "feature2": "Otel fiyatlarında %65'e varan indirim",
+      "feature3": "Priority Pass (1 yıl ücretsiz)",
+      "feature4": "Araç kiralamada %25'e varan indirim",
+      "feature5": "Seyahat sigortası dahil"
+    },
+    "gold": {
+      "name": "Altın Kart",
+      "annualFee": "299",
+      "feature1": "Tüm Gümüş Kart faydaları",
+      "feature2": "Otel fiyatlarında %75'e varan indirim",
+      "feature3": "Priority Pass (ömür boyu)",
+      "feature4": "Araç kiralamada %30'a varan indirim",
+      "feature5": "VIP otel giriş hizmetleri",
+      "feature6": "Arabian Eagle MasterCard seçeneği"
+    },
+    "intro": {
+      "title": "Arabian Eagle International",
+      "subtitle": "Sadece işinizi ve hizmetlerinizi tanıtmanın yeni bir yolu değil, gerçekten benzersiz",
+      "highlights": {
+        "founded": "1986'da Kuruldu",
+        "pioneer": "Seyahat Endüstrisinde Öncü",
+        "technology": "Gelişmiş Modern Teknoloji",
+        "lowCost": "En Düşük Seyahat Maliyetleri",
+        "insurance": "Kapsamlı Sigorta Kapsamı",
+        "noCost": "Üyelik Ücreti Yok",
+        "members": "42.000+ Üye"
+      }
+    },
+    "membership": {
+      "title": "Üyelik Kartı",
+      "description": "Arabian Eagle International Turizm Hizmetleri tarafından verilen Arabian Eagle VIP üyeliği, müşterilere sadece mali tasarruf değil, aynı zamanda seyahatlerini daha kolay ve rahat hale getiren en yüksek düzeyde hizmetler sağlar.",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "priorityPass": {
+      "title": "Priority Pass Kartı",
+      "description": "Arabian Eagle International kart sahiplerinin seyahatleri sırasında rahatlığı için, seyahat sınıfı veya havayolundan bağımsız olarak, dünya çapında 120'den fazla ülkede ve 400'den fazla şehirde 850 iş salonuna girişlerini sağlamak için tüm Arabian Eagle International müşterilerine uluslararası Priority Pass kartını vermek üzere Priority Pass ile düzenlemeler yapılmıştır.",
+      "lounges": "850 Salon",
+      "cities": "400+ Şehir",
+      "countries": "120+ Ülke",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "partners": {
+      "title": "Arabian Eagle Ortaklar Kartı",
+      "subtitle": "Alışveriş Masraflarınızı Azaltmanın En İyi Yolu",
+      "description": "Arabian Eagle Ortaklar Kartı - Süper Tasarruf'u kullanarak alışverişi keyifli hale getirin. Size birçok alışveriş merkezi, mağaza, süpermarket, restoran, giyim mağazası ve premium araç kiralama şirketi arasından seçim yapabileceğiniz geniş bir yelpaze sunar, tüm bunlar Arabian Eagle International Kartını aldığınızda ücretsiz olarak elde ettiğiniz tam bir yıl boyunca parmaklarınızın ucunda.",
+      "freeYear": "Tam Bir Yıl Ücretsiz",
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "mastercard": {
+      "title": "Arabian Eagle International MasterCard",
+      "description": "Arabian Eagle kartı, ön yatırımınız aracılığıyla ne kadar harcadığınızı sadece siz belirlemeniz dışında, diğer kredi kartları gibi çalışır. Şimdi web sitemiz aracılığıyla kendi Arabian Eagle International MasterCard'ınızı kolayca sipariş edebilirsiniz, çünkü Arabian Eagle International MasterCard size çevrimiçi ve dünya çapındaki satış noktalarında ve mağazalarda istediğiniz yerde alışveriş yapma özgürlüğü verir.",
+      "features": {
+        "title": "Kart Özellikleri",
+        "prepaid": "Ön ödemeli banka kartı",
+        "control": "Ön yatırım kontrollü harcama",
+        "worldwide": "Dünya çapında kabul edilir",
+        "onlineShopping": "Çevrimiçi alışveriş özgürlüğü"
+      },
+      "learnMore": "Daha Fazla Bilgi"
+    }
   },
   "priorityPass": {
     "title": "Arabian Eagle Priority Pass Üyeliği",
-    "subtitle": "En Büyük Bağımsız Küresel Program"
+    "subtitle": "En Büyük Bağımsız Küresel Program",
+    "description": "Bu, tüm Arabian Eagle müşterilerinin dünya çapındaki uluslararası havalimanlarında 850'den fazla VIP salona erişerek kalabalık havalimanlarının gürültüsünden kaçınmalarını sağlayan en büyük bağımsız küresel programdır, bu da biniş zamanına kadar havalimanlarındaki bekleme sürelerinizi lüks, sakinlik ve huzur dolu hale getirir. Seyahat sınıfı veya seyahat ettiğiniz havayolundan bağımsız olarak istediğiniz yerde salonlara erişimin keyfini çıkaracaksınız.",
+    "stats": {
+      "lounges": "850+",
+      "loungesLabel": "Dünya Çapında Salon",
+      "countries": "120+",
+      "countriesLabel": "Ülke",
+      "cities": "400+",
+      "citiesLabel": "Şehir"
+    },
+    "howToUse": {
+      "title": "Priority Pass Nasıl Kullanılır",
+      "step1": "Seyahat etmeden önce, gezginler web sitesinde mevcut dizini arayarak seyahat ettikleri ülkedeki salonları görüntüleyebilir",
+      "step2": "Varışta, kartınızı seçilen salondaki resepsiyon personeline gösterin",
+      "step3": "Bir salon personeli, biniş zamanına kadar her gezginin ihtiyaç duyduğu şeylere hizmetlerini sağlamaktan ve yönlendirmekten memnuniyet duyacaktır",
+      "step4": "Kart sahipleri ücretsiz ikramlardan, gazetelerden, televizyondan yararlanacaktır. Ayrıca, telefon, faks, konferans hizmetleri ve internet dahil olmak üzere iş olanaklarına erişim vardır"
+    },
+    "benefits": {
+      "title": "Priority Pass Üyelik Avantajları",
+      "peaceAndCalm": {
+        "title": "Huzur ve Sakinlik",
+        "description": "Havalimanları stres ve rahatsızlık yaratan kalabalık yerlerdir. Bu stresten kurtulmanın en iyi yolu, uçuşunuzu beklerken lüks salonlardan birine girmektir. Priority Pass üyeliği, uçuş sınıfınız veya iş yaptığınız havayolundan bağımsız olarak, her zaman seyahat ederken bu salonlara erişmenin ve hizmetlerinden yararlanmanın keyfini çıkarmanızı sağlar"
+      },
+      "worldwide": {
+        "title": "Dünya Çapında Salonlar",
+        "description": "Birçok iş salonumuz var, böylece 120'den fazla ülkede ve 400'den fazla şehirde, özellikle Suudi Arabistan ve Arap Körfezi'ndeki havalimanları olmak üzere Orta Doğu'daki en önemli havalimanları dahil olmak üzere 850'den fazla salona erişebilirsiniz"
+      }
+    },
+    "features": {
+      "title": "Mevcut Salon Hizmetleri",
+      "feature1": "Ücretsiz ikramlar, gazeteler ve televizyon",
+      "feature2": "İş olanaklarına erişim",
+      "feature3": "Telefon, faks ve konferans hizmetlerinin kullanımı",
+      "feature4": "İnternet ve e-posta hizmetleri",
+      "feature5": "Çeşitli atıştırmalıklar ve içecekler",
+      "feature6": "Bilet sınıfı veya havayolundan bağımsız giriş"
+    },
+    "companion": {
+      "title": "Refakatçi Erişimi",
+      "description": "Bu seçkin hizmet sadece sizin için değil, aile üyeleri, arkadaşlar veya akrabalarınız gibi sizinle birlikte olan refakatçiler için de geçerlidir ve bu ayrıcalıkları düşünüldüğünde çok fazla olmayan 27 USD nominal bir ücret karşılığında aynı belirtilen avantajlardan yararlanırlar",
+      "fee": "Refakatçi başına 27 USD"
+    },
+    "keyAccess": {
+      "title": "Dünya Çapında VIP Salon Erişim Anahtarı",
+      "description": "Arabian Eagle International Kartı, dünya çapında VIP salonlara erişim anahtarıdır ve biniş zamanına kadar havalimanlarındaki bekleme sürelerinizi lüks, sakinlik ve huzur dolu hale getirir"
+    },
+    "freeOffer": {
+      "title": "Bir Yıl ÜCRETSİZ",
+      "subtitle": "İlk Seyahatle"
+    },
+    "amenities": {
+      "title": "Salon Olanakları",
+      "wifi": "Yüksek Hızlı WiFi",
+      "food": "Ücretsiz yiyecek ve içecek",
+      "showers": "Duş tesisleri",
+      "meeting": "Toplantı odaları",
+      "comfort": "Rahat oturma",
+      "newspaper": "Gazeteler ve dergiler",
+      "tv": "Televizyon",
+      "business": "İş olanakları"
+    }
   },
   "services": {
     "title": "Hizmetlerimiz",
-    "subtitle": "Üyelerimiz için kapsamlı seyahat çözümleri"
+    "subtitle": "Üyelerimiz için kapsamlı seyahat çözümleri",
+    "stats": {
+      "hotels": "1.145.000+",
+      "hotelsLabel": "Dünya Çapında Otel",
+      "customers": "3+ Milyon",
+      "customersLabel": "Güvenilen Müşteri",
+      "reviews": "1-2 Milyon+",
+      "reviewsLabel": "Yıllık İnceleme",
+      "freeNights": "1.000+",
+      "freeNightsLabel": "Ücretsiz Gece",
+      "cities": "22.000+",
+      "citiesLabel": "Şehir"
+    },
+    "facilities": {
+      "title": "Olanaklar",
+      "hotelDiscounts": {
+        "title": "Otel Fiyat İndirimleri",
+        "description": "Uluslararası otellerin geniş bir seçkisinde oda fiyatlarında %50'den fazla %75'e varan indirimlerle özel indirimli fiyatlar, bu otellerin normal fiyatlarının yarısından daha az olarak kabul edilir."
+      },
+      "freeBooking": {
+        "title": "Uluslararası Otellerde Ücretsiz Rezervasyon Hizmetleri",
+        "description": "En yakın Arabian Eagle International ofisi ile iletişime geçerek, üyeler tüm otellerde ücretsiz rezervasyon hizmetlerinden yararlanabilir"
+      },
+      "vipPrivileges": {
+        "title": "VIP Ayrıcalıklar ve En Hızlı Otel Girişi",
+        "description": "Arabian Eagle International, üye adına tüm otel kayıt prosedürlerini tamamlar ve onları form doldurma zahmetinden kurtarır. Ayrıca, genellikle yalnızca ücretlerini ödedikten sonra verilen VIP'lere sağlanan ücretsiz premium hizmetlerden yararlanmalarını sağlar"
+      },
+      "carRentalDiscounts": {
+        "title": "Uluslararası Araç Kiralama Şirketi İndirimleri",
+        "description": "Arabian Eagle International üyelik sahipleri, dünya çapında birkaç uluslararası araç kiralama şirketinden özel indirimli fiyatlardan yararlanır"
+      },
+      "freeEmail": {
+        "title": "Arabian Eagle'dan Ücretsiz E-posta",
+        "description": "Her Arabian Eagle üyesi, abonelik ücretini ödedikten sonra ücretsiz bir e-posta hesabı alır"
+      },
+      "newsletter": {
+        "title": "Ücretsiz Bülten",
+        "description": "Arabian Eagle International, gezginlerin ilgisini çeken ilginç konular ve makaleler içeren tüm üyelere düzenli bir bülten gönderir, ayrıca şirket hakkında ek haberler ve bilgiler içerir"
+      }
+    },
+    "cardServices": {
+      "title": "Arabian Eagle International Kartının Sağladığı Hizmetler",
+      "subtitle": "Tüm Arabian Eagle International Kart Sahipleri İçin Mükemmel Hizmetler",
+      "intro": "Tüm müşterilerimize hizmetlerimizi sağlamaktan memnuniyet duyuyoruz, onlara seyahatle ilgili tüm hizmetleri ve turizm programlarını ve dünya çapında araç kiralama fiyatlarını erişilebilir kılıyor, onlara çok özel faydalar sağlıyoruz. Bu hizmetler, istisnasız tüm türler ve seviyelerdeki tüm Arabian Eagle International kart sahipleri için özel olacaktır",
+      "services": {
+        "carBoatRental": "Araç ve Tekne Kiralama",
+        "cityTours": "Şehir Gezi Turları",
+        "concerts": "Konser ve Sinema Rezervasyonları",
+        "weddingHalls": "Düğün Salonu Rezervasyonları",
+        "shopping": "Alışveriş",
+        "hotelReservations": "Otel Rezervasyonları"
+      }
+    },
+    "travelConsulting": {
+      "title": "Seyahat Danışmanlık Hizmetleri",
+      "description": "Arabian Eagle International, üyelerine dünya çapındaki ofislerinden tüm iş seyahatleri ve kısa veya uzun tatiller için seyahat, turizm programları, bilet rezervasyonu, otel rezervasyonları, araç kiralama vb. ile ilgili kapsamlı bilgiler ve her türlü sorguya yanıtlar sağlar"
+    },
+    "otherServices": {
+      "title": "Ve Ayrıca Diğer Hizmetler",
+      "description": "Arabian Eagle Turizm Hizmetleri yönetimi, müşterilerine tüm bu avantajlardan ve diğer ayrıcalıklarla uluslararası seyahatleri sırasında tüm bilgileri ve kolaylıkları elde etmek için İnternet aracılığıyla en son mevcut teknolojiyle sağlanan özel hizmetlerden yararlanmak ve bunlardan keyif almak için en iyi hizmetleri sağlamak için çalışır"
+    },
+    "hotelBookings": {
+      "title": "Otel Rezervasyonları ve İndirimler",
+      "description": "Ana fiyatlardan %75'e varan indirimlerle dünya çapında 1.145.000'den fazla otele erişim. Özel üye fiyatları mevcuttur."
+    },
+    "loungeAccess": {
+      "title": "Havalimanı Salon Erişimi",
+      "description": "120'den fazla ülkede büyük havalimanlarında 850'den fazla VIP salon. Havayolunuza bakılmaksızın premium olanakların keyfini çıkarın."
+    },
+    "carRentals": {
+      "title": "Araç Kiralama İndirimleri",
+      "description": "Tüm seyahatleriniz için araç kiralamada %30'a varan tasarruf. Büyük kiralama şirketleriyle dünya çapında kullanılabilir."
+    },
+    "mastercard": {
+      "title": "Arabian Eagle MasterCard",
+      "description": "Kontrollü harcama ve özel üye ayrıcalıkları ile ön ödemeli banka kartı."
+    }
   },
   "join": {
     "title": "Arabian Eagle'a Katılın",
-    "subtitle": "Bugün seyahatlerinizde tasarruf etmeye başlayın"
+    "subtitle": "Bugün seyahatlerinizde tasarruf etmeye başlayın",
+    "intro": {
+      "title": "Şimdi Kayıt Olun",
+      "description": "Arabian Eagle International Turizm Hizmetleri tarafından sağlanan hizmetlere erişmek ve bunlardan yararlanmak için üyelik numaranızı ve şifrenizi almak üzere şimdi başvurun ve kaydolun"
+    },
+    "pricing": {
+      "title": "Şimdi Sadece 400 USD'ye Abone Olun",
+      "amount": "400 $",
+      "currency": "USD",
+      "description": "Evet, bu doğru!!! Abonelik ücreti sadece 400 USD. Arabian Eagle International Turizm Hizmetlerinin bir üyesi olarak size sunulan faydalar ve hizmetlerle karşılaştırıldığında küçük bir miktardır"
+    },
+    "highlights": {
+      "hotelDiscounts": {
+        "title": "Otel Fiyatlarında %50 ila %75 İndirim ve Daha Fazlasını Alın",
+        "description": "Dünya çapında 1.145.000 otelde temel oda fiyatlarında %50 ila %75'ten fazla tasarruf edin. Araç kiralama şirketlerinden de indirim alabilirsiniz"
+      },
+      "subscribeToday": {
+        "title": "Bugün Abone Olun",
+        "description": "Temel oda fiyatlarında %75'e varan indirimler alın. Otel indirimleri... Dünya çapında 1.145.000 otelde otel fiyatlarında %50 ila %75 indirim"
+      },
+      "feelComfortable": {
+        "title": "İndirimin %50'den Fazla ve %75'e Kadar Olduğunu Bilmek Sizi Rahat Hissettirecek",
+        "description": "Dünya çapında 1.145.000 otelde temel oda fiyatlarında, tüm gezginler tarafından bilinen uluslararası ünlü oteller ve gezgin ihtiyaçlarına göre çeşitli seviyelerde ve hizmet kalitesinde dünya çapında yeni inşa edilmiş oteller dahil"
+      },
+      "carRental": {
+        "title": "Uluslararası Araç Kiralama Şirketlerinde İndirimler",
+        "description": "Arabian Eagle International üyelik sahipleri, dünya çapında birkaç uluslararası araç kiralama şirketinden özel indirimli fiyatlardan yararlanır"
+      }
+    },
+    "tabs": {
+      "newMember": "Yeni Üye",
+      "partner": "Banka/Ortak Kartı",
+      "mobile": "Mobil Kayıt"
+    },
+    "form": {
+      "userId": "Kullanıcı Kimliği",
+      "password": "Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "email": "E-posta",
+      "phone": "Telefon Numarası",
+      "fullName": "Tam Ad",
+      "rememberMe": "Beni hatırla",
+      "forgotPassword": "Şifremi unuttum",
+      "submit": "Hesap Oluştur",
+      "login": "Mevcut Hesaba Giriş Yap"
+    },
+    "benefits": {
+      "title": "Üye Avantajları",
+      "access": "Tam avantaj ayrıntılarına erişin",
+      "save": "Bugün tasarruf etmeye başlayın",
+      "exclusive": "Özel üye ayrıcalıkları"
+    },
+    "faq": {
+      "title": "Sık Sorulan Sorular",
+      "partner": {
+        "q1": {
+          "question": "Arabian Eagle ortak programına katılmanın maliyeti ve faydaları nelerdir?",
+          "answer": "Aslında, şirketinizin Arabian Eagle International ortaklık programına katılması için önceden mali maliyet yoktur. Yapmanız gereken tek şey, web sitesindeki formu doldurmak, işiniz ve Arabian Eagle International üyelerine sunabileceğiniz özel hizmetler ve ayrıcalıklar hakkında çeşitli soruları yanıtlamak ve ardından gönder düğmesine tıklamaktır"
+        },
+        "q2": {
+          "question": "Arabian Eagle International sizin için ne yapacak?",
+          "answer": "Arabian Eagle International'a katıldıktan sonra, şirketiniz otomatik olarak turizm rehberinde tam ayrıntılarla kayıt edilecek ve adınız tüm üyelere çeşitli kartlarını kullanabilecekleri yeni bir şirket olarak dağıtılacaktır. Aynı zamanda, seyahat danışmanlığı listelerine dahil edileceksiniz"
+        }
+      }
+    }
   },
   "contact": {
     "title": "Dünya Çapındaki Ofislerimiz",
@@ -131,20 +454,202 @@
       "subject": "Konu",
       "message": "Mesaj",
       "submit": "Mesaj Gönder"
+    },
+    "info": {
+      "email": "E-posta Adresi",
+      "phone": "Telefon Numarası",
+      "whatsapp": "WhatsApp",
+      "address": "Ofis Adresi"
+    },
+    "usaHotline": {
+      "title": "Sadece ABD Üyeleri İçin",
+      "number": "+1 305 371 0000"
+    },
+    "officesTitle": "Ofis Adreslerimiz",
+    "offices": {
+      "jeddah": {
+        "name": "Cidde Ofisi",
+        "address": "Al-Siteen Caddesi - Al-Darajah Meydanı - Al-Awwad Merkezi - 3. Kat - 301",
+        "poBox": "7517",
+        "zip": "21472",
+        "tel": "+966 2 674 0950",
+        "fax": "+966 2 672 4222",
+        "mobile": "+966 54 201 20 40",
+        "email": "jeddah@ae4net.net",
+        "registry": "40 30 20 4932",
+        "established": "1988"
+      },
+      "kuwait": {
+        "name": "Kuveyt Ofisi",
+        "address": "Al-Manjaf - Fahaheel - Bölge 4 - Cadde 26",
+        "poBox": "7512",
+        "zip": "64006",
+        "tel": "+965 372 5180",
+        "fax": "+956 371 3669",
+        "mobile": "+965 99 38 1301",
+        "email": "kuwait@ae4net.net",
+        "registry": "752852",
+        "established": "1998"
+      },
+      "beirut": {
+        "name": "Beyrut Ofisi",
+        "address": "Bashara El Khoury Caddesi - Ras El Nabaa - Greater Beirut Merkezi - 8. Kat",
+        "poBox": "155-600",
+        "tel": "+961 1 648 262",
+        "fax": "+961 1 648 216",
+        "email": "beirut@ae4net.net",
+        "registry": "77304/24",
+        "established": "2000"
+      }
+    },
+    "directLines": {
+      "title": "Cidde'deki Ana Ofise Doğrudan Hat",
+      "kuwaitLabel": "Kuveyt Ofisi",
+      "kuwait": "+965 99 38 1301",
+      "uaeLabel": "BAE Ofisi",
+      "uae": "+971 566 041 043",
+      "egyptLabel": "Mısır",
+      "egypt": "+20 111 660 68 01",
+      "philippinesLabel": "Filipinler",
+      "philippines": "+63 9179 37 37 37"
+    },
+    "agents": {
+      "title": "Turizm Hizmetleri Temsilcilerimiz",
+      "singapore": {
+        "name": "Singapur Ana Rezervasyon Ofisi",
+        "company": "AT Reservation Pte Ltd",
+        "address": "22, Cavenagh Road/Orchard Road, #01-21 Hotel Grand Central, Singapore 229617",
+        "tel": "(65) 6235 2498, 6235 6426",
+        "fax": "(65) 6235 7620",
+        "license": "01148"
+      },
+      "hongKong": {
+        "name": "Hong Kong",
+        "company": "Asia Travel Network Ltd",
+        "address": "Rm 7A, No 6, Knutsford Terrace, Tsimshatsui, Kowloon, Hongkong",
+        "tel": "(852) 2736 0922",
+        "fax": "(852) 2405 0922",
+        "license": "352156"
+      },
+      "guangzhou": {
+        "name": "Guangzhou",
+        "address": "218 Sky Galleria, Citic Plaza, 233 Tianhe North Road, Guangzhou, China, PC 510613",
+        "hours": "Pzt-Cmt (0900-1900), Paz (1200-1600)"
+      },
+      "beijing": {
+        "name": "Pekin",
+        "address": "Jianwai Soho, Block A, #19-05, 39 East Third Ring Road, Chaoyang District Beijing, Beijing, China, PC 100022",
+        "hours": "Pzt-Cum (0900-1800), Cmt (0900-1300)"
+      },
+      "thailand": {
+        "name": "Tayland",
+        "company": "AT Network Co. Ltd.",
+        "address": "Lumpini Tower, 1168/44 18th Floor, Rama 4 Road, Tungmahamek, Sathorn Bangkok 10120, Thailand",
+        "tel": "(662) 677 6240-5, 679 7185, 679 7187",
+        "fax": "(662) 677 6246-7",
+        "license": "11/1921"
+      },
+      "malaysia": {
+        "name": "Malezya",
+        "company": "Asiatravel Online Sdn Bhd",
+        "address": "148-03, 3rd Floor, Jln Bukit Bintang, 55100 Kuala Lumpur",
+        "tel": "603 - 2143 6555",
+        "fax": "603 - 2143 6558"
+      },
+      "philippinesManila": {
+        "name": "Filipinler",
+        "company": "AT Phil., Inc",
+        "address": "G/F, Edgardo Angara Wing, IBP Bldg., Jade Street, Ortigas Center, Pasig City, Metro Manila 1605 Philippines",
+        "tel": "(632)634-4220/40/60, (632) 635-5099",
+        "fax": "(632) 635-6699, 910-4206",
+        "license": "TO-154-2004"
+      },
+      "philippinesCebu": {
+        "name": "Filipinler Cebu Şubesi",
+        "address": "Lobby, Waterfront Airport Hotel, 1 Airport Road, Lapu-Lapu City, Cebu, Philippines",
+        "tel": "(6332) 341-20-35",
+        "fax": "(6332) 341-20-36"
+      },
+      "shanghai": {
+        "name": "Çin",
+        "company": "Asia Travel Shanghai Office",
+        "address": "333 Jui Jiang Road, 17th Floor, Finance Square Building, Shanghai 200001, China",
+        "tel": "(86-21) 6322 3855",
+        "fax": "(86-21) 6322 9542, 63600967"
+      },
+      "indochina": {
+        "name": "Hindiçini",
+        "company": "AT Network Co. Ltd.",
+        "address": "Lumpini Tower, 1168/44 18th Floor, Rama 4 Road, Tungmahamek, Sathorn Bangkok 10120, Thailand",
+        "tel": "(662) 677 6240-5, 679 7185, 679 7187",
+        "fax": "(662) 677 6246-7",
+        "license": "11/1921"
+      },
+      "dubai": {
+        "name": "Dubai",
+        "company": "Asia Middle East Tours LLC",
+        "address": "Shop Numbers: WB21, WB22, WB23, (Basement 1/Tourist Village) Musalla Tower Mall, Bank Street, Bur Dubai, P.O. Box 112758 Dubai, United Arab Emirates",
+        "tel": "+971 566 041 043",
+        "license": "549563"
+      }
     }
   },
   "hotels": {
     "title": "Otel odası fiyatları talep edin",
     "subtitle": "Lütfen aşağıdaki bilgileri girin",
+    "personalInfo": "Kişisel Bilgiler",
+    "hotelInfo": "Gerekli otel bilgileri",
+    "travelDate": "Seyahat Tarihi",
+    "form": {
+      "email": "E-posta",
+      "gender": "Cinsiyet",
+      "male": "Erkek",
+      "female": "Kadın",
+      "title": "Unvan",
+      "titleOptions": {
+        "mr": "Bay",
+        "mrs": "Bayan",
+        "miss": "Bayan",
+        "drMd": "Dr. - MD",
+        "drPhd": "Dr. - PHD",
+        "engineer": "Mühendis"
+      },
+      "firstName": "İsim",
+      "familyName": "Soyisim",
+      "nationality": "Uyruk",
+      "mobile": "Mobil",
+      "hotelName": "Otel adı",
+      "or": "VEYA",
+      "city": "Şehir",
+      "country": "Ülke",
+      "from": "Başlangıç (Varış)",
+      "to": "Bitiş (Ayrılış)",
+      "priceRange": "Fiyat Aralığı",
+      "currency": "Para Birimini Güncelle",
+      "starRating": "Yıldız Derecesi",
+      "hotelType": "Otel Türü",
+      "apartment": "Apart",
+      "hotel": "Otel",
+      "resort": "Tatil Köyü",
+      "submit": "İsteği Gönder",
+      "required": "Zorunlu alan",
+      "pleaseChoose": "Lütfen seçin..."
+    },
     "discount": "%75'e varan İNDİRİM"
   },
   "deals": {
     "title": "Tatil Süper Tasarrufu",
-    "subtitle": "Üyelerimize özel fırsatlar"
+    "subtitle": "Üyelerimize özel fırsatlar",
+    "filters": {
+      "destination": "Hedef",
+      "travelType": "Seyahat Türü",
+      "season": "Sezon"
+    }
   },
   "experiences": {
     "title": "Seyahat Deneyimleri",
-    "subtitle": "Üyelerimizden hikayeler"
+    "subtitle": "Üyelerimizden hikayeler",
+    "shareYours": "Hikayenizi Paylaşın"
   },
   "footer": {
     "about": "Hakkımızda",

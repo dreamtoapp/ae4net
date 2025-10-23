@@ -1,4 +1,8 @@
-{
+const fs = require('fs');
+const path = require('path');
+
+// Complete German translation
+const de = {
   "common": {
     "brand": "Arabian Eagle International",
     "tagline": "Reisen leichter gemacht",
@@ -662,4 +666,12 @@
     },
     "social": "Folgen Sie uns"
   }
-}
+};
+
+const outputPath = path.join(__dirname, '..', 'messages', 'de.json');
+fs.writeFileSync(outputPath, JSON.stringify(de, null, 2), 'utf8');
+console.log('✅ German translation file created successfully!');
+console.log(`📁 Location: ${outputPath}`);
+console.log(`📊 Total keys: ${JSON.stringify(de).match(/:/g).length}`);
+
+
